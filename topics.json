@@ -1,0 +1,35 @@
+{
+ "category": {
+  "5·10년 공공임대": "lease510",
+  "공공분양": "sale",
+  "국민임대": "national",
+  "기타 공공임대": "other",
+  "매입·전세임대": "purchase",
+  "무순위": "muns",
+  "불법행위 재공급": "resupply",
+  "영구임대": "permanent",
+  "장기전세": "jeonse",
+  "통합공공임대": "integrated",
+  "행복주택": "happy"
+ },
+ "format": "{sido}_{category}",
+ "sido": {
+  "강원": "gangwon",
+  "경기": "gyeonggi",
+  "경남": "gyeongnam",
+  "경북": "gyeongbuk",
+  "광주": "gwangju",
+  "대구": "daegu",
+  "대전": "daejeon",
+  "부산": "busan",
+  "서울": "seoul",
+  "세종": "sejong",
+  "울산": "ulsan",
+  "인천": "incheon",
+  "전남": "jeonnam",
+  "전북": "jeonbuk",
+  "제주": "jeju",
+  "충남": "chungnam",
+  "충북": "chungbuk"
+ }
+}
