@@ -1,0 +1,37 @@
+rules_version = '2';
+// 로또청약 알리미 Firestore 보안 규칙 (docs/모바일앱_설계.md 3장)
+// 서버(collector)는 관리자 권한이라 이 규칙과 상관없이 읽고 쓴다.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 공고: 누구나 읽기, 쓰기는 서버만
+    match /notices/{noticeId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 사용자 문서: 본인만
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      match /devices/{token} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+      match /watchlist/{noticeId} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+      // 알림함: 읽기와 '읽음' 표시만
+      match /inbox/{noticeId} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow update: if request.auth != null && request.auth.uid == uid
+                      && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']);
+        allow create, delete: if false;
+      }
+    }
+
+    // 서버 전용
+    match /outbox/{id} { allow read, write: if false; }
+    match /system/{id} { allow read, write: if false; }
+    match /cache/{id}  { allow read, write: if false; }
+  }
+}

@@ -1,0 +1,84 @@
+# 10분마다 청약홈·마이홈 공고 수집 → gh-pages 브랜치에 JSON 게시 → 새 공고 FCM 토픽 발송
+# 설정 방법: server/GITHUB_SETUP.md
+name: collect
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # UTC 기준이지만 10분 간격이라 상관없음 (GitHub 사정으로 몇 분 늦을 수 있음)
+  workflow_dispatch: {}      # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write            # gh-pages 브랜치에 커밋
+
+concurrency:
+  group: collect             # 이전 실행이 끝나기 전에 겹쳐 돌지 않게
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Seoul         # 공고 일정 계산은 한국 시간 기준
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 게시 브랜치(gh-pages) 가져오기
+        id: site
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+        continue-on-error: true   # 첫 실행에는 브랜치가 없다
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 패키지 설치
+        run: pip install --quiet firebase-admin
+
+      - name: 시세 캐시 복원
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/cache.db
+          key: trades-${{ github.run_id }}
+          restore-keys: trades-
+
+      - name: 수집·발송
+        run: python -m server.github_run --site site --cache .cache/cache.db
+        env:
+          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          ADMIN_TELEGRAM_BOT_TOKEN: ${{ secrets.ADMIN_TELEGRAM_BOT_TOKEN }}
+          ADMIN_TELEGRAM_CHAT_ID: ${{ secrets.ADMIN_TELEGRAM_CHAT_ID }}
+
+      - name: 시세 캐시 저장
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/cache.db
+          key: trades-${{ github.run_id }}
+
+      - name: gh-pages에 게시
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_CHECKOUT: ${{ steps.site.outcome }}
+        run: |
+          cd site
+          if [ "$SITE_CHECKOUT" != "success" ]; then rm -rf .git; fi   # 첫 실행: 실패한 checkout 흔적 제거
+          if [ ! -d .git ]; then
+            git init -q -b gh-pages
+            git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          fi
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -q -m "data: $(date '+%Y-%m-%d %H:%M')"
+          git push -q origin HEAD:gh-pages

@@ -1,0 +1,12 @@
+# 빌드 때 클라우드로 올라가지 않게 (키·개인 데이터·빌드 결과물)
+.env
+_secrets.py
+config.json
+data/
+release/
+dist/
+build/
+docs/
+*.db
+*.log
+__pycache__/
