@@ -216,6 +216,8 @@ def collect_all(store, env, now):
     """모든 소스 수집 → (새 공고 목록, 소스별 상태). 한 소스가 실패해도 다른 소스는 계속."""
     # 붙여 넣을 때 섞인 공백·줄바꿈, 인코딩된 키(%2B 등)를 모두 원래 키로 맞춘다
     key = urllib.parse.unquote(env["DATA_GO_KR_KEY"].strip())
+    # 키 등록 실수 확인용: 길이와 해시 앞 8자리만 남긴다 (키 자체는 알아낼 수 없음)
+    log.info("인증키 확인: 길이 %d, 지문 %s", len(key), hashlib.sha256(key.encode()).hexdigest()[:8])
     new, status = [], {}
     for name, collect in SOURCES:
         try:
