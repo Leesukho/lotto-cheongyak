@@ -5,7 +5,12 @@ name: collect
 on:
   schedule:
     - cron: "*/10 * * * *"   # UTC 기준이지만 10분 간격이라 상관없음 (GitHub 사정으로 몇 분 늦을 수 있음)
-  workflow_dispatch: {}      # Actions 탭에서 수동 실행
+  workflow_dispatch:         # Actions 탭에서 수동 실행
+    inputs:
+      resend:
+        description: "푸시 시험: 다시 보낼 공고 id (예: AH_2026910281_2026910281). 비우면 평소처럼 수집"
+        required: false
+        default: ""
 
 permissions:
   contents: write            # gh-pages 브랜치에 커밋
@@ -53,6 +58,7 @@ jobs:
           FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
           ADMIN_TELEGRAM_BOT_TOKEN: ${{ secrets.ADMIN_TELEGRAM_BOT_TOKEN }}
           ADMIN_TELEGRAM_CHAT_ID: ${{ secrets.ADMIN_TELEGRAM_CHAT_ID }}
+          RESEND_ID: ${{ github.event.inputs.resend }}
 
       - name: 시세 캐시 저장
         if: always()

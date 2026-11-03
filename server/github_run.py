@@ -159,6 +159,16 @@ def main():
     store = GitHubStore(args.site, args.cache)
     sender = FcmTopicSender(env["FCM_SERVICE_ACCOUNT"]) if env.get("FCM_SERVICE_ACCOUNT") else ConsoleTopicSender()
 
+    resend = (env.get("RESEND_ID") or "").strip()
+    if resend:  # 푸시 시험: 이미 게시된 공고 하나를 그 토픽으로 다시 보낸다 (수집은 하지 않음)
+        doc = store.notices.get(resend)
+        if not doc:
+            raise SystemExit(f"공고를 찾지 못했습니다: {resend} (notices.json의 id)")
+        for topic in topics.topics_for(doc):
+            sender.send(topic, topic_data(doc))
+        log.info("재발송 완료: %s %s", resend, doc["title"])
+        return
+
     new, status = collector.collect_all(store, env, now)
     sent = failed = 0
     for doc in new:
