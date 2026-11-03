@@ -1,18 +1,20 @@
 {
- "lastPublished": "2026-11-03T22:46:51",
- "lastRun": "2026-11-03T22:46:51",
+ "lastPublished": "2026-11-03T22:50:18",
+ "lastRun": "2026-11-03T22:50:18",
  "newNotices": 0,
- "noticeCount": 0,
+ "noticeCount": 86,
  "sources": {
   "applyhome": {
-   "error": "HTTP 401: {\"code\":-4,\"msg\":\"등록되지 않은 인증키 입니다.\"} ",
-   "fails": 2,
-   "ok": false
+   "count": 100,
+   "new": 0,
+   "ok": true,
+   "skipped": false
   },
   "myhome": {
-   "error": "HTTP 403: {   \"OpenAPI_ServiceResponse\": {     \"cmmMsgHeader\": {       \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",       \"returnAuthMsg\": \"등록되지 않은 서비스키\",       \"returnReasonCode\": \"30\"     }   } ",
-   "fails": 2,
-   "ok": false
+   "count": 52,
+   "new": 0,
+   "ok": true,
+   "skipped": false
   }
  },
  "topicMessages": 0

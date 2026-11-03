@@ -1,1 +1,3854 @@
-[]
+[
+ {
+  "address": "경기도 남양주시 화도읍 마석우리 295-32번지 일원",
+  "agency": "(주)에코월드이엔씨",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-02",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "8a385a7fc286acad",
+  "id": "AH_2026910281_2026910281",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910281&pblancNo=2026910281",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910281&pblancNo=2026910281&atchmnflSeqNo=2010088&atchmnflSn=4"
+  },
+  "maxGapManwon": -5058,
+  "rawHash": "0f81d12a076dcfff",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "남양주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "빌리브센트하이(2차)",
+  "totalUnits": 5,
+  "units": [
+   {
+    "area_m2": 84.976,
+    "count_general": 4,
+    "count_special": 0,
+    "gap_manwon": -5058,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 62642,
+    "name": "084.9760B",
+    "price_manwon": 67700
+   },
+   {
+    "area_m2": 98.985,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -6632,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 71568,
+    "name": "098.9850B",
+    "price_manwon": 78200
+   }
+  ]
+ },
+ {
+  "address": "충청남도 공주시 관골2길 24-5 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-02",
+   "applyEnd": "2026-11-18",
+   "applyStart": "2026-11-16",
+   "winner": "2026-12-30"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "88ba07da3c8c9b41",
+  "id": "MH_공공임대_21495",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21495&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020962&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sidos": [
+   "충남"
+  ],
+  "sigungu": "공주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "공주시(덕성그린시티빌,신한1차) 국민임대 자격완화 입주자 모집공고(26.11.02)",
+  "totalUnits": 170,
+  "units": [
+   {
+    "address": "충청남도 공주시 관골2길 24-5 ",
+    "count": 120,
+    "deposit_won": 5237000,
+    "name": "공주덕성그린시티빌",
+    "rent_won": 91780,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "공주시"
+   },
+   {
+    "address": "충청남도 공주시 의당면 연수원길 115-21 ",
+    "count": 50,
+    "deposit_won": 10212000,
+    "name": "공주신한1차",
+    "rent_won": 85750,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "공주시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 오산시 송로 11 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-02",
+   "applyEnd": "2026-11-18",
+   "applyStart": "2026-11-16",
+   "winner": "2027-02-23"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "c92a78707a12b815",
+  "id": "MH_공공임대_21494",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21494&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020896&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "오산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "오산세교2 7단지(A-6BL) 영구임대 입주자격완화(소득150%완화) 예비입주자 모집공고(2026.11.02)",
+  "totalUnits": 80,
+  "units": [
+   {
+    "address": "경기도 오산시 송로 11 ",
+    "count": 80,
+    "deposit_won": 2705000,
+    "name": "오산세교2 7단지(A-6BL)",
+    "rent_won": 53890,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "오산시"
+   }
+  ]
+ },
+ {
+  "address": "경상북도 영천시 충효로 39 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-02",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-27"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "b8ace8025022480e",
+  "id": "MH_공공분양_1500",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1500&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020994&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "영천시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "영천문외 센트럴타운 공가세대 일반매각 공고",
+  "totalUnits": 70,
+  "units": [
+   {
+    "address": "경상북도 영천시 충효로 39 ",
+    "count": 70,
+    "deposit_won": null,
+    "name": "영천문외 센트럴타운",
+    "rent_won": null,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "영천시"
+   }
+  ]
+ },
+ {
+  "address": "강원특별자치도 평창군 용평면 새이들길 23 ",
+  "agency": "LH",
+  "category": "통합공공임대",
+  "dates": {
+   "announce": "2026-10-30",
+   "applyEnd": "2026-11-20",
+   "applyStart": "2026-11-16",
+   "winner": "2027-04-09"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "fa9b93edd8bd54c0",
+  "id": "MH_공공임대_21493",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21493&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020992&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=48&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "평창군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "평창장평 통합공공임대주택(일반형) 입주자 모집",
+  "totalUnits": 32,
+  "units": [
+   {
+    "address": "강원특별자치도 평창군 용평면 새이들길 23 ",
+    "count": 32,
+    "deposit_won": 5982000,
+    "name": "평창장평",
+    "rent_won": 92590,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "평창군"
+   }
+  ]
+ },
+ {
+  "address": "강원특별자치도 평창군 용평면 새이들길 23 ",
+  "agency": "LH",
+  "category": "통합공공임대",
+  "dates": {
+   "announce": "2026-10-30",
+   "applyEnd": "2026-11-20",
+   "applyStart": "2026-11-16",
+   "winner": "2027-04-09"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "b87c935743321d67",
+  "id": "MH_공공임대_21492",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21492&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020993&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=48&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "평창군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "평창장평 통합공공임대주택(고령자복지형) 입주자 모집",
+  "totalUnits": 36,
+  "units": [
+   {
+    "address": "강원특별자치도 평창군 용평면 새이들길 23 ",
+    "count": 36,
+    "deposit_won": 5982000,
+    "name": "평창장평",
+    "rent_won": 92590,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "평창군"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 서해구 행복2로 30 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-30",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "7b47663021b86869",
+  "id": "MH_공공분양_1499",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1499&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061197&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "서해구",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "인천가정2 A-2블록 신혼희망타운(공공분양) 잔여세대 추가 입주자모집공고",
+  "totalUnits": 9,
+  "units": [
+   {
+    "address": "인천광역시 서해구 행복2로 30 ",
+    "count": 9,
+    "deposit_won": null,
+    "name": "인천가정2지구 A-2블록",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "서해구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 동구 무등로 373",
+  "agency": "계림4구역 주택재개발정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-03",
+   "applyStart": "2026-11-03",
+   "winner": "2026-11-06"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "9ba5f5c6d6d909f5",
+  "id": "AH_2026910267_2026910267",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910267&pblancNo=2026910267",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910267&pblancNo=2026910267&atchmnflSeqNo=2002235&atchmnflSn=1"
+  },
+  "maxGapManwon": -15000,
+  "rawHash": "a8a6ae33636ca039",
+  "sido": "광주",
+  "sidoFull": "전남광주통합특별시",
+  "sigungu": "동구",
+  "source": "applyhome",
+  "status": "",
+  "title": "교대역 모아엘가 그랑데",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 59.7791,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -15000,
+    "market_basis": "동구 신축 유사평형",
+    "market_count": 117,
+    "market_manwon": 35300,
+    "name": "059.7791B",
+    "price_manwon": 50300
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-11-10",
+   "winner": "2026-11-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "73ef47440a1dfc33",
+  "id": "MH_공공임대_21491",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020972&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sidos": [
+   "부산"
+  ],
+  "sigungu": "금정구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
+  "totalUnits": 52,
+  "units": [
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "부산광역시 금정구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "금정구"
+   },
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "부산광역시 해운대구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "해운대구"
+   },
+   {
+    "address": "",
+    "count": 25,
+    "deposit_won": null,
+    "name": "부산광역시 수영구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "수영구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 담양군 담양읍 삼만리 1241 ",
+  "agency": "LH",
+  "category": "통합공공임대",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-13",
+   "winner": "2027-02-18"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "f5440ff2e1392b6a",
+  "id": "MH_공공임대_21488",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21488&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020905&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=48&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "담양군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "담양삼만 통합공공임대(일자리연계형 지원주택) 입주자 추가 모집(2026.10.29. 공고)",
+  "totalUnits": 87,
+  "units": [
+   {
+    "address": "전남광주통합특별시 담양군 담양읍 삼만리 1241 ",
+    "count": 87,
+    "deposit_won": 8545000,
+    "name": "담양삼만",
+    "rent_won": 93890,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "담양군"
+   }
+  ]
+ },
+ {
+  "address": "울산광역시 북구 화산로 140 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-18",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-20"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "295db343317dfaab",
+  "id": "MH_공공임대_21487",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21487&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061193&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "울산",
+  "sidoFull": "울산광역시",
+  "sidos": [
+   "울산"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "울산 송정하우스디(B3블럭) 10년 공공임대리츠 예비입주자 모집공고",
+  "totalUnits": 35,
+  "units": [
+   {
+    "address": "울산광역시 북구 화산로 140 ",
+    "count": 35,
+    "deposit_won": 60464000,
+    "name": "송정하우스디",
+    "rent_won": 681590,
+    "sido": "울산",
+    "sidoFull": "울산광역시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-11",
+   "applyStart": "2026-11-09",
+   "winner": "2027-01-14"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "c4a37ef7dc4de298",
+  "id": "MH_공공임대_21486",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020965&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "청주시 흥덕구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
+  "totalUnits": 28,
+  "units": [
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "충청북도 청주시 흥덕구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 흥덕구"
+   },
+   {
+    "address": "",
+    "count": 19,
+    "deposit_won": null,
+    "name": "충청북도 청주시 상당구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 상당구"
+   },
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
+   }
+  ]
+ },
+ {
+  "address": "충청북도 제천시 청풍호로2다길 8 충청북도 제천시 영천동 999-2",
+  "agency": "충북개발공사",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-29",
+   "applyEnd": "2026-11-19",
+   "applyStart": "2026-11-09",
+   "winner": "2027-02-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "3fe91384b913afb9",
+  "id": "MH_공공임대_21477",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21477&houseSn=1",
+   "pdf": "https://www.cbdc.co.kr/zboard/read.do?searchWrd=&pageIndex=1&lmCode=BBSMSTR_000000000028&searchCnd=&searchCate1=&pd_pkid=7801"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "제천시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "제천 영천동 행복주택 추가(예비)입주자 모집공고",
+  "totalUnits": null,
+  "units": [
+   {
+    "address": "충청북도 제천시 청풍호로2다길 8 충청북도 제천시 영천동 999-2",
+    "count": null,
+    "deposit_won": 11430000,
+    "name": "제천 영천동 행복주택",
+    "rent_won": 91440,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "제천시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
+  "agency": "대방건설 주식회사",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-05"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "375c88d356620674",
+  "id": "AH_2026930043_2026930043",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930043&pblancNo=2026930043",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "c2018e14cbe1f1da",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "과천시",
+  "source": "applyhome",
+  "status": "",
+  "title": "과천 디에트르 퍼스티지(S2BL)",
+  "totalUnits": 2,
+  "units": []
+ },
+ {
+  "address": "인천광역시 미추홀구 숭의동 350-1번지 일원",
+  "agency": "숭의역2단지지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-05"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "bb0ffe824d406aaf",
+  "id": "AH_2026910278_2026910278",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910278&pblancNo=2026910278",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "afeef273f7e88d18",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "미추홀구",
+  "source": "applyhome",
+  "status": "",
+  "title": "숭의역 노르웨이숲 더 스카이",
+  "totalUnits": 13,
+  "units": []
+ },
+ {
+  "address": "경상북도 포항시 남구 동해면 블루동로2길 25 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-12-08",
+   "applyStart": "2026-11-10",
+   "winner": "2026-12-08"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "233cd088fd998bd7",
+  "id": "MH_공공임대_21485",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21485&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020963&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "포항시 남구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "포항블루밸리 행복주택 입주자모집(3개월분 임대료 면제, 선착순 동호지정)",
+  "totalUnits": 178,
+  "units": [
+   {
+    "address": "경상북도 포항시 남구 동해면 블루동로2길 25 ",
+    "count": 178,
+    "deposit_won": 12614000,
+    "name": "포항블루밸리",
+    "rent_won": 57810,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "포항시 남구"
+   }
+  ]
+ },
+ {
+  "address": "경기도 과천시 갈현동 579-5 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-11-10",
+   "winner": "2027-03-24"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "b3b3de02a495e1df",
+  "id": "MH_공공임대_21483",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21483&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020960&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "과천시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "과천지식정보타운 S12블록 행복주택 입주자 모집공고",
+  "totalUnits": 1424,
+  "units": [
+   {
+    "address": "경기도 과천시 갈현동 579-5 ",
+    "count": 1424,
+    "deposit_won": 51600000,
+    "name": "과천지식정보타운 S12블록",
+    "rent_won": 206400,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "과천시"
+   }
+  ]
+ },
+ {
+  "address": "서울특별시 영등포구 버드나루로 112 ",
+  "agency": "한국자산관리공사",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-03-05"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "f1b03ec413fe8c72",
+  "id": "MH_공공임대_21471",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21471&houseSn=1",
+   "pdf": "https://www.kohom.or.kr/web/mainComm/HM001002002.do?mode=view&p_idx=16068"
+  },
+  "maxGapManwon": null,
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sidos": [
+   "서울"
+  ],
+  "sigungu": "영등포구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "나라키움영등포복합청사 예비입주자 모집공고(21형)",
+  "totalUnits": null,
+  "units": [
+   {
+    "address": "서울특별시 영등포구 버드나루로 112 ",
+    "count": null,
+    "deposit_won": 46500000,
+    "name": "나라키움영등포복합청사 행복주택",
+    "rent_won": 225000,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "영등포구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-28",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2026-12-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "0e4412668d5e7d87",
+  "id": "MH_공공임대_21470",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21470",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020944&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "경남 창원시 일반 매입임대주택 예비입주자 모집 공고",
+  "totalUnits": 401,
+  "units": [
+   {
+    "address": "",
+    "count": 401,
+    "deposit_won": null,
+    "name": "경상남도",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": ""
+   }
+  ]
+ },
+ {
+  "address": "경기도 성남시 분당구 정자동 90번지",
+  "agency": "느티마을4단지 리모델링주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-05"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "8844b2deb63b106b",
+  "id": "AH_2026910275_2026910275",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910275&pblancNo=2026910275",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "1c8cf910ded29a12",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "성남시",
+  "source": "applyhome",
+  "status": "",
+  "title": "더샵 분당하이스트",
+  "totalUnits": 58,
+  "units": []
+ },
+ {
+  "address": "전남광주통합특별시 남구 서문대로809번길 22 ",
+  "agency": "광주광역시도시공사",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-06",
+   "applyStart": "2026-11-03",
+   "winner": "2027-02-24"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "7dcd159d023b55ce",
+  "id": "MH_공공임대_21482",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21482&houseSn=1",
+   "pdf": "https://www.gmcc.co.kr/board.es?mid=a10402000000&bid=0018&act=view&list_no=19515"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "남구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "주월빛여울채 예비입주자 모집공고",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "전남광주통합특별시 남구 서문대로809번길 22 ",
+    "count": 100,
+    "deposit_won": 2946000,
+    "name": "주월빛여울채",
+    "rent_won": 58600,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "남구"
+   }
+  ]
+ },
+ {
+  "address": "경기도 화성시 동탄구 동탄영천로 108-21 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-11-10",
+   "winner": "2026-12-09"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "95adbc71a87371f2",
+  "id": "MH_공공임대_21480",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21480&houseSn=4",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020958&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "화성시 동탄구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "화성시 동탄지역 행복주택 입주자 모집 공고[입주자격완화/선계약후검증](‘26.10.27.)",
+  "totalUnits": 861,
+  "units": [
+   {
+    "address": "경기도 화성시 동탄구 동탄영천로 108-21 ",
+    "count": 170,
+    "deposit_won": 21080000,
+    "name": "A4-1블록(2단지)",
+    "rent_won": 89590,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄신리천로5길 90 ",
+    "count": 96,
+    "deposit_won": 25160000,
+    "name": "A53블록(38단지)",
+    "rent_won": 106930,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄신리천로5가길 35 ",
+    "count": 178,
+    "deposit_won": 25160000,
+    "name": "A54블록(38단지)",
+    "rent_won": 106930,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄신리천로8길 15 ",
+    "count": 101,
+    "deposit_won": 17680000,
+    "name": "A57-1블록(40단지)",
+    "rent_won": 75140,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄순환대로10길 42 ",
+    "count": 98,
+    "deposit_won": 26520000,
+    "name": "A77-1블록(35단지)",
+    "rent_won": 112710,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄순환대로2길 13 ",
+    "count": 66,
+    "deposit_won": 17340000,
+    "name": "A82블록(28단지)",
+    "rent_won": 73690,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄첨단산업1로 57 ",
+    "count": 21,
+    "deposit_won": 26860000,
+    "name": "지원6-2(1단지)",
+    "rent_won": 114150,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   },
+   {
+    "address": "경기도 화성시 동탄구 동탄기흥로277번길 12 ",
+    "count": 131,
+    "deposit_won": 16320000,
+    "name": "C26블록(26단지)",
+    "rent_won": 69360,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "화성시 동탄구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "4a03287e148e4366",
+  "id": "MH_공공임대_21479",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21479&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020979&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "광산구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주하남1 영구임대주택 그린리모델링 예비입주자 모집 공고(공고일 2026.10.27)",
+  "totalUnits": 10,
+  "units": [
+   {
+    "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+    "count": 10,
+    "deposit_won": 2801000,
+    "name": "광주하남",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "86d9f64f3d8a4401",
+  "id": "MH_공공임대_21478",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21478&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020980&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "광산구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주하남1 영구임대주택 예비입주자 모집공고(모집공고일:2026.10.27)",
+  "totalUnits": 20,
+  "units": [
+   {
+    "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+    "count": 20,
+    "deposit_won": 3328000,
+    "name": "광주하남",
+    "rent_won": 66210,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 중문로 55 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "b08b24396b6d5610",
+  "id": "MH_공공임대_21476",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21476&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020976&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주우산3 영구임대주택 예비입주자 모집 공고(모집공고일: 2026.10.27)",
+  "totalUnits": 30,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 중문로 55 ",
+    "count": 30,
+    "deposit_won": 3328000,
+    "name": "광주우산3",
+    "rent_won": 66210,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 서하로194번길 6 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "d17bf19a76493e45",
+  "id": "MH_공공임대_21475",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21475&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020978&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주오치1 영구임대주택 예비입주자 표준모집공고문(2026.10.27. 공고)",
+  "totalUnits": 150,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 서하로194번길 6 ",
+    "count": 150,
+    "deposit_won": 2801000,
+    "name": "광주 오치1",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 삼정로 7 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "273917ae84f437a2",
+  "id": "MH_공공임대_21473",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21473&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020977&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주두암2 영구임대주택 예비입주자 모집공고(모집공고일:2026.10.27)",
+  "totalUnits": 180,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 삼정로 7 ",
+    "count": 180,
+    "deposit_won": 2801000,
+    "name": "광주두암2",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 삼정로 10 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "846ee2f79c394e15",
+  "id": "MH_공공임대_21472",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21472&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020981&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "광주두암4 영구임대주택 예비입주자모집 공고(모집공고일 : 2026.10.27)",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 삼정로 10 ",
+    "count": 100,
+    "deposit_won": 2801000,
+    "name": "광주두암4",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "충청남도 홍성군 홍북읍 홍예로 163 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-11",
+   "applyStart": "2026-11-09",
+   "winner": "2027-02-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "475aa4a40c9c9b8c",
+  "id": "MH_공공임대_21468",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21468&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020932&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sidos": [
+   "충남"
+  ],
+  "sigungu": "홍성군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "도청이전신도시 RH10-2BL 국민임대주택 자격완화 추가모집(2026.10.27)",
+  "totalUnits": 101,
+  "units": [
+   {
+    "address": "충청남도 홍성군 홍북읍 홍예로 163 ",
+    "count": 101,
+    "deposit_won": 12440000,
+    "name": "도청이전신도시 RH10-2BL",
+    "rent_won": 177470,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "홍성군"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 선운로 65 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-11",
+   "applyStart": "2026-11-10",
+   "winner": "2026-11-17"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "adb8618e963ec1e5",
+  "id": "MH_공공임대_21467",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21467&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061188&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "광산구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주선운 3블록 10년 공공임대주택 리츠 예비입주자 모집 공고",
+  "totalUnits": 70,
+  "units": [
+   {
+    "address": "전남광주통합특별시 광산구 선운로 65 ",
+    "count": 70,
+    "deposit_won": 37780000,
+    "name": "광주선운 3블록",
+    "rent_won": 561300,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   }
+  ]
+ },
+ {
+  "address": "경기도 구리시 갈매동 산 14 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-11-10",
+   "winner": "2027-04-22"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "34e586a95722f329",
+  "id": "MH_공공임대_21466",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21466&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020936&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "구리시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "구리갈매역세권 A-1BL 신혼희망타운 행복주택 최초 입주자 모집공고(‘26.10.27)",
+  "totalUnits": 552,
+  "units": [
+   {
+    "address": "경기도 구리시 갈매동 산 14 ",
+    "count": 552,
+    "deposit_won": 143600000,
+    "name": "구리갈매역세권 A-1BL",
+    "rent_won": 598330,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "fd6c9ea347875e6c",
+  "id": "MH_공공임대_21465",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21465&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020971&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "광산구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주하남1 영구임대주택 그린리모델링 예비입주자 모집 공고(공고일 2026.10.27)",
+  "totalUnits": 10,
+  "units": [
+   {
+    "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+    "count": 10,
+    "deposit_won": 2801000,
+    "name": "광주하남",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-02",
+   "winner": "2027-01-15"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "a601fbf87385c092",
+  "id": "MH_공공임대_21464",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21464",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020928&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "의령군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "경남 의령군 화정면 다자녀 매입임대주택 예비입주자 모집공고",
+  "totalUnits": 1,
+  "units": [
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경상남도 의령군",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "의령군"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-02",
+   "winner": "2027-01-15"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "ed618ba0acb86827",
+  "id": "MH_공공임대_21463",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21463",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020933&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "거창군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "경남 거창군 신원면 다자녀 매입임대주택 예비입주자 모집공고",
+  "totalUnits": 1,
+  "units": [
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경상남도 거창군",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "거창군"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 중문로 55 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "2cfc985c49d516ee",
+  "id": "MH_공공임대_21462",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21462&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020966&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주우산3 영구임대주택 예비입주자 모집 공고(모집공고일: 2026.10.27)",
+  "totalUnits": 30,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 중문로 55 ",
+    "count": 30,
+    "deposit_won": 3328000,
+    "name": "광주우산3",
+    "rent_won": 66210,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 삼정로 10 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "c9b459a075909385",
+  "id": "MH_공공임대_21461",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21461&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020967&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주두암4 영구임대주택 예비입주자모집 공고(모집공고일 : 2026.10.27)",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 삼정로 10 ",
+    "count": 100,
+    "deposit_won": 2801000,
+    "name": "광주두암4",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 서하로194번길 6 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "6919bcce17af89f3",
+  "id": "MH_공공임대_21460",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21460&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020968&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주오치1 영구임대주택 예비입주자 표준모집공고문(2026.10.27. 공고)",
+  "totalUnits": 150,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 서하로194번길 6 ",
+    "count": 150,
+    "deposit_won": 2801000,
+    "name": "광주 오치1",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 북구 삼정로 7 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "25a425962b91a5c4",
+  "id": "MH_공공임대_21459",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21459&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020969&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주두암2 영구임대주택 예비입주자 모집공고(모집공고일:2026.10.27)",
+  "totalUnits": 180,
+  "units": [
+   {
+    "address": "전남광주통합특별시 북구 삼정로 7 ",
+    "count": 180,
+    "deposit_won": 2801000,
+    "name": "광주두암2",
+    "rent_won": 55750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-27",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-05-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "dddea407d4da6e98",
+  "id": "MH_공공임대_21458",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21458&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020970&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "광산구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "광주하남1 영구임대주택 예비입주자 모집공고(모집공고일:2026.10.27)",
+  "totalUnits": 20,
+  "units": [
+   {
+    "address": "전남광주통합특별시 광산구 월곡산정로 12 ",
+    "count": 20,
+    "deposit_won": 3328000,
+    "name": "광주하남",
+    "rent_won": 66210,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   }
+  ]
+ },
+ {
+  "address": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+  "agency": "(주)명일건설",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-26",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-05"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "ccb4c01c5e2d4f63",
+  "id": "AH_2026930042_2026930042",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930042&pblancNo=2026930042",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "1607b59f29e00159",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "파주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "파주 운정신도시 우미 린 더 센텀",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "경기도 수원시 권선구 서둔동 212-1번지 일원",
+  "agency": "삼환기업(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-26",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-06"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "47d7fad1a00efb3b",
+  "id": "AH_2026910269_2026910269",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910269&pblancNo=2026910269",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "b80be2e204747b5a",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "수원시",
+  "source": "applyhome",
+  "status": "",
+  "title": "화서역 호수공원 아너스빌",
+  "totalUnits": 169,
+  "units": []
+ },
+ {
+  "address": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+  "agency": "(주)명일건설",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-26",
+   "applyEnd": "2026-11-02",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-05"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "639a0a17f700af64",
+  "id": "AH_2026910257_2026910257",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910257&pblancNo=2026910257",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "92fc357d98523037",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "파주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "파주 운정신도시 우미 린 더 센텀",
+  "totalUnits": 2,
+  "units": []
+ },
+ {
+  "address": "전북특별자치도 김제시 요촌북로 110 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-26",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-01-28"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "2afd0e6115e6dd61",
+  "id": "MH_공공임대_21454",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21454&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020959&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "김제시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "김제검산 영구임대주택 입주자격완화 예비입주자 모집",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "전북특별자치도 김제시 요촌북로 110 ",
+    "count": 100,
+    "deposit_won": 2520000,
+    "name": "김제검산",
+    "rent_won": 50160,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "김제시"
+   }
+  ]
+ },
+ {
+  "address": "충청남도 아산시 순천향로 602 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-26",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-24",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "d9d1690fea2c937f",
+  "id": "MH_공공분양_1495",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1495&houseSn=2",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020961&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sidos": [
+   "충남"
+  ],
+  "sigungu": "아산시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "충남권(아산시, 보령시, 천안시, 공주시) 미분양매입 일반매각 잔여세대 선착순 동·호 지정 공고",
+  "totalUnits": 134,
+  "units": [
+   {
+    "address": "충청남도 아산시 순천향로 602 ",
+    "count": 69,
+    "deposit_won": null,
+    "name": "아산 엘크루",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
+   },
+   {
+    "address": "충청남도 아산시 신창면 행목로 217 ",
+    "count": 49,
+    "deposit_won": null,
+    "name": "아산 친오애",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
+   },
+   {
+    "address": "충청남도 천안시 동남구 중앙로 265-31 ",
+    "count": 5,
+    "deposit_won": null,
+    "name": "천안 청광플러스원",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 동남구"
+   },
+   {
+    "address": "충청남도 보령시 지장골길 160 ",
+    "count": 8,
+    "deposit_won": null,
+    "name": "보령 부경파크빌",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "보령시"
+   },
+   {
+    "address": "충청남도 공주시 원댕이길 8-8 ",
+    "count": 3,
+    "deposit_won": null,
+    "name": "공주 영우마을2차",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "공주시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 시흥시 거모동 1403-3 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-23",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "bc675e082edcae3c",
+  "id": "MH_공공분양_1496",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1496&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061195&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "시흥시",
+  "source": "myhome_sale",
+  "status": "정정공고",
+  "title": "[정정공고]시흥거모 S-1블록 공공분양주택 입주자모집공고",
+  "totalUnits": 300,
+  "units": [
+   {
+    "address": "경기도 시흥시 거모동 1403-3 ",
+    "count": 300,
+    "deposit_won": null,
+    "name": "시흥거모지구 S-1블록",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "시흥시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 시흥시 거모동 1403-3 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-23",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "48f2c4152694fba3",
+  "id": "MH_공공분양_1494",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1494&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061186&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "시흥시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
+  "totalUnits": 300,
+  "units": [
+   {
+    "address": "경기도 시흥시 거모동 1403-3 ",
+    "count": 300,
+    "deposit_won": null,
+    "name": "시흥거모지구 S-1블록",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "시흥시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 시흥시 하중동 442-2 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-23",
+   "applyEnd": "2026-11-03",
+   "applyStart": "2026-11-02",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "a257e330b43bdb4c",
+  "id": "MH_공공분양_1493",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1493&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061165&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "시흥시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "시흥하중 A1블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
+  "totalUnits": 179,
+  "units": [
+   {
+    "address": "경기도 시흥시 하중동 442-2 ",
+    "count": 179,
+    "deposit_won": null,
+    "name": "시흥하중지구 A1블록",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "시흥시"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 연수구 송도동 397-2",
+  "agency": "송도랜드마크시티 유한회사",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-10-28",
+   "applyStart": "2026-10-27",
+   "winner": "2026-11-02"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "9469f292248ff5b1",
+  "id": "AH_2026910271_2026910271",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910271&pblancNo=2026910271",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "8de32a46409bd550",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "연수구",
+  "source": "applyhome",
+  "status": "",
+  "title": "힐스테이트 레이크 송도 4차(2차)",
+  "totalUnits": 8,
+  "units": []
+ },
+ {
+  "address": "서울특별시 중구 중림동 157-2번지 일원",
+  "agency": "(주)이노디앤씨",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-10-27",
+   "applyStart": "2026-10-27",
+   "winner": "2026-11-02"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "3add03178878a6c2",
+  "id": "AH_2026910270_2026910270",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910270&pblancNo=2026910270",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "1a771779a6abca39",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "중구",
+  "source": "applyhome",
+  "status": "",
+  "title": "충정로역자이르네(2차)",
+  "totalUnits": 9,
+  "units": []
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-11-03",
+   "applyStart": "2026-11-03",
+   "winner": "2026-12-02"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "7c3d228111aa9131",
+  "id": "MH_공공임대_21448",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21448",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020945&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천",
+   "경기"
+  ],
+  "sigungu": "미추홀구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "[인천지역본부] 일반 매입임대주택 입주자 모집 공고(인천,부천)",
+  "totalUnits": 32,
+  "units": [
+   {
+    "address": "",
+    "count": 12,
+    "deposit_won": null,
+    "name": "인천광역시 미추홀구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "미추홀구"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경기도",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "인천광역시 서해구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "서해구"
+   },
+   {
+    "address": "",
+    "count": 2,
+    "deposit_won": null,
+    "name": "인천광역시 계양구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "계양구"
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "인천광역시 검단구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "검단구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-11-03",
+   "applyStart": "2026-11-03",
+   "winner": "2026-12-02"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "9f00a0e93cc8957f",
+  "id": "MH_공공임대_21447",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21447",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020931&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기",
+   "인천"
+  ],
+  "sigungu": "",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[인천지역본부] 일반 매입임대주택 입주자 모집 공고(인천,부천)",
+  "totalUnits": 32,
+  "units": [
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경기도",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "인천광역시 검단구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "검단구"
+   },
+   {
+    "address": "",
+    "count": 2,
+    "deposit_won": null,
+    "name": "인천광역시 계양구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "계양구"
+   },
+   {
+    "address": "",
+    "count": 12,
+    "deposit_won": null,
+    "name": "인천광역시 미추홀구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "미추홀구"
+   },
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "인천광역시 서해구",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "서해구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-11-04",
+   "applyStart": "2026-11-02",
+   "winner": "2026-12-10"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "43d86704129919f3",
+  "id": "MH_공공임대_21446",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21446",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020918&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "군산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[전북지역본부]2026년 2차 군산시 분양전환형 든든전세주택 입주자 모집 공고",
+  "totalUnits": 37,
+  "units": [
+   {
+    "address": "",
+    "count": 37,
+    "deposit_won": null,
+    "name": "전북특별자치도 군산시",
+    "rent_won": null,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "군산시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 구리시 갈매중앙로 25 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-11-04",
+   "applyStart": "2026-11-03",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "6c497a8995ef042e",
+  "id": "MH_공공임대_21444",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21444&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061190&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "구리시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "구리갈매 S1블록 10년공공임대주택 예비입주자 모집공고",
+  "totalUnits": 12,
+  "units": [
+   {
+    "address": "경기도 구리시 갈매중앙로 25 ",
+    "count": 12,
+    "deposit_won": 57636000,
+    "name": "구리갈매S1",
+    "rent_won": 565050,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
+   }
+  ]
+ },
+ {
+  "address": "제주특별자치도 서귀포시 신중로 46 ",
+  "agency": "제주특별자치도개발공사",
+  "category": "통합공공임대",
+  "dates": {
+   "announce": "2026-10-22",
+   "applyEnd": "2026-11-04",
+   "applyStart": "2026-11-03",
+   "winner": "2026-12-09"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "0cc59aa9ce74bcaa",
+  "id": "MH_공공임대_21442",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21442&houseSn=1",
+   "pdf": "https://www.jpdc.co.kr/open/news/notice.htm?act=view&seq=24224"
+  },
+  "maxGapManwon": null,
+  "sido": "제주",
+  "sidoFull": "제주특별자치도",
+  "sidos": [
+   "제주"
+  ],
+  "sigungu": "서귀포시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "제주특별자치도개발공사 법환 통합공공임대주택(일자리연계형) 입주자 2차 재모집 공고",
+  "totalUnits": 17,
+  "units": [
+   {
+    "address": "제주특별자치도 서귀포시 신중로 46 ",
+    "count": 17,
+    "deposit_won": 13597000,
+    "name": "통합공공임대",
+    "rent_won": 121210,
+    "sido": "제주",
+    "sidoFull": "제주특별자치도",
+    "sigungu": "서귀포시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
+  "agency": "(주)한화",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-21",
+   "applyEnd": "2026-10-26",
+   "applyStart": "2026-10-26",
+   "winner": "2026-10-29"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "4bfac721971deb58",
+  "id": "AH_2026930044_2026930044",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930044&pblancNo=2026930044",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "b60ad127088f438e",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "수원시",
+  "source": "applyhome",
+  "status": "",
+  "title": "한화포레나 영흥숲",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "경기도 시흥시 시흥대로 1110",
+  "agency": "(주)다우개발",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-21",
+   "applyEnd": "2026-10-26",
+   "applyStart": "2026-10-26",
+   "winner": "2026-10-29"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "d9bcbabc9908b480",
+  "id": "AH_2026910268_2026910268",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910268&pblancNo=2026910268",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "0924417d8cf9c580",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "시흥시",
+  "source": "applyhome",
+  "status": "",
+  "title": "신천역 에피트(3차)",
+  "totalUnits": 8,
+  "units": []
+ },
+ {
+  "address": "울산광역시 남구 무거동 1615-1번지(무거삼호지구 11BL) 일원",
+  "agency": "(주)동원개발",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-21",
+   "applyEnd": "2026-10-26",
+   "applyStart": "2026-10-26",
+   "winner": "2026-10-29"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "1dec950cd7539e67",
+  "id": "AH_2026910266_2026910266",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910266&pblancNo=2026910266",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "98825eea813fafd2",
+  "sido": "울산",
+  "sidoFull": "울산광역시",
+  "sigungu": "남구",
+  "source": "applyhome",
+  "status": "",
+  "title": "문수로 비스타 더파크",
+  "totalUnits": 329,
+  "units": []
+ },
+ {
+  "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
+  "agency": "(주)한화",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-21",
+   "applyEnd": "2026-10-26",
+   "applyStart": "2026-10-26",
+   "winner": "2026-10-29"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "3072398dbb82416a",
+  "id": "AH_2026910265_2026910265",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910265&pblancNo=2026910265",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "9fba7c241899a882",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "수원시",
+  "source": "applyhome",
+  "status": "",
+  "title": "한화포레나 영흥숲(3차)",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-10-21",
+   "applyEnd": "2026-11-04",
+   "applyStart": "2026-11-02",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "17c2a373a0e2bb7f",
+  "id": "MH_공공임대_21441",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21441",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020923&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대구",
+  "sidoFull": "대구광역시",
+  "sidos": [
+   "대구",
+   "경북"
+  ],
+  "sigungu": "수성구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "2026년 2차 대구경북지역 든든전세주택 입주자 모집공고(비분양전환형)",
+  "totalUnits": 94,
+  "units": [
+   {
+    "address": "",
+    "count": 16,
+    "deposit_won": null,
+    "name": "대구광역시 수성구",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "수성구"
+   },
+   {
+    "address": "",
+    "count": 13,
+    "deposit_won": null,
+    "name": "대구광역시 달서구",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "달서구"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "대구광역시 동구",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "동구"
+   },
+   {
+    "address": "",
+    "count": 13,
+    "deposit_won": null,
+    "name": "경상북도",
+    "rent_won": null,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 42,
+    "deposit_won": null,
+    "name": "대구광역시 달성군",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "달성군"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 여수시 미평로 77 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-20",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-11-10",
+   "winner": "2027-04-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "fdb931d7b7f63395",
+  "id": "MH_공공임대_21434",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21434&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020897&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "여수시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "여수미평1 영구임대주택 예비입주자 모집공고(모집공고일 : 2026.10.20.)",
+  "totalUnits": 55,
+  "units": [
+   {
+    "address": "전남광주통합특별시 여수시 미평로 77 ",
+    "count": 55,
+    "deposit_won": 2520000,
+    "name": "여수미평1",
+    "rent_won": 50160,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "여수시"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 부평구 부평동 65-17 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-19",
+   "applyEnd": "2026-11-04",
+   "applyStart": "2026-11-02",
+   "winner": "2027-04-08"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "01cad310df53bd03",
+  "id": "MH_공공임대_21433",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21433&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020925&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "부평구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인천부평(도시재생뉴딜) 행복주택 입주자 최초 모집",
+  "totalUnits": 321,
+  "units": [
+   {
+    "address": "인천광역시 부평구 부평동 65-17 ",
+    "count": 321,
+    "deposit_won": 31994000,
+    "name": "인천부평(도시재생뉴딜)",
+    "rent_won": 138640,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "부평구"
+   }
+  ]
+ },
+ {
+  "address": "충청남도 홍성군 홍북읍 홍예로 163 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-10-19",
+   "applyEnd": "2026-11-05",
+   "applyStart": "2026-11-02",
+   "winner": "2027-01-27"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "75e74dfa46826a0a",
+  "id": "MH_공공임대_21432",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21432&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020903&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sidos": [
+   "충남"
+  ],
+  "sigungu": "홍성군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "홍성군 영구임대 예비자 모집공고",
+  "totalUnits": 165,
+  "units": [
+   {
+    "address": "충청남도 홍성군 홍북읍 홍예로 163 ",
+    "count": 80,
+    "deposit_won": 2669000,
+    "name": "도청이전신도시 RH10-2BL",
+    "rent_won": 53120,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "홍성군"
+   },
+   {
+    "address": "충청남도 홍성군 홍북읍 홍예로 164 ",
+    "count": 65,
+    "deposit_won": 2701000,
+    "name": "도청이전신도시 RH-11BL",
+    "rent_won": 53770,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "홍성군"
+   },
+   {
+    "address": "충청남도 홍성군 홍성읍 남장중로 37 ",
+    "count": 20,
+    "deposit_won": 2413000,
+    "name": "홍성남장4",
+    "rent_won": 48050,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "홍성군"
+   }
+  ]
+ },
+ {
+  "address": "전북특별자치도 전주시 덕진구 팔과정로 168 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-19",
+   "applyEnd": "2026-11-13",
+   "applyStart": "2026-11-09",
+   "winner": "2027-02-04"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "7c0e76a2f3d8ddf0",
+  "id": "MH_공공임대_21431",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21431&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020916&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "전주시 덕진구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "전주1산단(전주팔복) 행복주택 입주자격완화예비입주자 모집",
+  "totalUnits": 430,
+  "units": [
+   {
+    "address": "전북특별자치도 전주시 덕진구 팔과정로 168 ",
+    "count": 430,
+    "deposit_won": 10948000,
+    "name": "전주1산단(전주팔복)",
+    "rent_won": 56560,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 덕진구"
+   }
+  ]
+ },
+ {
+  "address": "전북특별자치도 완주군 삼례읍 동학로 36-21 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-19",
+   "applyEnd": "2026-11-20",
+   "applyStart": "2026-11-09",
+   "winner": "2027-02-04"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "70bcee75f7164bce",
+  "id": "MH_공공임대_21430",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21430&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020917&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "완주군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "완주삼례A-1 행복주택 입주자격완화 예비입주자 모집",
+  "totalUnits": 190,
+  "units": [
+   {
+    "address": "전북특별자치도 완주군 삼례읍 동학로 36-21 ",
+    "count": 190,
+    "deposit_won": 13192000,
+    "name": "완주삼례A-1",
+    "rent_won": 68150,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "완주군"
+   }
+  ]
+ },
+ {
+  "address": "경기도 시흥시 은행동 289-31번지 일원",
+  "agency": "신극동아파트 가로주택정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-15",
+   "applyEnd": "2026-10-20",
+   "applyStart": "2026-10-20",
+   "winner": "2026-10-23"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "4b433f6841572d80",
+  "id": "AH_2026910264_2026910264",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910264&pblancNo=2026910264",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "bd7415a9f11b70dc",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "시흥시",
+  "source": "applyhome",
+  "status": "",
+  "title": "시흥 은계 에피트(조합원 취소분)",
+  "totalUnits": 16,
+  "units": []
+ },
+ {
+  "address": "전남광주통합특별시 북구 임동 100-1 일원 (구)전방·일신방직 부지 지구단위계획구역 A2BL)",
+  "agency": "(주) 챔피언스시티복합개발피에프브이",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-15",
+   "applyEnd": "2026-10-20",
+   "applyStart": "2026-10-20",
+   "winner": "2026-10-23"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "89b716c38fe3da3e",
+  "id": "AH_2026910261_2026910261",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910261&pblancNo=2026910261",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "ee0509e4215c064e",
+  "sido": "광주",
+  "sidoFull": "전남광주통합특별시",
+  "sigungu": "북구",
+  "source": "applyhome",
+  "status": "",
+  "title": "올 뉴 챔피언스시티 1차",
+  "totalUnits": 729,
+  "units": []
+ },
+ {
+  "address": "경기도 화성시 병점구 화산로 9",
+  "agency": "코리아신탁(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-14",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "2bd824351e814e62",
+  "id": "AH_2026910262_2026910262",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910262&pblancNo=2026910262",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "6b7a3e0dda28e875",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "화성시",
+  "source": "applyhome",
+  "status": "",
+  "title": "화성 송산 동원로얄듀크 포레(2차)",
+  "totalUnits": 5,
+  "units": []
+ },
+ {
+  "address": "울산광역시 남구 야음동 350-5번지 일원 ",
+  "agency": "남구비14구역주택재개발정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-14",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "6b21d8ae7afdf5ab",
+  "id": "AH_2026910252_2026910252",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910252&pblancNo=2026910252",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "cf7862a505253a86",
+  "sido": "울산",
+  "sidoFull": "울산광역시",
+  "sigungu": "남구",
+  "source": "applyhome",
+  "status": "",
+  "title": "그랑라크 에일린의 뜰",
+  "totalUnits": 18,
+  "units": []
+ },
+ {
+  "address": "전남광주통합특별시 나주시 그린로 154 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-14",
+   "applyEnd": "2026-12-31",
+   "applyStart": "2026-10-28",
+   "winner": "2026-12-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "55cb61faec31ecf4",
+  "id": "MH_공공분양_1492",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1492&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020906&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "나주시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)",
+  "totalUnits": 141,
+  "units": [
+   {
+    "address": "전남광주통합특별시 나주시 그린로 154 ",
+    "count": 141,
+    "deposit_won": null,
+    "name": "빛가람LH3단지",
+    "rent_won": null,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "나주시"
+   }
+  ]
+ },
+ {
+  "address": "서울특별시 중구 황학동 1756번지 일원",
+  "agency": "황학동청계지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-12",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "04c26d3f9226cd30",
+  "id": "AH_2026910263_2026910263",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910263&pblancNo=2026910263",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "2b0626da0ba5b709",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "중구",
+  "source": "applyhome",
+  "status": "",
+  "title": "청계 노르웨이숲(13차)",
+  "totalUnits": 10,
+  "units": []
+ },
+ {
+  "address": "경기도 의왕시 삼동 244-1번지 일원",
+  "agency": "우성4차아파트 및 주변가로주택정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-12",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-23"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "f774c2528c7ade32",
+  "id": "AH_2026910260_2026910260",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910260&pblancNo=2026910260",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "c38bdbcedb7ae08e",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "의왕시",
+  "source": "applyhome",
+  "status": "",
+  "title": "의왕역 한신더휴",
+  "totalUnits": 8,
+  "units": []
+ },
+ {
+  "address": "인천광역시 미추홀구 학익동 인천 용현·학익 1블록 도시개발구역 공동3BL",
+  "agency": "코리아신탁(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-12",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "795f1f7a3c9f4de9",
+  "id": "AH_2026910259_2026910259",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910259&pblancNo=2026910259",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "f8d73f3178768dcc",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "미추홀구",
+  "source": "applyhome",
+  "status": "",
+  "title": "시티오씨엘 9단지 오션파크뷰",
+  "totalUnits": 68,
+  "units": []
+ },
+ {
+  "address": "부산광역시 강서구 강동동 에코델타시티 내 공동 19BL",
+  "agency": "부산도시공사",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-12",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "0d9135c48498dc8e",
+  "id": "AH_2026910255_2026910255",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910255&pblancNo=2026910255",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "6db29a196809adfb",
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sigungu": "강서구",
+  "source": "applyhome",
+  "status": "",
+  "title": "e편한세상 에코델타 센터포인트(19BL)",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "부산광역시 강서구 강동동 에코델타시티 내 공동 18BL",
+  "agency": "부산도시공사",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-12",
+   "applyEnd": "2026-10-19",
+   "applyStart": "2026-10-19",
+   "winner": "2026-10-22"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "a3c11cb657a37402",
+  "id": "AH_2026910254_2026910254",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910254&pblancNo=2026910254",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "6cd3f8a67b4b505a",
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sigungu": "강서구",
+  "source": "applyhome",
+  "status": "",
+  "title": "에코델타시티 푸르지오 센터파크(18BL)",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "세종특별자치시 나성동 835",
+  "agency": "(주) 한화",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-07",
+   "applyEnd": "2026-10-12",
+   "applyStart": "2026-10-12",
+   "winner": "2026-10-15"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "5bef46549356b1f4",
+  "id": "AH_2026930041_2026930041",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930041&pblancNo=2026930041",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "4912cbd8bbfaba47",
+  "sido": "세종",
+  "sidoFull": "세종특별자치시",
+  "sigungu": "나성동",
+  "source": "applyhome",
+  "status": "",
+  "title": "세종 리더스포레 나릿재마을 1단지",
+  "totalUnits": 1,
+  "units": []
+ },
+ {
+  "address": "대전광역시 유성구 용계동 73-48번지 일원",
+  "agency": "케이비부동산신탁(주)",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-06",
+   "applyEnd": "2026-10-13",
+   "applyStart": "2026-10-12",
+   "winner": "2026-10-20"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "60bad3f3df2c3c5d",
+  "id": "AH_2026930034_2026930034",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930034&pblancNo=2026930034",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "b1da6342e1ff3b5e",
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sigungu": "유성구",
+  "source": "applyhome",
+  "status": "",
+  "title": "도안 푸르지오 디아델 31블록",
+  "totalUnits": 4,
+  "units": []
+ },
+ {
+  "address": "대전광역시 유성구 용계동 70대 일원",
+  "agency": "케이비부동산신탁(주)",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-06",
+   "applyEnd": "2026-10-13",
+   "applyStart": "2026-10-12",
+   "winner": "2026-10-19"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "a6fdfa4a5d04f15f",
+  "id": "AH_2026930033_2026930033",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930033&pblancNo=2026930033",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "dfd0f59500c7898a",
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sigungu": "유성구",
+  "source": "applyhome",
+  "status": "",
+  "title": "도안 푸르지오 디아델 29블록",
+  "totalUnits": 3,
+  "units": []
+ },
+ {
+  "address": "경기도 부천시 원미구 상동 540-1번지",
+  "agency": "한국자산신탁(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-06",
+   "applyEnd": "2026-10-12",
+   "applyStart": "2026-10-12",
+   "winner": "2026-10-15"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "6f5a559932dad2e1",
+  "id": "AH_2026910256_2026910256",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910256&pblancNo=2026910256",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "122ff06c925f3717",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "부천시",
+  "source": "applyhome",
+  "status": "",
+  "title": "상동역 롯데캐슬 시그니처",
+  "totalUnits": 785,
+  "units": []
+ },
+ {
+  "address": "충청남도 아산시 탕정면 갈산리 977번지",
+  "agency": "케이비부동산신탁(주)",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-02",
+   "applyEnd": "2026-10-07",
+   "applyStart": "2026-10-07",
+   "winner": "2026-10-13"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "4af3059354e3a4ab",
+  "id": "AH_2026930039_2026930039",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930039&pblancNo=2026930039",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "d0ff5c8951d9ff9b",
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sigungu": "아산시",
+  "source": "applyhome",
+  "status": "",
+  "title": "탕정 푸르지오 리버파크",
+  "totalUnits": 3,
+  "units": []
+ },
+ {
+  "address": "경기도 고양시 일산동구 장항동 529-26번지 일원",
+  "agency": "금호건설 주식회사,계룡건설산업(주),극동건설(주),(주)금성백조건설",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-10-02",
+   "applyEnd": "2026-10-08",
+   "applyStart": "2026-10-07",
+   "winner": "2026-10-14"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "86b1ae0f47ea0854",
+  "id": "AH_2026930038_2026930038",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930038&pblancNo=2026930038",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "974992cd831ec638",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "고양시",
+  "source": "applyhome",
+  "status": "",
+  "title": "고양 장항 아테라",
+  "totalUnits": 6,
+  "units": []
+ },
+ {
+  "address": "전북특별자치도 익산시 낭산면 삼기북길 178 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-02",
+   "applyEnd": "2026-12-30",
+   "applyStart": "2026-10-15",
+   "winner": "2026-12-30"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "b6b369f0e7daa7cc",
+  "id": "MH_공공임대_21374",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21374&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020850&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "익산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "익산제3일반산단 행복주택 입주자격완화 추가모집(동호지정,선계약후검증)",
+  "totalUnits": 49,
+  "units": [
+   {
+    "address": "전북특별자치도 익산시 낭산면 삼기북길 178 ",
+    "count": 49,
+    "deposit_won": 15096000,
+    "name": "익산제3일반산단",
+    "rent_won": 83020,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "익산시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 남양주시 오남읍 양지리 101번지 일원",
+  "agency": "양지7지구1단지지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-01",
+   "applyEnd": "2026-10-06",
+   "applyStart": "2026-10-06",
+   "winner": "2026-10-13"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "1c203daf2fa83a60",
+  "id": "AH_2026910253_2026910253",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910253&pblancNo=2026910253",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "f42157a20ae396e6",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "남양주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "오남역 서희스타힐스 여의재 1단지",
+  "totalUnits": 12,
+  "units": []
+ },
+ {
+  "address": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+  "agency": "신림 스카이 아파트",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-01",
+   "applyEnd": "2026-10-06",
+   "applyStart": "2026-10-06",
+   "winner": "2026-10-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "311df721cb6130d4",
+  "id": "AH_2026910250_2026910250",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910250&pblancNo=2026910250",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "64f5d6ff09550145",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "관악구",
+  "source": "applyhome",
+  "status": "",
+  "title": "신림스카이아파트(20차)",
+  "totalUnits": 4,
+  "units": []
+ },
+ {
+  "address": "세종특별자치시 다솜동 5204-1번지 일원(행정중심복합도시 5-2생활권 S1BL)",
+  "agency": "세종에스원피에프브이 주식회사",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-10-01",
+   "applyEnd": "2026-10-06",
+   "applyStart": "2026-10-06",
+   "winner": "2026-10-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "d9f8ab3bb8c20b0b",
+  "id": "AH_2026910249_2026910249",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910249&pblancNo=2026910249",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "4849c10aece8a2dc",
+  "sido": "세종",
+  "sidoFull": "세종특별자치시",
+  "sigungu": "다솜동",
+  "source": "applyhome",
+  "status": "",
+  "title": "세종 우미 린 센터파크(행정중심복합도시 5-2생활권 S1블록, 글미마을 9단지)",
+  "totalUnits": 5,
+  "units": []
+ },
+ {
+  "address": "서울특별시 중구 중림동 157-2번지 일원",
+  "agency": "(주)이노디앤씨",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-09-28",
+   "applyEnd": "2026-10-06",
+   "applyStart": "2026-10-06",
+   "winner": "2026-10-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "33bb37c3118e1def",
+  "id": "AH_2026910251_2026910251",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910251&pblancNo=2026910251",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "f21c5b85ec791139",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "중구",
+  "source": "applyhome",
+  "status": "",
+  "title": "충정로역자이르네",
+  "totalUnits": 35,
+  "units": []
+ },
+ {
+  "address": "서울특별시 광진구 구의동 592-39번지 일원",
+  "agency": "(주)한국토지신탁",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-09-23",
+   "applyEnd": "2026-10-06",
+   "applyStart": "2026-10-06",
+   "winner": "2026-10-12"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-03T22:50",
+  "hash": "d0c987c6088ac86a",
+  "id": "AH_2026930040_2026930040",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930040&pblancNo=2026930040",
+   "pdf": null
+  },
+  "maxGapManwon": null,
+  "rawHash": "a7a84ec25fb277d6",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "광진구",
+  "source": "applyhome",
+  "status": "",
+  "title": "강변역 센트럴 아이파크",
+  "totalUnits": 1,
+  "units": []
+ }
+]
