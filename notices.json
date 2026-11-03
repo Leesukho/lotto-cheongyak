@@ -1,5 +1,151 @@
 [
  {
+  "address": "충청남도 천안시 동남구 청당4로 20",
+  "agency": "롯데건설(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-03",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-04T05:17",
+  "hash": "9fef39ef37d4ff85",
+  "id": "AH_2026910274_2026910274",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910274&pblancNo=2026910274",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910274&pblancNo=2026910274&atchmnflSeqNo=2007073&atchmnflSn=5"
+  },
+  "maxGapManwon": null,
+  "rawHash": "389b9766f2068683",
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sigungu": "천안시",
+  "source": "applyhome",
+  "status": "",
+  "title": "천안 롯데캐슬 더 청당",
+  "totalUnits": 2,
+  "units": [
+   {
+    "area_m2": 59.9948,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "059.9948A",
+    "price_manwon": 28460
+   },
+   {
+    "area_m2": 84.9962,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "084.9962A",
+    "price_manwon": 42550
+   }
+  ]
+ },
+ {
+  "address": "세종특별자치시 반곡1길 9 (반곡동, 수루배마을2단지)",
+  "agency": "롯데건설(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-03",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-04T05:17",
+  "hash": "fc948d604fb3d6a0",
+  "id": "AH_2026910273_2026910273",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910273&pblancNo=2026910273",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910273&pblancNo=2026910273&atchmnflSeqNo=2006177&atchmnflSn=7"
+  },
+  "maxGapManwon": null,
+  "rawHash": "fd2d924e7e5c50ce",
+  "sido": "세종",
+  "sidoFull": "세종특별자치시",
+  "sigungu": "반곡1길",
+  "source": "applyhome",
+  "status": "",
+  "title": "캐슬앤파밀리에 디아트(4-1생활권 P1구역 L2블록 수루배마을2단지)",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 59.224,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "059.2240 ",
+    "price_manwon": 24579
+   }
+  ]
+ },
+ {
+  "address": "세종특별자치시 반곡로 14 (반곡동, 수루배마을1단지)",
+  "agency": "롯데건설(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-03",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-04T05:17",
+  "hash": "959684814fc5fe05",
+  "id": "AH_2026910272_2026910272",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910272&pblancNo=2026910272",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910272&pblancNo=2026910272&atchmnflSeqNo=2007076&atchmnflSn=7"
+  },
+  "maxGapManwon": null,
+  "rawHash": "e5613ab721c0ef07",
+  "sido": "세종",
+  "sidoFull": "세종특별자치시",
+  "sigungu": "반곡로",
+  "source": "applyhome",
+  "status": "",
+  "title": "캐슬앤파밀리에 디아트(4-1생활권 P1구역 M1블록 수루배마을1단지)",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 96.788,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "096.7880 ",
+    "price_manwon": 34731
+   }
+  ]
+ },
+ {
   "address": "경기도 남양주시 화도읍 마석우리 295-32번지 일원",
   "agency": "(주)에코월드이엔씨",
   "category": "무순위",
