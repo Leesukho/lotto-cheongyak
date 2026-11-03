@@ -1,17 +1,17 @@
 {
- "lastPublished": "2026-11-03T22:43:38",
- "lastRun": "2026-11-03T22:43:38",
+ "lastPublished": "2026-11-03T22:46:51",
+ "lastRun": "2026-11-03T22:46:51",
  "newNotices": 0,
  "noticeCount": 0,
  "sources": {
   "applyhome": {
-   "error": "HTTP Error 401: Unauthorized",
-   "fails": 1,
+   "error": "HTTP 401: {\"code\":-4,\"msg\":\"등록되지 않은 인증키 입니다.\"} ",
+   "fails": 2,
    "ok": false
   },
   "myhome": {
-   "error": "HTTP Error 403: Forbidden",
-   "fails": 1,
+   "error": "HTTP 403: {   \"OpenAPI_ServiceResponse\": {     \"cmmMsgHeader\": {       \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",       \"returnAuthMsg\": \"등록되지 않은 서비스키\",       \"returnReasonCode\": \"30\"     }   } ",
+   "fails": 2,
    "ok": false
   }
  },
