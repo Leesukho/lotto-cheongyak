@@ -15,6 +15,7 @@ import logging
 import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta
@@ -41,6 +42,13 @@ def http_json(url, data=None, retries=3):
         try:
             with urllib.request.urlopen(url, data, timeout=30) as r:
                 return json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as ex:
+            if ex.code in (401, 403):  # 인증 오류는 다시 해도 같다. 원인 파악용으로 응답 본문 일부를 붙인다
+                body = ex.read()[:300].decode("utf-8", "replace").replace("\n", " ")
+                raise RuntimeError(f"HTTP {ex.code}: {body}") from None
+            if i == retries - 1:
+                raise
+            time.sleep(5 * (i + 1))
         except Exception:
             if i == retries - 1:
                 raise
@@ -206,7 +214,8 @@ def weekly_digest(store, sender, users, now):
 
 def collect_all(store, env, now):
     """모든 소스 수집 → (새 공고 목록, 소스별 상태). 한 소스가 실패해도 다른 소스는 계속."""
-    key = env["DATA_GO_KR_KEY"]
+    # 붙여 넣을 때 섞인 공백·줄바꿈, 인코딩된 키(%2B 등)를 모두 원래 키로 맞춘다
+    key = urllib.parse.unquote(env["DATA_GO_KR_KEY"].strip())
     new, status = [], {}
     for name, collect in SOURCES:
         try:
