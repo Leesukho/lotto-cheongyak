@@ -1002,7 +1002,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "63d3b4909f7ca5a4",
+  "hash": "c4a37ef7dc4de298",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -1014,7 +1014,7 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 청원구",
+  "sigungu": "청주시 흥덕구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
@@ -1022,13 +1022,13 @@
   "units": [
    {
     "address": "",
-    "count": 8,
+    "count": 1,
     "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
+    "name": "충청북도 청주시 흥덕구",
     "rent_won": null,
     "sido": "충북",
     "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
+    "sigungu": "청주시 흥덕구"
    },
    {
     "address": "",
@@ -1042,13 +1042,13 @@
    },
    {
     "address": "",
-    "count": 1,
+    "count": 8,
     "deposit_won": null,
-    "name": "충청북도 청주시 흥덕구",
+    "name": "충청북도 청주시 청원구",
     "rent_won": null,
     "sido": "충북",
     "sidoFull": "충청북도",
-    "sigungu": "청주시 흥덕구"
+    "sigungu": "청주시 청원구"
    }
   ]
  },
