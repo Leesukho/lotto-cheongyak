@@ -92,6 +92,52 @@
   ]
  },
  {
+  "address": "전북특별자치도 익산시 목천로 30-14 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-04",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-25",
+   "winner": "2027-01-21"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-04T22:50",
+  "hash": "3258a129196c4b00",
+  "id": "MH_공공임대_21498",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21498&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021017&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "익산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "익산한스빌 국민임대주택 예비입주자 자격완화 모집 공고",
+  "totalUnits": 170,
+  "units": [
+   {
+    "address": "전북특별자치도 익산시 목천로 30-14 ",
+    "count": 170,
+    "deposit_won": 4076000,
+    "name": "익산한스빌",
+    "rent_won": 72820,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "익산시"
+   }
+  ]
+ },
+ {
   "address": "충청남도 천안시 동남구 청당4로 20",
   "agency": "롯데건설(주)",
   "category": "무순위",
@@ -3174,20 +3220,20 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "63a1b1c5c3df6edf",
+  "hash": "a743610d82fe9986",
   "id": "MH_공공임대_21441",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21441",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020923&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
   },
   "maxGapManwon": null,
-  "sido": "경북",
-  "sidoFull": "경상북도",
+  "sido": "대구",
+  "sidoFull": "대구광역시",
   "sidos": [
-   "경북",
-   "대구"
+   "대구",
+   "경북"
   ],
-  "sigungu": "",
+  "sigungu": "동구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 2차 대구경북지역 든든전세주택 입주자 모집공고(비분양전환형)",
@@ -3195,13 +3241,23 @@
   "units": [
    {
     "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "대구광역시 동구",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "동구"
+   },
+   {
+    "address": "",
     "count": 13,
     "deposit_won": null,
-    "name": "경상북도",
+    "name": "대구광역시 달서구",
     "rent_won": null,
-    "sido": "경북",
-    "sidoFull": "경상북도",
-    "sigungu": ""
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "달서구"
    },
    {
     "address": "",
@@ -3217,21 +3273,11 @@
     "address": "",
     "count": 13,
     "deposit_won": null,
-    "name": "대구광역시 달서구",
+    "name": "경상북도",
     "rent_won": null,
-    "sido": "대구",
-    "sidoFull": "대구광역시",
-    "sigungu": "달서구"
-   },
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "대구광역시 동구",
-    "rent_won": null,
-    "sido": "대구",
-    "sidoFull": "대구광역시",
-    "sigungu": "동구"
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": ""
    },
    {
     "address": "",
