@@ -62,6 +62,20 @@ git push -u origin main
 3. 파일 내용 전체를 `FCM_SERVICE_ACCOUNT` 비밀 값에 붙여 넣기
 4. **다운로드한 JSON 파일은 지운다** (이 키로 누구나 내 앱에 푸시를 보낼 수 있음)
 
+## 6. 10분 주기 보장 (외부 예약 서비스)
+GitHub의 예약 실행(`schedule`)은 시간을 보장하지 않는다. 실제로 10분이 아니라 4~6시간 간격으로만 돌았다.
+그래서 cron-job.org(무료)가 10분마다 워크플로를 호출하게 한다. `schedule`은 예비로 남겨 둔다.
+
+1. GitHub 토큰 만들기: Settings → Developer settings → Fine-grained tokens
+   - 저장소는 `lotto-cheongyak`만, 권한은 Actions: Read and write만
+   - **만료일이 지나면 수집이 멈춘다** (최대 1년). 만료 전에 새 토큰으로 바꿀 것
+2. https://cron-job.org 가입 → CREATE CRONJOB
+   - URL: `https://api.github.com/repos/Leesukho/lotto-cheongyak/actions/workflows/collect.yml/dispatches`
+   - 실행 주기: 10분마다
+   - ADVANCED → 요청 방식: `POST`, 요청 본문: `{"ref":"main"}`
+   - 헤더: `Authorization: Bearer 토큰`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`
+3. 저장 후 실행 기록의 응답이 `204`면 정상. Actions 탭에 `workflow_dispatch` 실행이 10분마다 쌓인다.
+
 ## 게시 파일
 | 파일 | 내용 |
 |---|---|
