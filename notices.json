@@ -138,6 +138,174 @@
   ]
  },
  {
+  "address": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+  "agency": "삼천주공3 재건축정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-04",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-05T01:01",
+  "hash": "d11d04bf6169851b",
+  "id": "AH_2026910286_2026910286",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910286&pblancNo=2026910286",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910286&pblancNo=2026910286&atchmnflSeqNo=2013010&atchmnflSn=2"
+  },
+  "maxGapManwon": 1608,
+  "rawHash": "679638affd448170",
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sigungu": "전주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "삼천 하늘채 라비엘",
+  "totalUnits": 5,
+  "units": [
+   {
+    "area_m2": 74.9823,
+    "count_general": 5,
+    "count_special": 0,
+    "gap_manwon": 1608,
+    "market_basis": "완산구 신축 유사평형",
+    "market_count": 38,
+    "market_manwon": 51000,
+    "name": "074.9823B",
+    "price_manwon": 49392
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 연수구 송도동 32-3,-6 (G5-6BL)",
+  "agency": "케이비부동산신탁(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-04",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-05T01:01",
+  "hash": "67b3ac8e3919867b",
+  "id": "AH_2026910285_2026910285",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910285&pblancNo=2026910285",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910285&pblancNo=2026910285&atchmnflSeqNo=2013052&atchmnflSn=1"
+  },
+  "maxGapManwon": -41400,
+  "rawHash": "5f7ded182a434cf0",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "연수구",
+  "source": "applyhome",
+  "status": "",
+  "title": "더샵 송도그란테르 G5-6블록",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 118.23,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -41400,
+    "market_basis": "송도동 신축 유사평형",
+    "market_count": 22,
+    "market_manwon": 135000,
+    "name": "118.2300K",
+    "price_manwon": 176400
+   }
+  ]
+ },
+ {
+  "address": "부산광역시 수영구 망미동 253-1번지 일원",
+  "agency": "수영구 망미동 지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-04",
+   "applyEnd": "2026-11-09",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-05T01:01",
+  "hash": "d3c509cb21ad83bd",
+  "id": "AH_2026910277_2026910277",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910277&pblancNo=2026910277",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910277&pblancNo=2026910277&atchmnflSeqNo=2008636&atchmnflSn=1"
+  },
+  "maxGapManwon": -33210,
+  "rawHash": "7b9b74f4532de806",
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sigungu": "수영구",
+  "source": "applyhome",
+  "status": "",
+  "title": "쌍용 더 플래티넘 센텀",
+  "totalUnits": 53,
+  "units": [
+   {
+    "area_m2": 63.1378,
+    "count_general": 5,
+    "count_special": 0,
+    "gap_manwon": -38920,
+    "market_basis": "망미동 신축 유사평형",
+    "market_count": 21,
+    "market_manwon": 54900,
+    "name": "063.1378A",
+    "price_manwon": 93820
+   },
+   {
+    "area_m2": 63.0513,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -36730,
+    "market_basis": "망미동 신축 유사평형",
+    "market_count": 21,
+    "market_manwon": 54900,
+    "name": "063.0513B",
+    "price_manwon": 91630
+   },
+   {
+    "area_m2": 74.3998,
+    "count_general": 3,
+    "count_special": 0,
+    "gap_manwon": -33210,
+    "market_basis": "수영구 신축 유사평형",
+    "market_count": 28,
+    "market_manwon": 77000,
+    "name": "074.3998B",
+    "price_manwon": 110210
+   },
+   {
+    "area_m2": 84.0948,
+    "count_general": 43,
+    "count_special": 0,
+    "gap_manwon": -67100,
+    "market_basis": "망미동 신축 유사평형",
+    "market_count": 17,
+    "market_manwon": 65000,
+    "name": "084.0948 ",
+    "price_manwon": 132100
+   }
+  ]
+ },
+ {
   "address": "충청남도 천안시 동남구 청당4로 20",
   "agency": "롯데건설(주)",
   "category": "무순위",
