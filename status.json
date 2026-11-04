@@ -1,20 +1,21 @@
 {
- "lastPublished": "2026-11-04T05:17:44",
- "lastRun": "2026-11-04T05:17:44",
- "newNotices": 3,
+ "lastPublished": "2026-11-04T09:43:08",
+ "lastRun": "2026-11-04T09:43:08",
+ "newNotices": 0,
  "noticeCount": 89,
  "sources": {
   "applyhome": {
    "count": 100,
-   "new": 3,
+   "new": 0,
    "ok": true,
    "skipped": false
   },
   "myhome": {
-   "error": "<urlopen error timed out>",
-   "fails": 1,
-   "ok": false
+   "count": 49,
+   "new": 0,
+   "ok": true,
+   "skipped": false
   }
  },
- "topicMessages": 3
+ "topicMessages": 0
 }
