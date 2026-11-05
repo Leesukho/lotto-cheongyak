@@ -998,6 +998,52 @@
   ]
  },
  {
+  "address": "인천광역시 서해구 염곡로 563-2 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-30",
+   "applyEnd": "2026-11-10",
+   "applyStart": "2026-11-09",
+   "winner": "2026-11-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T15:50",
+  "hash": "fed3ceddd8208d12",
+  "id": "MH_공공분양_1504",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1504&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061198&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "서해구",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "인천가정2 B2블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정)",
+  "totalUnits": 231,
+  "units": [
+   {
+    "address": "인천광역시 서해구 염곡로 563-2 ",
+    "count": 231,
+    "deposit_won": null,
+    "name": "인천가정2지구 B2블록",
+    "rent_won": null,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "서해구"
+   }
+  ]
+ },
+ {
   "address": "전남광주통합특별시 동구 무등로 373",
   "agency": "계림4구역 주택재개발정비사업조합",
   "category": "무순위",
