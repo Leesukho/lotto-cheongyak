@@ -1044,6 +1044,52 @@
   ]
  },
  {
+  "address": "경기도 안산시 단원구 신길동 623 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-10-30",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-16",
+   "winner": "2026-12-04"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T16:00",
+  "hash": "30fea3535be831fb",
+  "id": "MH_공공분양_1505",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1505&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061189&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "안산시 단원구",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "안산신길2 A-6블록 신혼희망타운(공공분양) 입주자모집공고",
+  "totalUnits": 251,
+  "units": [
+   {
+    "address": "경기도 안산시 단원구 신길동 623 ",
+    "count": 251,
+    "deposit_won": null,
+    "name": "안산신길2 A-6블록",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "안산시 단원구"
+   }
+  ]
+ },
+ {
   "address": "전남광주통합특별시 동구 무등로 373",
   "agency": "계림4구역 주택재개발정비사업조합",
   "category": "무순위",
