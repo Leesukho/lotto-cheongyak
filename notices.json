@@ -296,6 +296,52 @@
   ]
  },
  {
+  "address": "경기도 평택시 팽성읍 팽성송화로 163 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-25",
+   "winner": "2027-04-02"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T17:30",
+  "hash": "9b1824109374b36c",
+  "id": "MH_공공임대_21503",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21503&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020973&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "평택시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "평택시 평택송화 국민임대 예비입주자 모집공고(2026.11.05)",
+  "totalUnits": 140,
+  "units": [
+   {
+    "address": "경기도 평택시 팽성읍 팽성송화로 163 ",
+    "count": 140,
+    "deposit_won": 13780000,
+    "name": "평택송화",
+    "rent_won": 166640,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "평택시"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
@@ -1492,7 +1538,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "b87652ef653d70a7",
+  "hash": "e521e5a735198b17",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -1504,22 +1550,12 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "수영구",
+  "sigungu": "해운대구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
-   {
-    "address": "",
-    "count": 25,
-    "deposit_won": null,
-    "name": "부산광역시 수영구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "수영구"
-   },
    {
     "address": "",
     "count": 7,
@@ -1539,6 +1575,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "금정구"
+   },
+   {
+    "address": "",
+    "count": 25,
+    "deposit_won": null,
+    "name": "부산광역시 수영구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "수영구"
    }
   ]
  },
