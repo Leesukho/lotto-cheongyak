@@ -1584,7 +1584,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "73ef47440a1dfc33",
+  "hash": "e521e5a735198b17",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -1596,22 +1596,12 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "금정구",
+  "sigungu": "해운대구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
-    "name": "부산광역시 금정구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "금정구"
-   },
    {
     "address": "",
     "count": 7,
@@ -1621,6 +1611,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "해운대구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "부산광역시 금정구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "금정구"
    },
    {
     "address": "",
@@ -1742,7 +1742,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "c4a37ef7dc4de298",
+  "hash": "061a1fe87f4e6ba3",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -1772,16 +1772,6 @@
    },
    {
     "address": "",
-    "count": 19,
-    "deposit_won": null,
-    "name": "충청북도 청주시 상당구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 상당구"
-   },
-   {
-    "address": "",
     "count": 8,
     "deposit_won": null,
     "name": "충청북도 청주시 청원구",
@@ -1789,6 +1779,16 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 청원구"
+   },
+   {
+    "address": "",
+    "count": 19,
+    "deposit_won": null,
+    "name": "충청북도 청주시 상당구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 상당구"
    }
   ]
  },
@@ -4867,170 +4867,5 @@
     "sigungu": "익산시"
    }
   ]
- },
- {
-  "address": "경기도 남양주시 오남읍 양지리 101번지 일원",
-  "agency": "양지7지구1단지지역주택조합",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-01",
-   "applyEnd": "2026-10-06",
-   "applyStart": "2026-10-06",
-   "winner": "2026-10-13"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "1c203daf2fa83a60",
-  "id": "AH_2026910253_2026910253",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910253&pblancNo=2026910253",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "f42157a20ae396e6",
-  "sido": "경기",
-  "sidoFull": "경기도",
-  "sigungu": "남양주시",
-  "source": "applyhome",
-  "status": "",
-  "title": "오남역 서희스타힐스 여의재 1단지",
-  "totalUnits": 12,
-  "units": []
- },
- {
-  "address": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
-  "agency": "신림 스카이 아파트",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-01",
-   "applyEnd": "2026-10-06",
-   "applyStart": "2026-10-06",
-   "winner": "2026-10-12"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "311df721cb6130d4",
-  "id": "AH_2026910250_2026910250",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910250&pblancNo=2026910250",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "64f5d6ff09550145",
-  "sido": "서울",
-  "sidoFull": "서울특별시",
-  "sigungu": "관악구",
-  "source": "applyhome",
-  "status": "",
-  "title": "신림스카이아파트(20차)",
-  "totalUnits": 4,
-  "units": []
- },
- {
-  "address": "세종특별자치시 다솜동 5204-1번지 일원(행정중심복합도시 5-2생활권 S1BL)",
-  "agency": "세종에스원피에프브이 주식회사",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-01",
-   "applyEnd": "2026-10-06",
-   "applyStart": "2026-10-06",
-   "winner": "2026-10-12"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "d9f8ab3bb8c20b0b",
-  "id": "AH_2026910249_2026910249",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910249&pblancNo=2026910249",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "4849c10aece8a2dc",
-  "sido": "세종",
-  "sidoFull": "세종특별자치시",
-  "sigungu": "다솜동",
-  "source": "applyhome",
-  "status": "",
-  "title": "세종 우미 린 센터파크(행정중심복합도시 5-2생활권 S1블록, 글미마을 9단지)",
-  "totalUnits": 5,
-  "units": []
- },
- {
-  "address": "서울특별시 중구 중림동 157-2번지 일원",
-  "agency": "(주)이노디앤씨",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-09-28",
-   "applyEnd": "2026-10-06",
-   "applyStart": "2026-10-06",
-   "winner": "2026-10-12"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "33bb37c3118e1def",
-  "id": "AH_2026910251_2026910251",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910251&pblancNo=2026910251",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "f21c5b85ec791139",
-  "sido": "서울",
-  "sidoFull": "서울특별시",
-  "sigungu": "중구",
-  "source": "applyhome",
-  "status": "",
-  "title": "충정로역자이르네",
-  "totalUnits": 35,
-  "units": []
- },
- {
-  "address": "서울특별시 광진구 구의동 592-39번지 일원",
-  "agency": "(주)한국토지신탁",
-  "category": "불법행위 재공급",
-  "dates": {
-   "announce": "2026-09-23",
-   "applyEnd": "2026-10-06",
-   "applyStart": "2026-10-06",
-   "winner": "2026-10-12"
-  },
-  "eligibility": {
-   "summary": [
-    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "d0c987c6088ac86a",
-  "id": "AH_2026930040_2026930040",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930040&pblancNo=2026930040",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "a7a84ec25fb277d6",
-  "sido": "서울",
-  "sidoFull": "서울특별시",
-  "sigungu": "광진구",
-  "source": "applyhome",
-  "status": "",
-  "title": "강변역 센트럴 아이파크",
-  "totalUnits": 1,
-  "units": []
  }
 ]
