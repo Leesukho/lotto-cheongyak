@@ -148,6 +148,62 @@
   ]
  },
  {
+  "address": "경기도 수원시 영통구 광교마을로 156 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T17:00",
+  "hash": "e5f4f5a5906a7fad",
+  "id": "MH_공공분양_1510",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1510&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021009&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "수원시 영통구",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "경기남부권(수원·용인 광교) 공가세대 일반매각 공고(무순위, 유주택자 가능)",
+  "totalUnits": 3,
+  "units": [
+   {
+    "address": "경기도 수원시 영통구 광교마을로 156 ",
+    "count": 2,
+    "deposit_won": null,
+    "name": "수원 광교40단지 더포레스트",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "수원시 영통구"
+   },
+   {
+    "address": "경기도 용인시 수지구 광교마을로 11 ",
+    "count": 1,
+    "deposit_won": null,
+    "name": "용인 광교45단지 더힐",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "용인시 수지구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
