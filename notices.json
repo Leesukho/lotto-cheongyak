@@ -204,6 +204,98 @@
   ]
  },
  {
+  "address": "인천광역시 남동구 논현로 45 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-16",
+   "winner": "2027-03-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T17:20",
+  "hash": "5d3b80252616530b",
+  "id": "MH_공공임대_21502",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21502&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020987&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "남동구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "26년 11월 인천시 남동구 국민임대주택 예비입주자 모집 공고(2026.11.05.)",
+  "totalUnits": 60,
+  "units": [
+   {
+    "address": "인천광역시 남동구 논현로 45 ",
+    "count": 60,
+    "deposit_won": 20365000,
+    "name": "인천논현3",
+    "rent_won": 230130,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "남동구"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 남동구 은봉로166번길 27 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-20",
+   "applyStart": "2026-11-18",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-05T17:20",
+  "hash": "e00906a3e9356e59",
+  "id": "MH_공공임대_21501",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21501&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021024&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "남동구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인천논현2단지 국임임대주택 예비입주자 모집 공고",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "인천광역시 남동구 은봉로166번길 27 ",
+    "count": 100,
+    "deposit_won": 37202000,
+    "name": "인천논현2",
+    "rent_won": 309670,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "남동구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
@@ -1400,7 +1492,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "b0fc1f82d7ae9802",
+  "hash": "b87652ef653d70a7",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -1430,16 +1522,6 @@
    },
    {
     "address": "",
-    "count": 20,
-    "deposit_won": null,
-    "name": "부산광역시 금정구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "금정구"
-   },
-   {
-    "address": "",
     "count": 7,
     "deposit_won": null,
     "name": "부산광역시 해운대구",
@@ -1447,6 +1529,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "해운대구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "부산광역시 금정구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "금정구"
    }
   ]
  },
@@ -1558,7 +1650,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "63d3b4909f7ca5a4",
+  "hash": "6fe51bfd3eb39dde",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -1570,22 +1662,12 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 청원구",
+  "sigungu": "청주시 상당구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
   "totalUnits": 28,
   "units": [
-   {
-    "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
-   },
    {
     "address": "",
     "count": 19,
@@ -1595,6 +1677,16 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 상당구"
+   },
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
    },
    {
     "address": "",
