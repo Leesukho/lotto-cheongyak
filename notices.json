@@ -388,6 +388,118 @@
   ]
  },
  {
+  "address": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
+  "agency": "(주)시티글로벌",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-10",
+   "applyStart": "2026-11-10",
+   "winner": "2026-11-13"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-06T01:00",
+  "hash": "29594c03a5a8eff0",
+  "id": "AH_2026910282_2026910282",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910282&pblancNo=2026910282",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910282&pblancNo=2026910282&atchmnflSeqNo=2013002&atchmnflSn=4"
+  },
+  "maxGapManwon": 34950,
+  "rawHash": "79c745f16efe8f3e",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "광명시",
+  "source": "applyhome",
+  "status": "",
+  "title": "광명 시티프라디움 에듀하임",
+  "totalUnits": 21,
+  "units": [
+   {
+    "area_m2": 59.7421,
+    "count_general": 4,
+    "count_special": 0,
+    "gap_manwon": 34950,
+    "market_basis": "광명시 신축 유사평형",
+    "market_count": 76,
+    "market_manwon": 117650,
+    "name": "059.7421B",
+    "price_manwon": 82700
+   },
+   {
+    "area_m2": 84.9796,
+    "count_general": 17,
+    "count_special": 0,
+    "gap_manwon": 21700,
+    "market_basis": "광명시 신축 유사평형",
+    "market_count": 61,
+    "market_manwon": 141500,
+    "name": "084.9796D",
+    "price_manwon": 119800
+   }
+  ]
+ },
+ {
+  "address": "경기도 화성특례시 효행구 봉담읍 삼봉안길 30 (봉담내리지구 A1블록 봉담자이 프라이드시티)",
+  "agency": "디에스디삼호(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-10",
+   "applyStart": "2026-11-10",
+   "winner": "2026-11-13"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-06T01:00",
+  "hash": "c03c6fad08c56b41",
+  "id": "AH_2026910279_2026910279",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910279&pblancNo=2026910279",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910279&pblancNo=2026910279&atchmnflSeqNo=2013033&atchmnflSn=3"
+  },
+  "maxGapManwon": null,
+  "rawHash": "1a087778b6db4d02",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "화성특례시",
+  "source": "applyhome",
+  "status": "",
+  "title": "봉담자이 프라이드시티",
+  "totalUnits": 2,
+  "units": [
+   {
+    "area_m2": 84.7822,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "084.7822A",
+    "price_manwon": 46220
+   },
+   {
+    "area_m2": 84.3879,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "084.3879B",
+    "price_manwon": 45770
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
