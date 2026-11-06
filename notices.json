@@ -500,6 +500,92 @@
   ]
  },
  {
+  "address": "경기도 평택시 비전4로 175 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-23"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T13:30",
+  "hash": "f0dbcdf6aa4e2a06",
+  "id": "MH_공공임대_21506",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21506&houseSn=2",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061201&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "평택시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "평택시.안성시 지역 10년 공공임대주택[리츠] 예비입주자 모집공고(2026.11.05)",
+  "totalUnits": 396,
+  "units": [
+   {
+    "address": "경기도 평택시 비전4로 175 ",
+    "count": 77,
+    "deposit_won": 67980000,
+    "name": "뜨레휴 이곡마을 7단지",
+    "rent_won": 607700,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "평택시"
+   },
+   {
+    "address": "경기도 평택시 고덕국제2로 73 ",
+    "count": 20,
+    "deposit_won": 96742000,
+    "name": "신동아파밀리에 NHF7단지",
+    "rent_won": 725570,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "평택시"
+   },
+   {
+    "address": "경기도 평택시 고덕갈평3로 50 ",
+    "count": 4,
+    "deposit_won": 55051000,
+    "name": "고덕센트레빌 NHF3단지",
+    "rent_won": 485740,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "평택시"
+   },
+   {
+    "address": "경기도 안성시 아양로 73 ",
+    "count": 250,
+    "deposit_won": 53757000,
+    "name": "서희스타힐스4단지",
+    "rent_won": 543070,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "안성시"
+   },
+   {
+    "address": "경기도 안성시 아양로 61-19 ",
+    "count": 45,
+    "deposit_won": 53432000,
+    "name": "하우스디 NHF6단지",
+    "rent_won": 550510,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "안성시"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
@@ -1696,7 +1782,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "e521e5a735198b17",
+  "hash": "b0fc1f82d7ae9802",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -1708,7 +1794,7 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "해운대구",
+  "sigungu": "수영구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
@@ -1716,13 +1802,13 @@
   "units": [
    {
     "address": "",
-    "count": 7,
+    "count": 25,
     "deposit_won": null,
-    "name": "부산광역시 해운대구",
+    "name": "부산광역시 수영구",
     "rent_won": null,
     "sido": "부산",
     "sidoFull": "부산광역시",
-    "sigungu": "해운대구"
+    "sigungu": "수영구"
    },
    {
     "address": "",
@@ -1736,13 +1822,13 @@
    },
    {
     "address": "",
-    "count": 25,
+    "count": 7,
     "deposit_won": null,
-    "name": "부산광역시 수영구",
+    "name": "부산광역시 해운대구",
     "rent_won": null,
     "sido": "부산",
     "sidoFull": "부산광역시",
-    "sigungu": "수영구"
+    "sigungu": "해운대구"
    }
   ]
  },
@@ -1854,7 +1940,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "061a1fe87f4e6ba3",
+  "hash": "c4a37ef7dc4de298",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -1884,16 +1970,6 @@
    },
    {
     "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
-   },
-   {
-    "address": "",
     "count": 19,
     "deposit_won": null,
     "name": "충청북도 청주시 상당구",
@@ -1901,6 +1977,16 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 상당구"
+   },
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
    }
   ]
  },
