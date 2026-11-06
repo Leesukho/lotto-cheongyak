@@ -5311,39 +5311,6 @@
   "units": []
  },
  {
-  "address": "충청남도 아산시 탕정면 갈산리 977번지",
-  "agency": "케이비부동산신탁(주)",
-  "category": "불법행위 재공급",
-  "dates": {
-   "announce": "2026-10-02",
-   "applyEnd": "2026-10-07",
-   "applyStart": "2026-10-07",
-   "winner": "2026-10-13"
-  },
-  "eligibility": {
-   "summary": [
-    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "4af3059354e3a4ab",
-  "id": "AH_2026930039_2026930039",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930039&pblancNo=2026930039",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "d0ff5c8951d9ff9b",
-  "sido": "충남",
-  "sidoFull": "충청남도",
-  "sigungu": "아산시",
-  "source": "applyhome",
-  "status": "",
-  "title": "탕정 푸르지오 리버파크",
-  "totalUnits": 3,
-  "units": []
- },
- {
   "address": "경기도 고양시 일산동구 장항동 529-26번지 일원",
   "agency": "금호건설 주식회사,계룡건설산업(주),극동건설(주),(주)금성백조건설",
   "category": "불법행위 재공급",
