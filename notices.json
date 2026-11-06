@@ -1,5 +1,51 @@
 [
  {
+  "address": "전북특별자치도 남원시 노송로 1255-9 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-11-06",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-24",
+   "winner": "2027-02-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T13:50",
+  "hash": "6ff155f28a67b13f",
+  "id": "MH_공공임대_21505",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21505&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021022&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "남원시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "남원노암 공공임대 50년 예비입주자모집",
+  "totalUnits": 45,
+  "units": [
+   {
+    "address": "전북특별자치도 남원시 노송로 1255-9 ",
+    "count": 45,
+    "deposit_won": 9628000,
+    "name": "남원노암단지",
+    "rent_won": 150570,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "남원시"
+   }
+  ]
+ },
+ {
   "address": "경기도 연천군 전곡읍 밤골로 8 ",
   "agency": "LH",
   "category": "국민임대",
@@ -582,6 +628,138 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "안성시"
+   }
+  ]
+ },
+ {
+  "address": "경상북도 경주시 건천읍 대곡용명길 27 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-11-24",
+   "winner": "2026-11-23"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T13:50",
+  "hash": "d04e8a4d17faa191",
+  "id": "MH_공공임대_21507",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21507&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021025&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "경주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "‘26.11월 경주시, 영천시 국민임대주택 동호지정 입주자격 완화 입주자 모집(선계약 후검증)",
+  "totalUnits": 151,
+  "units": [
+   {
+    "address": "경상북도 경주시 건천읍 대곡용명길 27 ",
+    "count": 42,
+    "deposit_won": 10281000,
+    "name": "경주건천",
+    "rent_won": 72560,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 경주시 안강읍 안강중앙로 141 ",
+    "count": 40,
+    "deposit_won": 10231000,
+    "name": "경주안강",
+    "rent_won": 104670,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 경주시 외동읍 본동길 14 ",
+    "count": 28,
+    "deposit_won": 11385000,
+    "name": "경주외동",
+    "rent_won": 91820,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 영천시 망정로 80 ",
+    "count": 41,
+    "deposit_won": 15597000,
+    "name": "영천망정 5단지",
+    "rent_won": 107610,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "영천시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 수원시 영통구 광교마을로 156 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T13:50",
+  "hash": "5dcc132610e0b17e",
+  "id": "MH_공공분양_1511",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1511&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021027&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "수원시 영통구",
+  "source": "myhome_sale",
+  "status": "정정공고",
+  "title": "[정정공고]경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)",
+  "totalUnits": 4,
+  "units": [
+   {
+    "address": "경기도 수원시 영통구 광교마을로 156 ",
+    "count": 2,
+    "deposit_won": null,
+    "name": "수원 광교40단지 더포레스트",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "수원시 영통구"
+   },
+   {
+    "address": "경기도 수원시 영통구 센트럴파크로 34 ",
+    "count": 2,
+    "deposit_won": null,
+    "name": "수원 광교62단지 더리브",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "수원시 영통구"
    }
   ]
  },
@@ -1782,7 +1960,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "b0fc1f82d7ae9802",
+  "hash": "afca4a6557387611",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -1794,12 +1972,22 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "수영구",
+  "sigungu": "해운대구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "부산광역시 해운대구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "해운대구"
+   },
    {
     "address": "",
     "count": 25,
@@ -1819,16 +2007,6 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "금정구"
-   },
-   {
-    "address": "",
-    "count": 7,
-    "deposit_won": null,
-    "name": "부산광역시 해운대구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "해운대구"
    }
   ]
  },
@@ -1940,7 +2118,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "c4a37ef7dc4de298",
+  "hash": "48b0e0a2520f0adb",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -1952,12 +2130,22 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 흥덕구",
+  "sigungu": "청주시 청원구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
   "totalUnits": 28,
   "units": [
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
+   },
    {
     "address": "",
     "count": 1,
@@ -1977,16 +2165,6 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 상당구"
-   },
-   {
-    "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
    }
   ]
  },
