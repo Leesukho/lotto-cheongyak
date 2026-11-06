@@ -46,6 +46,52 @@
   ]
  },
  {
+  "address": "경기도 시흥시 거모동 978 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-06",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-16",
+   "winner": "2026-12-08"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T14:00",
+  "hash": "6b97efef264868df",
+  "id": "MH_공공분양_1512",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1512&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061204&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "시흥시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "시흥 거모 아테라(시흥거모 A-6BL) 신혼희망타운(공공분양) 입주자모집공고",
+  "totalUnits": 480,
+  "units": [
+   {
+    "address": "경기도 시흥시 거모동 978 ",
+    "count": 480,
+    "deposit_won": null,
+    "name": "시흥 거모 아테라",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "시흥시"
+   }
+  ]
+ },
+ {
   "address": "경기도 연천군 전곡읍 밤골로 8 ",
   "agency": "LH",
   "category": "국민임대",
