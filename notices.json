@@ -92,6 +92,52 @@
   ]
  },
  {
+  "address": "부산광역시 해운대구 해운대로 732 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-06",
+   "applyEnd": "2026-12-23",
+   "applyStart": "2026-11-16",
+   "winner": "2026-12-23"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-06T14:10",
+  "hash": "cd43ecb69ecd818e",
+  "id": "MH_공공분양_1513",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1513&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021006&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sidos": [
+   "부산"
+  ],
+  "sigungu": "해운대구",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "중동 경남아너스빌 잔여세대 일반매각 공고(선착순)",
+  "totalUnits": 8,
+  "units": [
+   {
+    "address": "부산광역시 해운대구 해운대로 732 ",
+    "count": 8,
+    "deposit_won": null,
+    "name": "중동 경남아너스빌",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "해운대구"
+   }
+  ]
+ },
+ {
   "address": "경기도 연천군 전곡읍 밤골로 8 ",
   "agency": "LH",
   "category": "국민임대",
