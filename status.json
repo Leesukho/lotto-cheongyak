@@ -1,6 +1,6 @@
 {
- "lastPublished": "2026-11-07T12:30:37",
- "lastRun": "2026-11-07T12:30:37",
+ "lastPublished": "2026-11-07T12:40:21",
+ "lastRun": "2026-11-07T12:40:21",
  "newNotices": 0,
  "noticeCount": 116,
  "sources": {
@@ -12,7 +12,7 @@
   },
   "myhome": {
    "error": "The read operation timed out",
-   "fails": 1,
+   "fails": 2,
    "ok": false
   }
  },
