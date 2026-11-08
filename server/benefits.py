@@ -31,6 +31,7 @@ API_BASE = "https://api.odcloud.kr/api/gov24/v3"
 PER_PAGE = 1000
 RUN_EVERY_HOURS = 20
 KEEP_CLOSED_DAYS = 30
+SCHEMA = 2   # 게시 형식이 바뀌면 올린다 (주기가 안 지났어도 다시 수집해 새 형식으로 게시)
 CUT = {"summary": 200, "target": 300, "content": 300}
 
 # 시도 이름 앞부분 → topics.SIDO의 짧은 이름. 전남광주통합특별시는 광주·전남 양쪽에 담는다.
@@ -123,7 +124,7 @@ def normalize(row, regions, cond):
            "method": row.get("신청방법"), "deadline": row.get("신청기한"), "applyStart": start, "applyEnd": end,
            "org": org, "orgType": typ, "scope": scope, "sidos": sidos, "sigungu": sigungu,
            "phone": row.get("전화문의"), "url": row.get("상세조회URL"), "modified": row.get("수정일시"),
-           "cond": cond}
+           "cond": cond, "userType": row.get("사용자구분")}
     return {k: v for k, v in doc.items() if v not in (None, "", [])}
 
 
@@ -155,8 +156,9 @@ def due(out_dir, now):
     idx = out_dir / "index.json"
     if not idx.exists():
         return True
-    last = json.loads(idx.read_text(encoding="utf-8")).get("updated")
-    return not last or now - datetime.fromisoformat(last) >= timedelta(hours=RUN_EVERY_HOURS)
+    meta = json.loads(idx.read_text(encoding="utf-8"))
+    last = meta.get("updated")
+    return meta.get("schema") != SCHEMA or not last or now - datetime.fromisoformat(last) >= timedelta(hours=RUN_EVERY_HOURS)
 
 
 def run(site, key, now, force=False):
@@ -170,7 +172,7 @@ def run(site, key, now, force=False):
     for name, items in files.items():
         items.sort(key=lambda d: d["id"])
         changed += write_if_changed(out_dir / f"{name}.json", items)
-    index = {"updated": now.isoformat(timespec="seconds"), "total": len(docs),
+    index = {"updated": now.isoformat(timespec="seconds"), "schema": SCHEMA, "total": len(docs),
              "files": {name: len(items) for name, items in files.items()}}
     (out_dir / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     log.info("지원사업 게시: 파일 %d개 중 %d개 변경", len(files), changed)
