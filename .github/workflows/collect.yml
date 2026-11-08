@@ -60,6 +60,13 @@ jobs:
           ADMIN_TELEGRAM_CHAT_ID: ${{ secrets.ADMIN_TELEGRAM_CHAT_ID }}
           RESEND_ID: ${{ github.event.inputs.resend }}
 
+      - name: 지원사업 수집 (하루 한 번만 실제로 돎)
+        if: github.event.inputs.resend == ''   # 푸시 시험 실행에서는 건너뜀
+        continue-on-error: true                # 실패해도 청약 수집·게시는 계속
+        run: python -m server.benefits --site site
+        env:
+          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+
       - name: 시세 캐시 저장
         if: always()
         uses: actions/cache/save@v4
