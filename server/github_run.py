@@ -18,10 +18,11 @@ import argparse
 import json
 import logging
 import sqlite3
+import urllib.parse
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from server import collector, push, topics
+from server import benefits, collector, push, topics
 
 log = logging.getLogger("collector")
 KEEP_CLOSED_DAYS = 30      # 접수가 끝난 공고를 notices.json에 남겨 둘 기간
@@ -146,6 +147,24 @@ class FcmTopicSender:
         log.info("[토픽] %s ← %s", topic, data["title"])
 
 
+BENEFIT_ALERT_EVERY_HOURS = 6   # 지원사업 수집이 계속 실패해도 관리자 알림은 이 간격으로만
+
+
+def run_benefits(store, sender, env, site, now):
+    """지원사업 수집·게시·푸시 (하루 한 번만 실제로 돎). 실패해도 청약 수집은 계속한다."""
+    try:
+        key = urllib.parse.unquote((env.get("DATA_GO_KR_KEY") or "").strip())
+        res = benefits.run(site, key, now, sender=sender)
+        if res and res["failed"]:
+            push.admin_alert(env, f"⚠️ 로또청약: 지원사업 푸시 {res['failed']}건 실패")
+    except Exception:
+        log.exception("지원사업 수집 실패")
+        last = store.get_state("benefitFailAlertAt")
+        if not last or now - datetime.fromisoformat(last) >= timedelta(hours=BENEFIT_ALERT_EVERY_HOURS):
+            push.admin_alert(env, "⚠️ 로또청약: 지원사업 수집 실패 (청약 수집은 정상). Actions 로그를 확인하세요.")
+            store.set_state("benefitFailAlertAt", now.isoformat(timespec="seconds"))
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--site", default="site")
@@ -184,6 +203,7 @@ def main():
         push.admin_alert(env, f"⚠️ 로또청약: FCM 토픽 발송 {failed}건 실패")
     summary = {"lastRun": now.isoformat(timespec="seconds"), "sources": status,
                "newNotices": len(new), "topicMessages": sent}
+    run_benefits(store, sender, env, args.site, now)
     published = store.save(now, summary)
     log.info("실행 완료 (게시 %s): %s", "함" if published else "안 함", json.dumps(summary, ensure_ascii=False))
 

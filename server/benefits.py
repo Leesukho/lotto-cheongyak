@@ -14,6 +14,12 @@ site/benefits/index.json 의 마지막 실행 시각을 보고, 20시간이 안 
 목록의 긴 글은 잘라서 담고, 전문은 url(보조금24 상세 페이지)로 연결한다.
 조건 코드(cond)는 supportConditions의 값을 그대로 담는다. 코드 뜻은 공식 코드표로 확인한 뒤에 매칭에 쓴다.
 
+푸시 (github_run이 sender를 넘겨 줄 때만): 지원사업은 전국·시도 단위 토픽 'gv_{시도코드}' / 'gv_national'로
+  - 새로 등록된 사업            kind=new
+  - 신청 마감이 7일 안으로 다가온 사업  kind=d7 (2~7일 남음), kind=d1 (오늘·내일 마감)  ※ 마감일이 날짜로 있는 사업만
+데이터 메시지만 보낸다. 앱이 내 조건(나이·소득·대상 등)으로 걸러서 맞을 때만 알림을 띄운다 (내 조건은 서버로 보내지 않는다).
+처음 실행(state.json 없음)에는 지금 있는 사업을 '이미 본 것'으로만 기록하고 알리지 않는다.
+
 환경 변수: DATA_GO_KR_KEY (보조금24 활용신청이 승인된 키)
 """
 import argparse
@@ -31,6 +37,8 @@ API_BASE = "https://api.odcloud.kr/api/gov24/v3"
 PER_PAGE = 1000
 RUN_EVERY_HOURS = 20
 KEEP_CLOSED_DAYS = 30
+MAX_EVENTS = 400   # 한 번 실행에 보낼 푸시 상한 (이상 동작으로 쏟아지는 것을 막는 안전장치)
+FCM_MAX_BYTES = 3800
 SCHEMA = 2   # 게시 형식이 바뀌면 올린다 (주기가 안 지났어도 다시 수집해 새 형식으로 게시)
 CUT = {"summary": 200, "target": 300, "content": 300}
 
@@ -144,6 +152,72 @@ def build(key, now):
     return docs, files
 
 
+# ---------- 푸시 이벤트 ----------
+
+def topics_of(doc):
+    """사업이 가야 할 토픽: 전국이면 gv_national, 아니면 걸친 시도마다 gv_{코드}"""
+    if doc.get("scope") == "national" or not doc.get("sidos"):
+        return ["gv_national"]
+    return [f"gv_{topics.SIDO[s]}" for s in doc["sidos"] if s in topics.SIDO]
+
+
+def event_data(doc, kind):
+    """FCM 데이터 메시지(값은 모두 문자열). 앱이 조건 코드로 직접 자격을 점검할 수 있게 조건을 함께 담는다."""
+    cond = doc.get("cond") or {}
+    data = {"t": "gv", "kind": kind, "id": doc["id"], "title": doc["title"][:80], "org": doc.get("org", ""),
+            "field": (doc.get("field") or "").split("||")[0], "scope": doc.get("scope", ""),
+            "sigungu": doc.get("sigungu") or "", "end": doc.get("applyEnd") or "",
+            "ut": doc.get("userType") or "", "y": ",".join(cond.get("y", [])),
+            "a0": "" if cond.get("ageMin") is None else str(cond["ageMin"]),
+            "a1": "" if cond.get("ageMax") is None else str(cond["ageMax"])}
+    while len(json.dumps(data, ensure_ascii=False).encode()) > FCM_MAX_BYTES and data["y"]:
+        data["y"] = data["y"][:-7]   # 조건 코드가 너무 길면 뒤에서부터 줄인다 (앱은 모르는 코드는 무시)
+    return data
+
+
+def find_events(docs, state, now):
+    """새 사업과 마감 임박 사업을 찾는다. state를 갱신하고 [(문서, kind)]를 돌려준다. 처음 실행이면 기록만 한다."""
+    ids = {d["id"] for d in docs}
+    seen = set(state.get("seen", []))
+    sent = set(state.get("sent", []))
+    first = not state.get("seeded")
+    today = now.date()
+    events = []
+    for d in docs:
+        if not first and d["id"] not in seen:
+            events.append((d, "new"))
+        end = d.get("applyEnd")
+        if first or not end:
+            continue
+        left = (datetime.fromisoformat(end).date() - today).days
+        for kind, lo, hi in (("d7", 2, 7), ("d1", 0, 1)):
+            key = f"{d['id']}|{kind}"
+            if lo <= left <= hi and key not in sent:
+                events.append((d, kind))
+                sent.add(key)
+                break   # 오래 쉬었다 켜졌을 때 같은 사업에 두 번 보내지 않는다
+    state["seeded"] = True
+    state["seen"] = sorted(ids)
+    state["sent"] = sorted(k for k in sent if k.split("|")[0] in ids)   # 사라진 사업의 기록은 정리
+    return events
+
+
+def send_events(events, sender):
+    sent = failed = 0
+    for doc, kind in events[:MAX_EVENTS]:
+        data = event_data(doc, kind)
+        for topic in topics_of(doc):
+            try:
+                sender.send(topic, data)
+                sent += 1
+            except Exception:
+                failed += 1
+                log.exception("지원사업 푸시 실패: %s %s", topic, doc["id"])
+    if len(events) > MAX_EVENTS:
+        log.warning("지원사업 푸시 %d건 중 %d건만 보냄 (상한)", len(events), MAX_EVENTS)
+    return sent, failed
+
+
 def write_if_changed(path, data):
     text = json.dumps(data, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
     if path.exists() and path.read_text(encoding="utf-8") == text:
@@ -161,12 +235,12 @@ def due(out_dir, now):
     return meta.get("schema") != SCHEMA or not last or now - datetime.fromisoformat(last) >= timedelta(hours=RUN_EVERY_HOURS)
 
 
-def run(site, key, now, force=False):
+def run(site, key, now, force=False, sender=None):
     out_dir = Path(site) / "benefits"
     out_dir.mkdir(parents=True, exist_ok=True)
     if not force and not due(out_dir, now):
         log.info("지원사업 수집: %d시간이 안 지나 건너뜀", RUN_EVERY_HOURS)
-        return False
+        return None
     docs, files = build(key, now)
     changed = 0
     for name, items in files.items():
@@ -176,7 +250,17 @@ def run(site, key, now, force=False):
              "files": {name: len(items) for name, items in files.items()}}
     (out_dir / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     log.info("지원사업 게시: 파일 %d개 중 %d개 변경", len(files), changed)
-    return True
+    state_path = out_dir / "state.json"
+    state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+    events = find_events(docs, state, now)
+    result = {"events": len(events), "sent": 0, "failed": 0}
+    if sender is not None and events:
+        result["sent"], result["failed"] = send_events(events, sender)
+    elif events:
+        log.info("지원사업 푸시 대상 %d건 (보내는 곳이 없어 건너뜀)", len(events))
+    write_if_changed(state_path, state)
+    log.info("지원사업 알림: %s", result)
+    return result
 
 
 def main():
