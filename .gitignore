@@ -18,3 +18,7 @@ site/
 .cache/
 *.db
 *.log
+
+# 일회성 조사 결과·캐시
+research/cache/
+research/*.csv

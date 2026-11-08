@@ -8,6 +8,7 @@
 import json
 import re
 import statistics
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -48,10 +49,16 @@ class PriceLookup:
 
     # ---------- 공통 ----------
 
-    def _get(self, url, params):
+    def _get(self, url, params, retries=3):
         qs = urllib.parse.urlencode({"serviceKey": self.key, **params})
-        with urllib.request.urlopen(f"{url}?{qs}", timeout=30) as r:
-            return r.read().decode("utf-8")
+        for i in range(retries):  # 국토부 API는 가끔 503을 낸다
+            try:
+                with urllib.request.urlopen(f"{url}?{qs}", timeout=30) as r:
+                    return r.read().decode("utf-8")
+            except Exception:
+                if i == retries - 1:
+                    raise
+                time.sleep(3 * (i + 1))
 
     def _cached(self, k, max_age_days, fetch):
         hit = self.cache.get(k)
@@ -123,8 +130,10 @@ class PriceLookup:
         current = ym == date.today().strftime("%Y%m")
         return self._cached(f"{url.rsplit('/', 1)[-1]}:{lawd}:{ym}", 1 if current else 7, fetch)
 
-    def _recent(self, url, lawd):
-        y, m = date.today().year, date.today().month
+    def _recent(self, url, lawd, as_of=None):
+        """as_of(기준일)부터 거슬러 MONTHS개월 거래. 기본은 오늘."""
+        base = as_of or date.today()
+        y, m = base.year, base.month
         out = []
         for _ in range(MONTHS):
             out += self._trades(url, lawd, f"{y}{m:02d}")
@@ -133,21 +142,26 @@ class PriceLookup:
 
     # ---------- 시세 추정 ----------
 
-    def market(self, address, house_name, areas):
-        """전용면적별 시세 dict: {area: {"price", "count", "basis"}}"""
+    def market(self, address, house_name, areas, as_of=None):
+        """전용면적별 시세 dict: {area: {"price", "count", "basis"}}
+        as_of를 주면 그 날짜 기준 직전 MONTHS개월 거래로 계산한다 (과거 공고 당시 시세)."""
         reg = self.region(address)
         if not reg:
             return {}
         lawd, sgg_name, umd = reg
-        apt = self._recent(APT_TRADE_URL, lawd)
+        apt = self._recent(APT_TRADE_URL, lawd, as_of)
         try:
-            silv = self._recent(SILV_TRADE_URL, lawd)
+            silv = self._recent(SILV_TRADE_URL, lawd, as_of)
         except Exception:
             silv = []
+        if as_of:  # 기준일 이후 거래는 뺀다 (기준 달의 나머지 날짜)
+            cut = as_of.isoformat()
+            apt = [t for t in apt if t["date"] <= cut]
+            silv = [t for t in silv if t["date"] <= cut]
         target = _norm(house_name)
         same = [t for t in apt + silv if _same_complex(_norm(t["name"]), target)]
 
-        new_year = date.today().year - NEW_YEARS
+        new_year = (as_of or date.today()).year - NEW_YEARS
         dong = [t for t in apt if umd and t["umd"] == umd]
         newer = lambda ts: [t for t in ts if t["built"] >= new_year]
         result = {}
