@@ -330,6 +330,62 @@
   ]
  },
  {
+  "address": "",
+  "agency": "경남개발공사",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-11-06",
+   "applyEnd": "2026-11-18",
+   "applyStart": "2026-11-16",
+   "winner": "2026-12-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-09T14:20",
+  "hash": "e5f9b6e2a81ad4fc",
+  "id": "MH_공공임대_21512",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
+   "pdf": "https://www.gndc.co.kr/boardview/boardview.do?seqId=0000006202&BBS_ID=B491A490314446318099F9D828047900&IPDS_IDX=38F45729A8A44D7A91F428DADAEAFDFD&BBS_TYPE=L&COLM1=notice&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "김해시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "2026년 청년매입임대주택 입주자모집 공고",
+  "totalUnits": 40,
+  "units": [
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
+   }
+  ]
+ },
+ {
   "address": "경기도 연천군 전곡읍 밤골로 8 ",
   "agency": "LH",
   "category": "국민임대",
@@ -2376,7 +2432,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "afca4a6557387611",
+  "hash": "e521e5a735198b17",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -2406,16 +2462,6 @@
    },
    {
     "address": "",
-    "count": 25,
-    "deposit_won": null,
-    "name": "부산광역시 수영구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "수영구"
-   },
-   {
-    "address": "",
     "count": 20,
     "deposit_won": null,
     "name": "부산광역시 금정구",
@@ -2423,6 +2469,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "금정구"
+   },
+   {
+    "address": "",
+    "count": 25,
+    "deposit_won": null,
+    "name": "부산광역시 수영구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "수영구"
    }
   ]
  },
