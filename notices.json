@@ -92,6 +92,72 @@
   ]
  },
  {
+  "address": "강원특별자치도 원주시 치악로 2050 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-09",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-25",
+   "winner": "2027-03-10"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-09T17:10",
+  "hash": "73d345491f08d152",
+  "id": "MH_공공임대_21513",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21513&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021011&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "원주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "원주시지역 영구임대주택 예비입주자 모집",
+  "totalUnits": 230,
+  "units": [
+   {
+    "address": "강원특별자치도 원주시 치악로 2050 ",
+    "count": 50,
+    "deposit_won": 2210000,
+    "name": "원주태장5",
+    "rent_won": 43990,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 소일마을2길 60 ",
+    "count": 80,
+    "deposit_won": 2509000,
+    "name": "원주태장8",
+    "rent_won": 49910,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 흥업면 남원로 52 ",
+    "count": 100,
+    "deposit_won": 2100000,
+    "name": "원주흥업2",
+    "rent_won": 41790,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   }
+  ]
+ },
+ {
   "address": "전북특별자치도 남원시 노송로 1255-9 ",
   "agency": "LH",
   "category": "5·10년 공공임대",
@@ -2478,7 +2544,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "e521e5a735198b17",
+  "hash": "fecb2bfecad72c4a",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -2490,22 +2556,12 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "해운대구",
+  "sigungu": "금정구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
-   {
-    "address": "",
-    "count": 7,
-    "deposit_won": null,
-    "name": "부산광역시 해운대구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "해운대구"
-   },
    {
     "address": "",
     "count": 20,
@@ -2525,6 +2581,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "수영구"
+   },
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "부산광역시 해운대구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "해운대구"
    }
   ]
  },
