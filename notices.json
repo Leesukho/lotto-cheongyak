@@ -46,6 +46,52 @@
   ]
  },
  {
+  "address": "제주특별자치도 서귀포시 서호남로 92-15 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-09",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-09T15:20",
+  "hash": "ee34216349d7dc45",
+  "id": "MH_공공분양_1516",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1516&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021000&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "제주",
+  "sidoFull": "제주특별자치도",
+  "sidos": [
+   "제주"
+  ],
+  "sigungu": "서귀포시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "서귀포혁신1 잔여세대 일반매각 공고 (무순위 공급)",
+  "totalUnits": 10,
+  "units": [
+   {
+    "address": "제주특별자치도 서귀포시 서호남로 92-15 ",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서귀포혁신1",
+    "rent_won": null,
+    "sido": "제주",
+    "sidoFull": "제주특별자치도",
+    "sigungu": "서귀포시"
+   }
+  ]
+ },
+ {
   "address": "전북특별자치도 남원시 노송로 1255-9 ",
   "agency": "LH",
   "category": "5·10년 공공임대",
