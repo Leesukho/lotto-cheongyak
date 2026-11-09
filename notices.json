@@ -158,6 +158,51 @@
   ]
  },
  {
+  "address": "서울특별시 중구 황학동 1756번지 일원",
+  "agency": "황학동청계지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-09",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-20"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-10T01:00",
+  "hash": "71fa371d53ecee4f",
+  "id": "AH_2026910290_2026910290",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910290&pblancNo=2026910290",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910290&pblancNo=2026910290&atchmnflSeqNo=2008590&atchmnflSn=2"
+  },
+  "maxGapManwon": -33326,
+  "rawHash": "a911acd9cafb79ea",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "중구",
+  "source": "applyhome",
+  "status": "",
+  "title": "청계 노르웨이숲(14차)",
+  "totalUnits": 6,
+  "units": [
+   {
+    "area_m2": 39.695,
+    "count_general": 6,
+    "count_special": 0,
+    "gap_manwon": -33326,
+    "market_basis": "중구 신축 유사평형",
+    "market_count": 4,
+    "market_manwon": 40500,
+    "name": "039.6950 ",
+    "price_manwon": 73826
+   }
+  ]
+ },
+ {
   "address": "전북특별자치도 남원시 노송로 1255-9 ",
   "agency": "LH",
   "category": "5·10년 공공임대",
