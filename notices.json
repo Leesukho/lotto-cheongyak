@@ -1439,6 +1439,82 @@
   ]
  },
  {
+  "address": "경상북도 경주시 건천읍 대곡용명길 27 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-11-24",
+   "winner": "2026-11-23"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-10T15:00",
+  "hash": "0ff0aba48b95c8b5",
+  "id": "MH_공공임대_21516",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21516&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021030&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "경주시",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "‘26.11월 경주시, 영천시 국민임대주택 동호지정 입주자격 완화 입주자 모집(선계약 후검증)",
+  "totalUnits": 151,
+  "units": [
+   {
+    "address": "경상북도 경주시 건천읍 대곡용명길 27 ",
+    "count": 42,
+    "deposit_won": 10281000,
+    "name": "경주건천",
+    "rent_won": 72560,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 경주시 안강읍 안강중앙로 141 ",
+    "count": 40,
+    "deposit_won": 10231000,
+    "name": "경주안강",
+    "rent_won": 104670,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 경주시 외동읍 본동길 14 ",
+    "count": 28,
+    "deposit_won": 11385000,
+    "name": "경주외동",
+    "rent_won": 91820,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 영천시 망정로 80 ",
+    "count": 41,
+    "deposit_won": 15597000,
+    "name": "영천망정 5단지",
+    "rent_won": 107610,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "영천시"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
@@ -2635,7 +2711,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "fecb2bfecad72c4a",
+  "hash": "b87652ef653d70a7",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -2647,22 +2723,12 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "금정구",
+  "sigungu": "수영구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
-    "name": "부산광역시 금정구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "금정구"
-   },
    {
     "address": "",
     "count": 25,
@@ -2682,6 +2748,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "해운대구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "부산광역시 금정구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "금정구"
    }
   ]
  },
@@ -2793,7 +2869,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "48b0e0a2520f0adb",
+  "hash": "061a1fe87f4e6ba3",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -2805,22 +2881,12 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 청원구",
+  "sigungu": "청주시 흥덕구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
   "totalUnits": 28,
   "units": [
-   {
-    "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
-   },
    {
     "address": "",
     "count": 1,
@@ -2830,6 +2896,16 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 흥덕구"
+   },
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
    },
    {
     "address": "",
