@@ -46,6 +46,95 @@
   ]
  },
  {
+  "address": "경기도 부천시 소사구 송내동 365-1번지 일원",
+  "agency": "송내동 성우아파트 소규모재건축정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-10",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-19"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-11T01:00",
+  "hash": "99ad4e5a3e91a1fc",
+  "id": "AH_2026910284_2026910284",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910284&pblancNo=2026910284",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910284&pblancNo=2026910284&atchmnflSeqNo=2008209&atchmnflSn=5"
+  },
+  "maxGapManwon": 3300,
+  "rawHash": "e224992734a92657",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "부천시",
+  "source": "applyhome",
+  "status": "",
+  "title": "중동역 다채로움 더원",
+  "totalUnits": 23,
+  "units": [
+   {
+    "area_m2": 54.8244,
+    "count_general": 7,
+    "count_special": 0,
+    "gap_manwon": -20400,
+    "market_basis": "송내동 신축 유사평형",
+    "market_count": 3,
+    "market_manwon": 34500,
+    "name": "054.8244 ",
+    "price_manwon": 54900
+   },
+   {
+    "area_m2": 59.9935,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": 3300,
+    "market_basis": "송내동 신축 유사평형",
+    "market_count": 12,
+    "market_manwon": 62500,
+    "name": "059.9935B",
+    "price_manwon": 59200
+   },
+   {
+    "area_m2": 60.7403,
+    "count_general": 5,
+    "count_special": 0,
+    "gap_manwon": 1300,
+    "market_basis": "송내동 신축 유사평형",
+    "market_count": 13,
+    "market_manwon": 62500,
+    "name": "060.7403 ",
+    "price_manwon": 61200
+   },
+   {
+    "area_m2": 84.9888,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -3300,
+    "market_basis": "송내동 신축 유사평형",
+    "market_count": 7,
+    "market_manwon": 72000,
+    "name": "084.9888A",
+    "price_manwon": 75300
+   },
+   {
+    "area_m2": 84.9933,
+    "count_general": 7,
+    "count_special": 0,
+    "gap_manwon": -7300,
+    "market_basis": "송내동 신축 유사평형",
+    "market_count": 7,
+    "market_manwon": 72000,
+    "name": "084.9933B",
+    "price_manwon": 79300
+   }
+  ]
+ },
+ {
   "address": "충청북도 제천시 죽하로 30 ",
   "agency": "LH",
   "category": "5·10년 공공임대",
