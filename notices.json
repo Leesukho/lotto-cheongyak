@@ -1,5 +1,51 @@
 [
  {
+  "address": "강원특별자치도 원주시 마장1길 70-1 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-10",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-25",
+   "winner": "2026-12-01"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-10T13:40",
+  "hash": "1599d6b266b67b8e",
+  "id": "MH_공공분양_1517",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1517&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061207&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "원주시",
+  "source": "myhome_sale",
+  "status": "일반공고",
+  "title": "A-2블록 공공분양 잔여세대 추가 입주자모집 공고(순번추첨 동호지정 및 선착순)",
+  "totalUnits": 154,
+  "units": [
+   {
+    "address": "강원특별자치도 원주시 마장1길 70-1 ",
+    "count": 154,
+    "deposit_won": null,
+    "name": "원주무실 A-2",
+    "rent_won": null,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   }
+  ]
+ },
+ {
   "address": "충청북도 제천시 죽하로 30 ",
   "agency": "LH",
   "category": "5·10년 공공임대",
