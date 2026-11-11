@@ -1,7 +1,7 @@
 {
  "files": {
   "busan": 361,
-  "chungbuk": 519,
+  "chungbuk": 518,
   "chungnam": 726,
   "daegu": 288,
   "daejeon": 136,
@@ -20,6 +20,6 @@
   "ulsan": 216
  },
  "schema": 2,
- "total": 10471,
- "updated": "2026-11-11T07:40:26"
+ "total": 10470,
+ "updated": "2026-11-12T03:40:34"
 }
