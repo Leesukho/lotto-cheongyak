@@ -138,6 +138,98 @@
   ]
  },
  {
+  "address": "인천광역시 부평구 산청로17번길 67 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-23",
+   "winner": "2027-04-15"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-11T16:50",
+  "hash": "d42bd104dcce8cb2",
+  "id": "MH_공공임대_21522",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21522&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021052&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "부평구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인천산곡 A1블록 행복주택(산곡솔마루아파트) 예비입주자 모집",
+  "totalUnits": 30,
+  "units": [
+   {
+    "address": "인천광역시 부평구 산청로17번길 67 ",
+    "count": 30,
+    "deposit_won": 84400000,
+    "name": "인천산곡 A1블록",
+    "rent_won": 372760,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "부평구"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-12-22"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-11T16:50",
+  "hash": "7d0aa889926f7cc6",
+  "id": "MH_공공임대_21521",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21521",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020997&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[전남광주통합특별시 북구] 기존주택 등 매입임대주택 예비입주자 모집 공고",
+  "totalUnits": 29,
+  "units": [
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "전남광주통합특별시 북구",
+    "rent_won": null,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 원주시 마장1길 70-1 ",
   "agency": "LH",
   "category": "공공분양",
@@ -2938,7 +3030,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "b87652ef653d70a7",
+  "hash": "73ef47440a1dfc33",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -2950,7 +3042,7 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "수영구",
+  "sigungu": "금정구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
@@ -2958,13 +3050,13 @@
   "units": [
    {
     "address": "",
-    "count": 25,
+    "count": 20,
     "deposit_won": null,
-    "name": "부산광역시 수영구",
+    "name": "부산광역시 금정구",
     "rent_won": null,
     "sido": "부산",
     "sidoFull": "부산광역시",
-    "sigungu": "수영구"
+    "sigungu": "금정구"
    },
    {
     "address": "",
@@ -2978,13 +3070,13 @@
    },
    {
     "address": "",
-    "count": 20,
+    "count": 25,
     "deposit_won": null,
-    "name": "부산광역시 금정구",
+    "name": "부산광역시 수영구",
     "rent_won": null,
     "sido": "부산",
     "sidoFull": "부산광역시",
-    "sigungu": "금정구"
+    "sigungu": "수영구"
    }
   ]
  },
@@ -3096,7 +3188,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "48b0e0a2520f0adb",
+  "hash": "061a1fe87f4e6ba3",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -3108,22 +3200,12 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 청원구",
+  "sigungu": "청주시 흥덕구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
   "totalUnits": 28,
   "units": [
-   {
-    "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "충청북도 청주시 청원구",
-    "rent_won": null,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "청주시 청원구"
-   },
    {
     "address": "",
     "count": 1,
@@ -3133,6 +3215,16 @@
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "청주시 흥덕구"
+   },
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "충청북도 청주시 청원구",
+    "rent_won": null,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
    },
    {
     "address": "",
