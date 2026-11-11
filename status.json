@@ -1,7 +1,7 @@
 {
- "lastPublished": "2026-11-11T13:00:44",
- "lastRun": "2026-11-11T13:00:44",
- "newNotices": 3,
+ "lastPublished": "2026-11-11T14:00:45",
+ "lastRun": "2026-11-11T14:00:45",
+ "newNotices": 0,
  "noticeCount": 127,
  "sources": {
   "applyhome": {
@@ -12,10 +12,10 @@
   },
   "myhome": {
    "count": 75,
-   "new": 3,
+   "new": 0,
    "ok": true,
    "skipped": false
   }
  },
- "topicMessages": 3
+ "topicMessages": 0
 }
