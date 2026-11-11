@@ -1,5 +1,97 @@
 [
  {
+  "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-12-04",
+   "applyStart": "2026-11-30",
+   "winner": "2027-04-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-11T13:00",
+  "hash": "b2df27f5424e595f",
+  "id": "MH_공공임대_21518",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21518&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021033&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "인제군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인제서화 고령자복지주택(국민임대) 추가 입주자 모집",
+  "totalUnits": 9,
+  "units": [
+   {
+    "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
+    "count": 9,
+    "deposit_won": 8300000,
+    "name": "인제서화",
+    "rent_won": 188000,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "인제군"
+   }
+  ]
+ },
+ {
+  "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-12-04",
+   "applyStart": "2026-11-30",
+   "winner": "2027-04-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-11T13:00",
+  "hash": "1118bc1cd3ac5a43",
+  "id": "MH_공공임대_21517",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21517&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021032&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "인제군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인제서화 고령자복지주택(영구임대) 추가 입주자 모집",
+  "totalUnits": 4,
+  "units": [
+   {
+    "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
+    "count": 4,
+    "deposit_won": 3106000,
+    "name": "인제서화",
+    "rent_won": 61760,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "인제군"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 원주시 마장1길 70-1 ",
   "agency": "LH",
   "category": "공공분양",
@@ -637,7 +729,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -649,22 +741,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -674,6 +756,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
@@ -2800,7 +2892,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "b87652ef653d70a7",
+  "hash": "b0fc1f82d7ae9802",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -2830,16 +2922,6 @@
    },
    {
     "address": "",
-    "count": 7,
-    "deposit_won": null,
-    "name": "부산광역시 해운대구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "해운대구"
-   },
-   {
-    "address": "",
     "count": 20,
     "deposit_won": null,
     "name": "부산광역시 금정구",
@@ -2847,6 +2929,16 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "금정구"
+   },
+   {
+    "address": "",
+    "count": 7,
+    "deposit_won": null,
+    "name": "부산광역시 해운대구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "해운대구"
    }
   ]
  },
@@ -2958,7 +3050,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "061a1fe87f4e6ba3",
+  "hash": "6fe51bfd3eb39dde",
   "id": "MH_공공임대_21486",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21486",
@@ -2970,7 +3062,7 @@
   "sidos": [
    "충북"
   ],
-  "sigungu": "청주시 흥덕구",
+  "sigungu": "청주시 상당구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "청주시 다자녀 매입임대주택 예비입주자 모집(261029공고)",
@@ -2978,13 +3070,13 @@
   "units": [
    {
     "address": "",
-    "count": 1,
+    "count": 19,
     "deposit_won": null,
-    "name": "충청북도 청주시 흥덕구",
+    "name": "충청북도 청주시 상당구",
     "rent_won": null,
     "sido": "충북",
     "sidoFull": "충청북도",
-    "sigungu": "청주시 흥덕구"
+    "sigungu": "청주시 상당구"
    },
    {
     "address": "",
@@ -2998,13 +3090,13 @@
    },
    {
     "address": "",
-    "count": 19,
+    "count": 1,
     "deposit_won": null,
-    "name": "충청북도 청주시 상당구",
+    "name": "충청북도 청주시 흥덕구",
     "rent_won": null,
     "sido": "충북",
     "sidoFull": "충청북도",
-    "sigungu": "청주시 상당구"
+    "sigungu": "청주시 흥덕구"
    }
   ]
  },
@@ -6003,6 +6095,52 @@
   "sigungu": "익산시",
   "source": "myhome_rent",
   "status": "일반공고",
+  "title": "익산제3일반산단 행복주택 입주자격완화 추가모집(동호지정,선계약후검증)",
+  "totalUnits": 49,
+  "units": [
+   {
+    "address": "전북특별자치도 익산시 낭산면 삼기북길 178 ",
+    "count": 49,
+    "deposit_won": 15096000,
+    "name": "익산제3일반산단",
+    "rent_won": 83020,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "익산시"
+   }
+  ]
+ },
+ {
+  "address": "전북특별자치도 익산시 낭산면 삼기북길 178 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-10-02",
+   "applyEnd": "2026-11-12",
+   "applyStart": "2026-10-15",
+   "winner": "2026-11-12"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-11T13:00",
+  "hash": "61e47491eb5063d6",
+  "id": "MH_공공임대_21519",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21519&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021045&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "익산시",
+  "source": "myhome_rent",
+  "status": "정정공고",
   "title": "익산제3일반산단 행복주택 입주자격완화 추가모집(동호지정,선계약후검증)",
   "totalUnits": 49,
   "units": [
