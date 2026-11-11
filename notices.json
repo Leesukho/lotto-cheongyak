@@ -230,6 +230,219 @@
   ]
  },
  {
+  "address": "경기도 평택시 고덕국제8로 10(고덕동 2705-1)",
+  "agency": "(주)덕원이앤씨",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-19"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-12T01:00",
+  "hash": "e034958ace379c07",
+  "id": "AH_2026910297_2026910297",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910297&pblancNo=2026910297",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910297&pblancNo=2026910297&atchmnflSeqNo=2021002&atchmnflSn=3"
+  },
+  "maxGapManwon": -600,
+  "rawHash": "39b185d80c4af7fe",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "평택시",
+  "source": "applyhome",
+  "status": "",
+  "title": "평택 고덕 국제신도시 A-55 대광로제비앙 모아엘가(4차)",
+  "totalUnits": 3,
+  "units": [
+   {
+    "area_m2": 84.9452,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -600,
+    "market_basis": "평택시 신축 유사평형",
+    "market_count": 897,
+    "market_manwon": 50000,
+    "name": "084.9452A",
+    "price_manwon": 50600
+   },
+   {
+    "area_m2": 84.9704,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -600,
+    "market_basis": "평택시 신축 유사평형",
+    "market_count": 897,
+    "market_manwon": 50000,
+    "name": "084.9704B",
+    "price_manwon": 50600
+   }
+  ]
+ },
+ {
+  "address": "경기도 이천시 증포동 502번지",
+  "agency": "교보자산신탁(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-19"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-12T01:00",
+  "hash": "5edacf0a400e092d",
+  "id": "AH_2026910293_2026910293",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910293&pblancNo=2026910293",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910293&pblancNo=2026910293&atchmnflSeqNo=2019012&atchmnflSn=4"
+  },
+  "maxGapManwon": 9930,
+  "rawHash": "b45a58f33d3b7de8",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "이천시",
+  "source": "applyhome",
+  "status": "",
+  "title": "이천자이 더 리체",
+  "totalUnits": 3,
+  "units": [
+   {
+    "area_m2": 84.94,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 3377,
+    "market_basis": "동일단지",
+    "market_count": 26,
+    "market_manwon": 52667,
+    "name": "084.9400B",
+    "price_manwon": 49290
+   },
+   {
+    "area_m2": 84.94,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 1277,
+    "market_basis": "동일단지",
+    "market_count": 26,
+    "market_manwon": 52667,
+    "name": "084.9400C",
+    "price_manwon": 51390
+   },
+   {
+    "area_m2": 120.58,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 9930,
+    "market_basis": "동일단지",
+    "market_count": 8,
+    "market_manwon": 79630,
+    "name": "120.5800 ",
+    "price_manwon": 69700
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 연수구 송도동 396-11 (A17블록)",
+  "agency": "주식회사 무궁화신탁",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-19"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-12T01:00",
+  "hash": "3d964a4c77a3ba8d",
+  "id": "AH_2026910291_2026910291",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910291&pblancNo=2026910291",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910291&pblancNo=2026910291&atchmnflSeqNo=2022000&atchmnflSn=2"
+  },
+  "maxGapManwon": -118890,
+  "rawHash": "1738c400f3fe5164",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "연수구",
+  "source": "applyhome",
+  "status": "",
+  "title": "송도자이 더 스타(3차)",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 151.3362,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -118890,
+    "market_basis": "송도동 유사평형",
+    "market_count": 21,
+    "market_manwon": 119000,
+    "name": "151.3362P",
+    "price_manwon": 237890
+   }
+  ]
+ },
+ {
+  "address": "경기도 안양시 만안구 석수2동 38번지 일대",
+  "agency": "화창지구재개발정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-11",
+   "applyEnd": "2026-11-16",
+   "applyStart": "2026-11-16",
+   "winner": "2026-11-19"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-12T01:00",
+  "hash": "6cfebdd44427192b",
+  "id": "AH_2026910288_2026910288",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910288&pblancNo=2026910288",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910288&pblancNo=2026910288&atchmnflSeqNo=2020031&atchmnflSn=6"
+  },
+  "maxGapManwon": 4343,
+  "rawHash": "a663643cf6c80905",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "안양시",
+  "source": "applyhome",
+  "status": "",
+  "title": "안양자이 더 포레스트",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 59.9871,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 4343,
+    "market_basis": "동일단지",
+    "market_count": 4,
+    "market_manwon": 72613,
+    "name": "059.9871A",
+    "price_manwon": 68270
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 원주시 마장1길 70-1 ",
   "agency": "LH",
   "category": "공공분양",
