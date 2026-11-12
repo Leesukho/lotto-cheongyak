@@ -214,6 +214,98 @@
   ]
  },
  {
+  "address": "경상남도 밀양시 중앙로 47 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-23",
+   "winner": "2027-04-06"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-12T14:50",
+  "hash": "f3b5b2cdbd2f3c12",
+  "id": "MH_공공임대_21529",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21529&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021041&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "밀양시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "밀양가곡1 영구임대주택 예비입주자 모집",
+  "totalUnits": 170,
+  "units": [
+   {
+    "address": "경상남도 밀양시 중앙로 47 ",
+    "count": 170,
+    "deposit_won": 2520000,
+    "name": "밀양가곡",
+    "rent_won": 50160,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "밀양시"
+   }
+  ]
+ },
+ {
+  "address": "울산광역시 중구 다전로 277 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-23",
+   "winner": "2026-12-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-12T14:50",
+  "hash": "bf8ffbb6217c6280",
+  "id": "MH_공공임대_21528",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21528&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021060&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "울산",
+  "sidoFull": "울산광역시",
+  "sidos": [
+   "울산"
+  ],
+  "sigungu": "중구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "울산다운2 A-6블록 행복주택 입주자 추가모집(입주자격완화, 선계약후검증)",
+  "totalUnits": 207,
+  "units": [
+   {
+    "address": "울산광역시 중구 다전로 277 ",
+    "count": 207,
+    "deposit_won": 20400000,
+    "name": "울산다운2 A-6블록",
+    "rent_won": 93500,
+    "sido": "울산",
+    "sidoFull": "울산광역시",
+    "sigungu": "중구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
   "agency": "LH",
   "category": "국민임대",
