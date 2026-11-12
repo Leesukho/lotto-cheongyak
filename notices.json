@@ -168,6 +168,52 @@
   ]
  },
  {
+  "address": "울산광역시 울주군 범서읍 다운서사로 240 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-23",
+   "winner": "2026-12-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-12T14:40",
+  "hash": "c7bd9d8348bdfb05",
+  "id": "MH_공공임대_21527",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21527&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021062&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "울산",
+  "sidoFull": "울산광역시",
+  "sidos": [
+   "울산"
+  ],
+  "sigungu": "울주군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "울산다운2 A-9블록 행복주택(신혼희망타운) 입주자 추가모집(입주자격완화, 선계약후검증)",
+  "totalUnits": 122,
+  "units": [
+   {
+    "address": "울산광역시 울주군 범서읍 다운서사로 240 ",
+    "count": 122,
+    "deposit_won": 66000000,
+    "name": "울산다운2 A-9블록",
+    "rent_won": 302500,
+    "sido": "울산",
+    "sidoFull": "울산광역시",
+    "sigungu": "울주군"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
   "agency": "LH",
   "category": "국민임대",
