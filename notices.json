@@ -306,6 +306,52 @@
   ]
  },
  {
+  "address": "대전광역시 중구 보문산로161번길 55 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-02-04"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-12T16:20",
+  "hash": "193e416578f21840",
+  "id": "MH_공공임대_21530",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21530&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021012&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sidos": [
+   "대전"
+  ],
+  "sigungu": "중구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "대전문화1단지 50년공공임대주택 예비입주자 모집공고(2026.11.12.)",
+  "totalUnits": 130,
+  "units": [
+   {
+    "address": "대전광역시 중구 보문산로161번길 55 ",
+    "count": 130,
+    "deposit_won": 14461000,
+    "name": "대전문화1",
+    "rent_won": 195130,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "중구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
   "agency": "LH",
   "category": "국민임대",
@@ -1463,7 +1509,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "670d07f12201edab",
+  "hash": "e5f9b6e2a81ad4fc",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -1475,22 +1521,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "진주시",
+  "sigungu": "김해시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 30,
-    "deposit_won": null,
-    "name": "경상남도 진주시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "진주시"
-   },
    {
     "address": "",
     "count": 10,
@@ -1500,6 +1536,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
    }
   ]
  },
@@ -3626,7 +3672,7 @@
    ]
   },
   "firstSeen": "2026-11-03T22:50",
-  "hash": "73ef47440a1dfc33",
+  "hash": "b0fc1f82d7ae9802",
   "id": "MH_공공임대_21491",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21491",
@@ -3638,12 +3684,22 @@
   "sidos": [
    "부산"
   ],
-  "sigungu": "금정구",
+  "sigungu": "수영구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[부산] 2026년 2차 일반 매입임대주택 입주자 모집 공고",
   "totalUnits": 52,
   "units": [
+   {
+    "address": "",
+    "count": 25,
+    "deposit_won": null,
+    "name": "부산광역시 수영구",
+    "rent_won": null,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "수영구"
+   },
    {
     "address": "",
     "count": 20,
@@ -3663,16 +3719,6 @@
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "해운대구"
-   },
-   {
-    "address": "",
-    "count": 25,
-    "deposit_won": null,
-    "name": "부산광역시 수영구",
-    "rent_won": null,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "수영구"
    }
   ]
  },
