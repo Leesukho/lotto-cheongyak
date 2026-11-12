@@ -1,5 +1,71 @@
 [
  {
+  "address": "강원특별자치도 춘천시 동내면 거두택지길 70 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-25",
+   "winner": "2027-04-06"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-12T13:50",
+  "hash": "6b36d6e712764384",
+  "id": "MH_공공임대_21523",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21523&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021049&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "춘천시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "춘천시 철원군지역 행복주택 예비입주자 모집공고",
+  "totalUnits": 144,
+  "units": [
+   {
+    "address": "강원특별자치도 춘천시 동내면 거두택지길 70 ",
+    "count": 100,
+    "deposit_won": 13192000,
+    "name": "춘천거두2",
+    "rent_won": 70350,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "춘천시"
+   },
+   {
+    "address": "강원특별자치도 철원군 갈말읍 명성로111번길 18 ",
+    "count": 15,
+    "deposit_won": 10506000,
+    "name": "철원갈말",
+    "rent_won": 56900,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "철원군"
+   },
+   {
+    "address": "강원특별자치도 철원군 철원읍 금학로279번길 15 ",
+    "count": 29,
+    "deposit_won": 19554000,
+    "name": "철원철원",
+    "rent_won": 114060,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "철원군"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
   "agency": "LH",
   "category": "국민임대",
