@@ -352,6 +352,51 @@
   ]
  },
  {
+  "address": "충청북도 청주시 서원구 개신동 767번지",
+  "agency": "구룡개발(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-12",
+   "applyEnd": "2026-11-17",
+   "applyStart": "2026-11-17",
+   "winner": "2026-11-20"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-13T01:00",
+  "hash": "91e5d6d10bee001e",
+  "id": "AH_2026910287_2026910287",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910287&pblancNo=2026910287",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910287&pblancNo=2026910287&atchmnflSeqNo=2021083&atchmnflSn=1"
+  },
+  "maxGapManwon": 19042,
+  "rawHash": "6f1cba272d5c53a6",
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sigungu": "청주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "더샵 청주그리니티(2차)",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 99.8624,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 19042,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 56750,
+    "name": "099.8624A",
+    "price_manwon": 37708
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 인제군 서화면 천도로81번길 43 ",
   "agency": "LH",
   "category": "국민임대",
