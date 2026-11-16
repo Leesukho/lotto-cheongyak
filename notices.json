@@ -3612,7 +3612,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -3624,22 +3624,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -3649,6 +3639,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
