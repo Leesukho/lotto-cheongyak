@@ -998,6 +998,144 @@
   ]
  },
  {
+  "address": "경상남도 창원시 진해구 웅동로 150 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-03-19"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:10",
+  "hash": "a1033fecb4cba90f",
+  "id": "MH_공공임대_21554",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21554&houseSn=2",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021095&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "창원시 진해구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "창원시 지역 진해청안해오름 국민임대주택 예비입주자 모집 공고(26.11.16.)",
+  "totalUnits": 50,
+  "units": [
+   {
+    "address": "경상남도 창원시 진해구 웅동로 150 ",
+    "count": 50,
+    "deposit_won": 22664000,
+    "name": "진해청안해오름",
+    "rent_won": 167990,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "창원시 진해구"
+   }
+  ]
+ },
+ {
+  "address": "경상남도 거제시 장평2로 36 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:10",
+  "hash": "fc5bd108a3139917",
+  "id": "MH_공공임대_21553",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21553&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021093&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "거제시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "거제시지역 거제장평3 국민임대주택 예비입주자 모집공고(2026.11.16.)",
+  "totalUnits": 20,
+  "units": [
+   {
+    "address": "경상남도 거제시 장평2로 36 ",
+    "count": 20,
+    "deposit_won": 29382000,
+    "name": "거제장평3",
+    "rent_won": 244830,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "거제시"
+   }
+  ]
+ },
+ {
+  "address": "경상남도 창원시 진해구 웅동로51번길 24-3 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-03-19"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:10",
+  "hash": "ecc5232a031e82fc",
+  "id": "MH_공공임대_21552",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21552&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021095&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "창원시 진해구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "창원시 지역 진해청안그린빌 국민임대주택 예비입주자 모집 공고(26.11.16.)",
+  "totalUnits": 30,
+  "units": [
+   {
+    "address": "경상남도 창원시 진해구 웅동로51번길 24-3 ",
+    "count": 30,
+    "deposit_won": 16664000,
+    "name": "진해청안그린빌",
+    "rent_won": 182640,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "창원시 진해구"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -1013,7 +1151,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "8be345d61c95b225",
+  "hash": "a1dc71e0b0636457",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -1025,22 +1163,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "당진시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
    {
     "address": "",
     "count": 44,
@@ -1060,6 +1188,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "아산시"
+   },
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
    }
   ]
  },
