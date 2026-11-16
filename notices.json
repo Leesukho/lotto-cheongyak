@@ -728,6 +728,92 @@
   ]
  },
  {
+  "address": "강원특별자치도 원주시 시청로 40 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-16"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:40",
+  "hash": "3185d45bda8e183d",
+  "id": "MH_공공임대_21547",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21547&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021053&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "원주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "원주시지역 국민임대주택 예비입주자 모집",
+  "totalUnits": 360,
+  "units": [
+   {
+    "address": "강원특별자치도 원주시 시청로 40 ",
+    "count": 50,
+    "deposit_won": 20885000,
+    "name": "원주무실7",
+    "rent_won": 227720,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 무실로 300 ",
+    "count": 80,
+    "deposit_won": 12253000,
+    "name": "원주무실8",
+    "rent_won": 174280,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 혁신로 350 ",
+    "count": 80,
+    "deposit_won": 10637000,
+    "name": "원주푸른숨10",
+    "rent_won": 212770,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 흥업면 남원로 52 ",
+    "count": 100,
+    "deposit_won": 9456000,
+    "name": "원주흥업2",
+    "rent_won": 141840,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 치악로 2050 ",
+    "count": 50,
+    "deposit_won": 9536000,
+    "name": "원주태장6",
+    "rent_won": 124220,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2472,7 +2558,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -2484,22 +2570,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -2509,6 +2585,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
