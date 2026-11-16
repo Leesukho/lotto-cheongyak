@@ -86,6 +86,52 @@
   ]
  },
  {
+  "address": "제주특별자치도 서귀포시 태평로512번길 9 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-11-30",
+   "winner": "2027-03-24"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T13:40",
+  "hash": "7576433c99084b08",
+  "id": "MH_공공임대_21535",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21535&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021084&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "제주",
+  "sidoFull": "제주특별자치도",
+  "sidos": [
+   "제주"
+  ],
+  "sigungu": "서귀포시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "서귀포동홍3 영구임대주택 예비입주자 모집 공고(공고일 `26.11.16)",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "제주특별자치도 서귀포시 태평로512번길 9 ",
+    "count": 100,
+    "deposit_won": 2469000,
+    "name": "서귀포동홍3",
+    "rent_won": 49120,
+    "sido": "제주",
+    "sidoFull": "제주특별자치도",
+    "sigungu": "서귀포시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -101,7 +147,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "763fdddcec0e2dd7",
+  "hash": "4f0d1f9cefe8bf4c",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -113,12 +159,22 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "당진시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
+   {
+    "address": "",
+    "count": 44,
+    "deposit_won": null,
+    "name": "충청남도 당진시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "당진시"
+   },
    {
     "address": "",
     "count": 33,
@@ -138,16 +194,6 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "아산시"
-   },
-   {
-    "address": "",
-    "count": 44,
-    "deposit_won": null,
-    "name": "충청남도 당진시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "당진시"
    }
   ]
  },
