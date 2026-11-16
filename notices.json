@@ -1136,6 +1136,108 @@
   ]
  },
  {
+  "address": "대전광역시 유성구 유성대로668번길 81 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-09",
+   "applyStart": "2026-12-07",
+   "winner": "2027-03-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:30",
+  "hash": "07fc20e4ad574c23",
+  "id": "MH_공공임대_21556",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21556&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021075&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sidos": [
+   "대전"
+  ],
+  "sigungu": "유성구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "대전광역시 유성구(유성타워)·대덕구(주은반석) 국민임대(매입형)주택 입주자격완화 예비입주자모집",
+  "totalUnits": 135,
+  "units": [
+   {
+    "address": "대전광역시 유성구 유성대로668번길 81 ",
+    "count": 35,
+    "deposit_won": 9440000,
+    "name": "대전유성타워",
+    "rent_won": 52580,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
+   },
+   {
+    "address": "대전광역시 대덕구 덕암로154번길 16 ",
+    "count": 100,
+    "deposit_won": 9882000,
+    "name": "대전주은반석",
+    "rent_won": 81460,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "대덕구"
+   }
+  ]
+ },
+ {
+  "address": "경상남도 양산시 상북면 양산대로 1360 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-03-12"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:30",
+  "hash": "c0a19e5f560a3282",
+  "id": "MH_공공임대_21555",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21555&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021088&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "양산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[양산시지역]양산대석휴먼시아 국민임대주택 예비입주자 모집",
+  "totalUnits": 60,
+  "units": [
+   {
+    "address": "경상남도 양산시 상북면 양산대로 1360 ",
+    "count": 60,
+    "deposit_won": 12471000,
+    "name": "양산대석",
+    "rent_won": 104740,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -1151,7 +1253,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "a1dc71e0b0636457",
+  "hash": "4f0d1f9cefe8bf4c",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -1181,16 +1283,6 @@
    },
    {
     "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
-   },
-   {
-    "address": "",
     "count": 33,
     "deposit_won": null,
     "name": "충청남도 천안시 서북구",
@@ -1198,6 +1290,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
    }
   ]
  },
