@@ -1562,6 +1562,108 @@
   ]
  },
  {
+  "address": "전남광주통합특별시 영암군 삼호읍 삼호중앙로 222 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-01",
+   "winner": "2027-04-02"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T16:40",
+  "hash": "7a63f07085ded331",
+  "id": "MH_공공임대_21564",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21564&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021044&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "영암군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "영암,해남지역 국민임대주택 예비입주자 모집(2026.11.16.)",
+  "totalUnits": 90,
+  "units": [
+   {
+    "address": "전남광주통합특별시 영암군 삼호읍 삼호중앙로 222 ",
+    "count": 60,
+    "deposit_won": 12096000,
+    "name": "영암용앙2",
+    "rent_won": 91920,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "영암군"
+   },
+   {
+    "address": "전남광주통합특별시 해남군 해남읍 교육청길 87-24 ",
+    "count": 30,
+    "deposit_won": 9676000,
+    "name": "해남해리2",
+    "rent_won": 189540,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "해남군"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 영암군 삼호읍 삼호중앙로 214 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2027-04-05"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T16:40",
+  "hash": "cc66c27c8b351007",
+  "id": "MH_공공임대_21561",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21561&houseSn=3",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021044&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "영암군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "영암용앙1 국민임대주택 예비입주자 모집(2026.11.16.)",
+  "totalUnits": 80,
+  "units": [
+   {
+    "address": "전남광주통합특별시 영암군 삼호읍 삼호중앙로 214 ",
+    "count": 80,
+    "deposit_won": 13524000,
+    "name": "영암용앙1",
+    "rent_won": 100080,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "영암군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -1577,7 +1679,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "763fdddcec0e2dd7",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -1607,16 +1709,6 @@
    },
    {
     "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
-   },
-   {
-    "address": "",
     "count": 44,
     "deposit_won": null,
     "name": "충청남도 당진시",
@@ -1624,6 +1716,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
+   },
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
    }
   ]
  },
@@ -3306,7 +3408,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -3318,22 +3420,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -3343,6 +3435,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
@@ -3948,7 +4050,7 @@
    ]
   },
   "firstSeen": "2026-11-06T13:50",
-  "hash": "c6a7a455ac9f1e38",
+  "hash": "d04e8a4d17faa191",
   "id": "MH_공공임대_21507",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21507&houseSn=1",
@@ -3987,16 +4089,6 @@
     "sigungu": "경주시"
    },
    {
-    "address": "경상북도 영천시 망정로 80 ",
-    "count": 41,
-    "deposit_won": 15597000,
-    "name": "영천망정 5단지",
-    "rent_won": 107610,
-    "sido": "경북",
-    "sidoFull": "경상북도",
-    "sigungu": "영천시"
-   },
-   {
     "address": "경상북도 경주시 외동읍 본동길 14 ",
     "count": 28,
     "deposit_won": 11385000,
@@ -4005,6 +4097,16 @@
     "sido": "경북",
     "sidoFull": "경상북도",
     "sigungu": "경주시"
+   },
+   {
+    "address": "경상북도 영천시 망정로 80 ",
+    "count": 41,
+    "deposit_won": 15597000,
+    "name": "영천망정 5단지",
+    "rent_won": 107610,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "영천시"
    }
   ]
  },
