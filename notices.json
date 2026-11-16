@@ -590,6 +590,144 @@
   ]
  },
  {
+  "address": "경상남도 통영시 광도면 벽방2길 76 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-11-30",
+   "winner": "2027-02-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:30",
+  "hash": "8b1862ac5b761069",
+  "id": "MH_공공임대_21546",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21546&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021063&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "통영시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "경남 통영안정 국민임대주택 예비입주자 자격완화 모집(26.11.16.)",
+  "totalUnits": 95,
+  "units": [
+   {
+    "address": "경상남도 통영시 광도면 벽방2길 76 ",
+    "count": 95,
+    "deposit_won": 6376000,
+    "name": "통영안정",
+    "rent_won": 100200,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "통영시"
+   }
+  ]
+ },
+ {
+  "address": "강원특별자치도 원주시 만대로 96 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-04-02"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:30",
+  "hash": "a96e9e43f6ca8d10",
+  "id": "MH_공공임대_21545",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21545&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021020&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "강원",
+  "sidoFull": "강원특별자치도",
+  "sidos": [
+   "강원"
+  ],
+  "sigungu": "원주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "원주무실5 국민임대주택 예비입주자 모집",
+  "totalUnits": 40,
+  "units": [
+   {
+    "address": "강원특별자치도 원주시 만대로 96 ",
+    "count": 40,
+    "deposit_won": 30831000,
+    "name": "원주무실5",
+    "rent_won": 250850,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   }
+  ]
+ },
+ {
+  "address": "충청북도 청주시 청원구 율중로7번길 77 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:30",
+  "hash": "30fe407af609aec2",
+  "id": "MH_공공임대_21544",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21544&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021035&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "청주시 청원구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "청주시지역(청주율량9) 국민임대주택 예비입주자 모집공고[2026.11.16.]",
+  "totalUnits": 160,
+  "units": [
+   {
+    "address": "충청북도 청주시 청원구 율중로7번길 77 ",
+    "count": 160,
+    "deposit_won": 16890000,
+    "name": "청주율량 9",
+    "rent_won": 159040,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 청원구"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -605,7 +743,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "a1dc71e0b0636457",
+  "hash": "4f0d1f9cefe8bf4c",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -635,16 +773,6 @@
    },
    {
     "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
-   },
-   {
-    "address": "",
     "count": 33,
     "deposit_won": null,
     "name": "충청남도 천안시 서북구",
@@ -652,6 +780,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
    }
   ]
  },
@@ -2334,7 +2472,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "670d07f12201edab",
+  "hash": "e5f9b6e2a81ad4fc",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -2346,22 +2484,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "진주시",
+  "sigungu": "김해시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 30,
-    "deposit_won": null,
-    "name": "경상남도 진주시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "진주시"
-   },
    {
     "address": "",
     "count": 10,
@@ -2371,6 +2499,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
    }
   ]
  },
