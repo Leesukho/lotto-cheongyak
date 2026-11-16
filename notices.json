@@ -952,6 +952,52 @@
   ]
  },
  {
+  "address": "전북특별자치도 정읍시 학산로 89-72 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-11-30",
+   "winner": "2027-03-04"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:00",
+  "hash": "2181ca74ad464375",
+  "id": "MH_공공임대_21551",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21551&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021003&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "정읍시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "정읍상동2.3 국민임대주택 예비입주자 모집 공고",
+  "totalUnits": 50,
+  "units": [
+   {
+    "address": "전북특별자치도 정읍시 학산로 89-72 ",
+    "count": 50,
+    "deposit_won": 13617000,
+    "name": "정읍상동2.3",
+    "rent_won": 102120,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "정읍시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -967,7 +1013,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -979,22 +1025,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "당진시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 44,
-    "deposit_won": null,
-    "name": "충청남도 당진시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "당진시"
-   },
    {
     "address": "",
     "count": 33,
@@ -1004,6 +1040,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 44,
+    "deposit_won": null,
+    "name": "충청남도 당진시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "당진시"
    },
    {
     "address": "",
@@ -2696,7 +2742,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "670d07f12201edab",
+  "hash": "e5f9b6e2a81ad4fc",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -2708,22 +2754,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "진주시",
+  "sigungu": "김해시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 30,
-    "deposit_won": null,
-    "name": "경상남도 진주시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "진주시"
-   },
    {
     "address": "",
     "count": 10,
@@ -2733,6 +2769,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
    }
   ]
  },
