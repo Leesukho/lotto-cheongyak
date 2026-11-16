@@ -452,6 +452,52 @@
   ]
  },
  {
+  "address": "경상북도 구미시 도봉로5길 33 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-27",
+   "winner": "2027-03-03"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:10",
+  "hash": "60fcc8e767ef8120",
+  "id": "MH_공공임대_21541",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21541&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021065&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "구미시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "구미도량2지구3단지 국민임대주택 예비입주자 모집(36,45형)",
+  "totalUnits": 95,
+  "units": [
+   {
+    "address": "경상북도 구미시 도봉로5길 33 ",
+    "count": 95,
+    "deposit_won": 12004000,
+    "name": "구미도량2-3",
+    "rent_won": 140460,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "구미시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
