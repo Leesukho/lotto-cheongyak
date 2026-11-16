@@ -320,6 +320,138 @@
   ]
  },
  {
+  "address": "충청북도 충주시 금곡서1길 5 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-07",
+   "applyStart": "2026-12-07",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:00",
+  "hash": "2186e49cdadf4b6d",
+  "id": "MH_공공임대_21540",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21540&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021066&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "충주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "충주시 지역 국민임대주택 예비입주자 모집[2026.11.16]",
+  "totalUnits": 90,
+  "units": [
+   {
+    "address": "충청북도 충주시 금곡서1길 5 ",
+    "count": 30,
+    "deposit_won": 28722000,
+    "name": "충주연수6",
+    "rent_won": 183320,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "충주시"
+   },
+   {
+    "address": "충청북도 충주시 갱고개로 230 ",
+    "count": 60,
+    "deposit_won": 19445000,
+    "name": "충주연수7",
+    "rent_won": 147210,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "충주시"
+   }
+  ]
+ },
+ {
+  "address": "충청북도 증평군 증평읍 송산로 35 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:00",
+  "hash": "c56840a67f78e7a8",
+  "id": "MH_공공임대_21539",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21539&houseSn=2",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021076&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "증평군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "증평군지역 국민임대주택 예비입주자 모집[2026.11.16]",
+  "totalUnits": 570,
+  "units": [
+   {
+    "address": "충청북도 증평군 증평읍 송산로 35 ",
+    "count": 110,
+    "deposit_won": 9882000,
+    "name": "증평송산1",
+    "rent_won": 88130,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 송산로 53 ",
+    "count": 130,
+    "deposit_won": 9530000,
+    "name": "증평송산2",
+    "rent_won": 87120,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 송산로4길 14 ",
+    "count": 180,
+    "deposit_won": 8679000,
+    "name": "증평송산3",
+    "rent_won": 135030,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 증평로 31-11 ",
+    "count": 150,
+    "deposit_won": 14976000,
+    "name": "증평장동",
+    "rent_won": 127570,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
