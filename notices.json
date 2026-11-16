@@ -498,6 +498,98 @@
   ]
  },
  {
+  "address": "충청북도 청주시 서원구 성봉로 88 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:20",
+  "hash": "f33b81546e5d7063",
+  "id": "MH_공공임대_21543",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21543&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021037&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "청주시 서원구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "청주성화1 국민임대주택 예비입주자 모집공고[2026.11.16]",
+  "totalUnits": 70,
+  "units": [
+   {
+    "address": "충청북도 청주시 서원구 성봉로 88 ",
+    "count": 70,
+    "deposit_won": 25434000,
+    "name": "청주성화1",
+    "rent_won": 179680,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "청주시 서원구"
+   }
+  ]
+ },
+ {
+  "address": "충청북도 괴산군 괴산읍 남산1길 25 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-26",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T14:20",
+  "hash": "893662bf0548ddc5",
+  "id": "MH_공공임대_21542",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21542&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021059&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "괴산군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "괴산군지역 국민임대주택 예비입주자 모집 공고[2026.11.16]",
+  "totalUnits": 15,
+  "units": [
+   {
+    "address": "충청북도 괴산군 괴산읍 남산1길 25 ",
+    "count": 15,
+    "deposit_won": 19924000,
+    "name": "괴산동부",
+    "rent_won": 167820,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "괴산군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2242,7 +2334,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -2254,22 +2346,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -2279,6 +2361,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },

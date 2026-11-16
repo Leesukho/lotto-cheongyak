@@ -1006,7 +1006,7 @@
  },
  "MH_공공임대_21512": {
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "rawHash": null
  },
  "MH_공공임대_21513": {
@@ -1132,6 +1132,16 @@
  "MH_공공임대_21541": {
   "firstSeen": "2026-11-16T14:10",
   "hash": "60fcc8e767ef8120",
+  "rawHash": null
+ },
+ "MH_공공임대_21542": {
+  "firstSeen": "2026-11-16T14:20",
+  "hash": "893662bf0548ddc5",
+  "rawHash": null
+ },
+ "MH_공공임대_21543": {
+  "firstSeen": "2026-11-16T14:20",
+  "hash": "f33b81546e5d7063",
   "rawHash": null
  }
 }
