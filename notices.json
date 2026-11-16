@@ -1868,6 +1868,95 @@
   ]
  },
  {
+  "address": "경상남도 거제시 옥포동 1670번지 일원",
+  "agency": "(주)옥포드림파크피에프브이",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-23",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-17T01:00",
+  "hash": "f293019a73398396",
+  "id": "AH_2026910296_2026910296",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910296&pblancNo=2026910296",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910296&pblancNo=2026910296&atchmnflSeqNo=2024017&atchmnflSn=1"
+  },
+  "maxGapManwon": -32410,
+  "rawHash": "7670c1973ded406e",
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sigungu": "거제시",
+  "source": "applyhome",
+  "status": "",
+  "title": "힐스테이트 거제시그니처(1회차)",
+  "totalUnits": 129,
+  "units": [
+   {
+    "area_m2": 84.9469,
+    "count_general": 97,
+    "count_special": 0,
+    "gap_manwon": -32410,
+    "market_basis": "동일단지",
+    "market_count": 10,
+    "market_manwon": 26250,
+    "name": "084.9469B",
+    "price_manwon": 58660
+   },
+   {
+    "area_m2": 112.9922,
+    "count_general": 17,
+    "count_special": 0,
+    "gap_manwon": -57750,
+    "market_basis": "거제시 신축 유사평형",
+    "market_count": 6,
+    "market_manwon": 22000,
+    "name": "112.9922A",
+    "price_manwon": 79750
+   },
+   {
+    "area_m2": 132.982,
+    "count_general": 13,
+    "count_special": 0,
+    "gap_manwon": -62870,
+    "market_basis": "거제시 유사평형",
+    "market_count": 6,
+    "market_manwon": 31000,
+    "name": "132.9820A",
+    "price_manwon": 93870
+   },
+   {
+    "area_m2": 138.9652,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -107820,
+    "market_basis": "거제시 유사평형",
+    "market_count": 6,
+    "market_manwon": 31000,
+    "name": "138.9652P",
+    "price_manwon": 138820
+   },
+   {
+    "area_m2": 165.9676,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "165.9676P",
+    "price_manwon": 165950
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
