@@ -1238,6 +1238,118 @@
   ]
  },
  {
+  "address": "충청남도 천안시 동남구 병천면 충절로 1638 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:40",
+  "hash": "8ee797ef462859d4",
+  "id": "MH_공공임대_21558",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21558&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021057&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충남",
+  "sidoFull": "충청남도",
+  "sidos": [
+   "충남"
+  ],
+  "sigungu": "천안시 동남구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "천안병천신한 국민임대주택 예비입주자 모집공고(2026.11.16)",
+  "totalUnits": 25,
+  "units": [
+   {
+    "address": "충청남도 천안시 동남구 병천면 충절로 1638 ",
+    "count": 25,
+    "deposit_won": 11100000,
+    "name": "천안병천신한",
+    "rent_won": 69370,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 동남구"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 장성군 장성읍 문화로 21-34 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-25",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-16T15:40",
+  "hash": "1dcef1139bc81373",
+  "id": "MH_공공임대_21557",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21557&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021071&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "장성군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "장성군 국민임대주택 예비입주자 모집(2026.11.16.공고)",
+  "totalUnits": 41,
+  "units": [
+   {
+    "address": "전남광주통합특별시 장성군 장성읍 문화로 21-34 ",
+    "count": 20,
+    "deposit_won": 10891000,
+    "name": "장성영천2",
+    "rent_won": 85750,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "장성군"
+   },
+   {
+    "address": "전남광주통합특별시 장성군 삼계면 영장로 1589 ",
+    "count": 7,
+    "deposit_won": 21329000,
+    "name": "장성삼계",
+    "rent_won": 235740,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "장성군"
+   },
+   {
+    "address": "전남광주통합특별시 장성군 장성읍 수산3길 7 ",
+    "count": 14,
+    "deposit_won": 7187000,
+    "name": "장성수산",
+    "rent_won": 138230,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "장성군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -1253,7 +1365,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -1265,22 +1377,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "당진시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 44,
-    "deposit_won": null,
-    "name": "충청남도 당진시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "당진시"
-   },
    {
     "address": "",
     "count": 33,
@@ -1290,6 +1392,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 44,
+    "deposit_won": null,
+    "name": "충청남도 당진시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "당진시"
    },
    {
     "address": "",
