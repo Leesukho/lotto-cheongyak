@@ -224,7 +224,7 @@
   ]
  },
  {
-  "address": "충청북도 음성군 맹동면 대동로 26 ",
+  "address": "충청북도 음성군 감곡면 오향로 31 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -239,10 +239,10 @@
    ]
   },
   "firstSeen": "2026-11-16T13:50",
-  "hash": "e9082694f8bb62ca",
+  "hash": "c4a9193761c096d7",
   "id": "MH_공공임대_21536",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=9",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=6",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021090&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -257,16 +257,6 @@
   "title": "음성군 국민임대 예비입주자 모집",
   "totalUnits": 540,
   "units": [
-   {
-    "address": "충청북도 음성군 맹동면 대동로 26 ",
-    "count": 40,
-    "deposit_won": 10264000,
-    "name": "음성맹동",
-    "rent_won": 89800,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "음성군"
-   },
    {
     "address": "충청북도 음성군 감곡면 오향로 31 ",
     "count": 50,
@@ -293,6 +283,16 @@
     "deposit_won": 7114000,
     "name": "음성금석2",
     "rent_won": 133430,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   },
+   {
+    "address": "충청북도 음성군 맹동면 대동로 26 ",
+    "count": 40,
+    "deposit_won": 10264000,
+    "name": "음성맹동",
+    "rent_won": 89800,
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "음성군"
@@ -2819,6 +2819,158 @@
   ]
  },
  {
+  "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-11-30",
+   "winner": "2027-03-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:40",
+  "hash": "177dafb5d5d477c8",
+  "id": "MH_공공임대_21581",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21581&houseSn=3",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021100&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sidos": [
+   "부산"
+  ],
+  "sigungu": "기장군",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "부산광역시 국민임대주택 예비입주자 정례모집 공고(2026.11.16.)",
+  "totalUnits": 410,
+  "units": [
+   {
+    "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
+    "count": 80,
+    "deposit_won": 18566000,
+    "name": "부산고촌",
+    "rent_won": 127870,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 정관읍 산단4로 160 ",
+    "count": 140,
+    "deposit_won": 31575000,
+    "name": "부산정관4",
+    "rent_won": 176700,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 정관읍 산단2로 60 ",
+    "count": 60,
+    "deposit_won": 26386000,
+    "name": "부산정관5",
+    "rent_won": 317410,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 장안읍 신좌천로 7 ",
+    "count": 50,
+    "deposit_won": 10514000,
+    "name": "부산장안",
+    "rent_won": 150600,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 기장읍 차성로397번길 7 ",
+    "count": 80,
+    "deposit_won": 12885000,
+    "name": "부산기장교리",
+    "rent_won": 117650,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 순천시 고지1길 57 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-25",
+   "winner": "2027-04-09"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:40",
+  "hash": "c3c293336ce76421",
+  "id": "MH_공공임대_21580",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21580&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021064&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전남",
+  "sidoFull": "전남광주통합특별시",
+  "sidos": [
+   "전남"
+  ],
+  "sigungu": "순천시",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "순천시 국민임대주택 예비입주자 모집",
+  "totalUnits": 130,
+  "units": [
+   {
+    "address": "전남광주통합특별시 순천시 고지1길 57 ",
+    "count": 80,
+    "deposit_won": 16339000,
+    "name": "순천가곡",
+    "rent_won": 108910,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "순천시"
+   },
+   {
+    "address": "전남광주통합특별시 순천시 가곡길 257-15 ",
+    "count": 20,
+    "deposit_won": 18324000,
+    "name": "순천아이탑빌",
+    "rent_won": 103740,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "순천시"
+   },
+   {
+    "address": "전남광주통합특별시 순천시 석현북길 40 ",
+    "count": 30,
+    "deposit_won": 5334000,
+    "name": "순천향림세미텔",
+    "rent_won": 43080,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "순천시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2834,7 +2986,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "8be345d61c95b225",
+  "hash": "a1dc71e0b0636457",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -2846,22 +2998,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "당진시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
    {
     "address": "",
     "count": 44,
@@ -2881,6 +3023,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "아산시"
+   },
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
    }
   ]
  },
@@ -4563,7 +4715,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -4575,22 +4727,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -4600,6 +4742,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
