@@ -2049,6 +2049,122 @@
   ]
  },
  {
+  "address": "전북특별자치도 고창군 무장면 청보리로 1548 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-10"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T10:10",
+  "hash": "d51ce37a083b46bd",
+  "id": "MH_공공임대_21569",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21569&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021089&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "고창군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "(‘26.11.16.) 고창무장, 고창황산, 김제검산3, 김제교동, 김제대검산, 순창경천, 순창풍산, 정읍농소 국민임대 예비자 모집 공고",
+  "totalUnits": 335,
+  "units": [
+   {
+    "address": "전북특별자치도 고창군 무장면 청보리로 1548 ",
+    "count": 35,
+    "deposit_won": 5801000,
+    "name": "고창무장",
+    "rent_won": 118290,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "고창군"
+   },
+   {
+    "address": "전북특별자치도 고창군 고수면 고수로 15 ",
+    "count": 30,
+    "deposit_won": 6140000,
+    "name": "고창황산",
+    "rent_won": 115550,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "고창군"
+   },
+   {
+    "address": "전북특별자치도 김제시 교정길 36 ",
+    "count": 50,
+    "deposit_won": 16860000,
+    "name": "김제교동",
+    "rent_won": 123190,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "김제시"
+   },
+   {
+    "address": "전북특별자치도 김제시 금성로 140 ",
+    "count": 100,
+    "deposit_won": 9530000,
+    "name": "김제검산3",
+    "rent_won": 112900,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "김제시"
+   },
+   {
+    "address": "전북특별자치도 김제시 풍요로 25 ",
+    "count": 25,
+    "deposit_won": 7135000,
+    "name": "김제대검산",
+    "rent_won": 146180,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "김제시"
+   },
+   {
+    "address": "전북특별자치도 순창군 순창읍 경천1로 102 ",
+    "count": 50,
+    "deposit_won": 21909000,
+    "name": "순창경천",
+    "rent_won": 107400,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "순창군"
+   },
+   {
+    "address": "전북특별자치도 순창군 풍산면 풍산로 499 ",
+    "count": 25,
+    "deposit_won": 10353000,
+    "name": "순창풍산",
+    "rent_won": 57500,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "순창군"
+   },
+   {
+    "address": "전북특별자치도 정읍시 서부산업도로 409 ",
+    "count": 20,
+    "deposit_won": 12897000,
+    "name": "정읍농소",
+    "rent_won": 84030,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "정읍시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2064,7 +2180,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "8be345d61c95b225",
+  "hash": "83c80caab54c0775",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -2076,12 +2192,22 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "아산시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
+   },
    {
     "address": "",
     "count": 33,
@@ -2101,16 +2227,6 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
-   },
-   {
-    "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
    }
   ]
  },
