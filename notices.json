@@ -2393,6 +2393,92 @@
   ]
  },
  {
+  "address": "경상북도 구미시 인동54길 25 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-11-30",
+   "winner": "2027-04-08"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:00",
+  "hash": "135e4d1203bc1199",
+  "id": "MH_공공임대_21573",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21573&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021008&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "구미시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "경북서부지역(구미시, 김천시, 의성군) 국민임대 예비입주자 모집",
+  "totalUnits": 110,
+  "units": [
+   {
+    "address": "경상북도 구미시 인동54길 25 ",
+    "count": 35,
+    "deposit_won": 18249000,
+    "name": "구미구평",
+    "rent_won": 129360,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "구미시"
+   },
+   {
+    "address": "경상북도 구미시 옥계북로 43-52 ",
+    "count": 30,
+    "deposit_won": 14628000,
+    "name": "구미옥계2",
+    "rent_won": 100080,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "구미시"
+   },
+   {
+    "address": "경상북도 김천시 무실7길 38 ",
+    "count": 15,
+    "deposit_won": 9360000,
+    "name": "김천덕곡",
+    "rent_won": 92260,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "김천시"
+   },
+   {
+    "address": "경상북도 김천시 해오름1로 17 ",
+    "count": 20,
+    "deposit_won": 8651000,
+    "name": "김천혁신4",
+    "rent_won": 154250,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "김천시"
+   },
+   {
+    "address": "경상북도 의성군 의성읍 동서1길 114 ",
+    "count": 10,
+    "deposit_won": 10464000,
+    "name": "의성상리",
+    "rent_won": 85030,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "의성군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -3438,7 +3524,7 @@
    ]
   },
   "firstSeen": "2026-11-12T13:40",
-  "hash": "f69f8b1dde041d4a",
+  "hash": "0dad64cbf710ff85",
   "id": "MH_공공임대_21526",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21526&houseSn=3",
@@ -3468,6 +3554,16 @@
     "sigungu": "동구"
    },
    {
+    "address": "대구광역시 동구 초례로16길 3 ",
+    "count": 39,
+    "deposit_won": 11566000,
+    "name": "대구신서혁신 14단지",
+    "rent_won": 164760,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "동구"
+   },
+   {
     "address": "경상북도 경산시 진량읍 봉황길 31 ",
     "count": 11,
     "deposit_won": 9530000,
@@ -3486,16 +3582,6 @@
     "sido": "경북",
     "sidoFull": "경상북도",
     "sigungu": "경산시"
-   },
-   {
-    "address": "대구광역시 동구 초례로16길 3 ",
-    "count": 39,
-    "deposit_won": 11566000,
-    "name": "대구신서혁신 14단지",
-    "rent_won": 164760,
-    "sido": "대구",
-    "sidoFull": "대구광역시",
-    "sigungu": "동구"
    }
   ]
  },
