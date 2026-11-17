@@ -2525,6 +2525,178 @@
   ]
  },
  {
+  "address": "경상남도 양산시 물금읍 청운로 41 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-01",
+   "winner": "2027-02-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:20",
+  "hash": "f360964c881e5142",
+  "id": "MH_공공임대_21576",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21576&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021094&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "양산시",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "양산시 국민임대주택 예비입주자 완화 모집(‘26.11.16)_소득, 자산, 무주택 요건 완화 / 계약금 인하",
+  "totalUnits": 230,
+  "units": [
+   {
+    "address": "경상남도 양산시 물금읍 청운로 41 ",
+    "count": 30,
+    "deposit_won": 12634000,
+    "name": "양산물금1",
+    "rent_won": 226660,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 물금읍 물금2길 50 ",
+    "count": 20,
+    "deposit_won": 12478000,
+    "name": "양산물금2",
+    "rent_won": 227860,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 동면 금산2길 12 ",
+    "count": 20,
+    "deposit_won": 12137000,
+    "name": "금산휴먼시아",
+    "rent_won": 101150,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 번영로 435 ",
+    "count": 80,
+    "deposit_won": 12422000,
+    "name": "소주휴먼시아",
+    "rent_won": 104170,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 배움터길 11 ",
+    "count": 80,
+    "deposit_won": 12059000,
+    "name": "평산휴먼시아",
+    "rent_won": 112170,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   }
+  ]
+ },
+ {
+  "address": "경상남도 양산시 물금읍 청운로 41 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-01",
+   "winner": "2027-02-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:20",
+  "hash": "09c9d6fbd10c9367",
+  "id": "MH_공공임대_21575",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021069&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "양산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "양산시 국민임대주택 예비입주자 완화 모집(‘26.11.16)_소득, 자산, 무주택 요건 완화 / 계약금 인하",
+  "totalUnits": 230,
+  "units": [
+   {
+    "address": "경상남도 양산시 물금읍 청운로 41 ",
+    "count": 30,
+    "deposit_won": 12634000,
+    "name": "양산물금1",
+    "rent_won": 226660,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 물금읍 물금2길 50 ",
+    "count": 20,
+    "deposit_won": 12478000,
+    "name": "양산물금2",
+    "rent_won": 227860,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 동면 금산2길 12 ",
+    "count": 20,
+    "deposit_won": 12137000,
+    "name": "금산휴먼시아",
+    "rent_won": 101150,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 번영로 435 ",
+    "count": 80,
+    "deposit_won": 12422000,
+    "name": "소주휴먼시아",
+    "rent_won": 104170,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 배움터길 11 ",
+    "count": 80,
+    "deposit_won": 12059000,
+    "name": "평산휴먼시아",
+    "rent_won": 112170,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2540,7 +2712,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -2552,22 +2724,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "당진시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 44,
-    "deposit_won": null,
-    "name": "충청남도 당진시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "당진시"
-   },
    {
     "address": "",
     "count": 33,
@@ -2577,6 +2739,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 44,
+    "deposit_won": null,
+    "name": "충청남도 당진시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "당진시"
    },
    {
     "address": "",
