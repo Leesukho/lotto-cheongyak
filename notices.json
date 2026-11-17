@@ -3032,7 +3032,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "83c80caab54c0775",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -3044,22 +3044,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "아산시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
-   },
    {
     "address": "",
     "count": 33,
@@ -3079,6 +3069,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
+   },
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
    }
   ]
  },
