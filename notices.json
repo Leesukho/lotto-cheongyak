@@ -224,7 +224,7 @@
   ]
  },
  {
-  "address": "충청북도 음성군 감곡면 오향로 31 ",
+  "address": "충청북도 음성군 맹동면 대동로 26 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -239,10 +239,10 @@
    ]
   },
   "firstSeen": "2026-11-16T13:50",
-  "hash": "c4a9193761c096d7",
+  "hash": "e9082694f8bb62ca",
   "id": "MH_공공임대_21536",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=6",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=9",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021090&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -257,6 +257,16 @@
   "title": "음성군 국민임대 예비입주자 모집",
   "totalUnits": 540,
   "units": [
+   {
+    "address": "충청북도 음성군 맹동면 대동로 26 ",
+    "count": 40,
+    "deposit_won": 10264000,
+    "name": "음성맹동",
+    "rent_won": 89800,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   },
    {
     "address": "충청북도 음성군 감곡면 오향로 31 ",
     "count": 50,
@@ -283,16 +293,6 @@
     "deposit_won": 7114000,
     "name": "음성금석2",
     "rent_won": 133430,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "음성군"
-   },
-   {
-    "address": "충청북도 음성군 맹동면 대동로 26 ",
-    "count": 40,
-    "deposit_won": 10264000,
-    "name": "음성맹동",
-    "rent_won": 89800,
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "음성군"
@@ -2697,6 +2697,128 @@
   ]
  },
  {
+  "address": "충청북도 증평군 증평읍 송산로 35 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:30",
+  "hash": "90abdfebc6521772",
+  "id": "MH_공공임대_21578",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21578&houseSn=2",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021102&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "증평군",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "증평군지역 국민임대주택 예비입주자 모집[2026.11.16]",
+  "totalUnits": 570,
+  "units": [
+   {
+    "address": "충청북도 증평군 증평읍 송산로 35 ",
+    "count": 110,
+    "deposit_won": 9882000,
+    "name": "증평송산1",
+    "rent_won": 88130,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 송산로 53 ",
+    "count": 130,
+    "deposit_won": 9530000,
+    "name": "증평송산2",
+    "rent_won": 87120,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 송산로4길 14 ",
+    "count": 180,
+    "deposit_won": 8679000,
+    "name": "증평송산3",
+    "rent_won": 135030,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
+   {
+    "address": "충청북도 증평군 증평읍 증평로 31-11 ",
+    "count": 150,
+    "deposit_won": 14976000,
+    "name": "증평장동",
+    "rent_won": 127570,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   }
+  ]
+ },
+ {
+  "address": "충청북도 증평군 증평읍 송산로 30 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T11:30",
+  "hash": "d5296bdec7c91195",
+  "id": "MH_공공임대_21577",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21577&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021101&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "증평군",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "증평군 송산5단지 국민임대주택 자격완화 예비입주자 모집[2026.11.16]",
+  "totalUnits": 210,
+  "units": [
+   {
+    "address": "충청북도 증평군 증평읍 송산로 30 ",
+    "count": 210,
+    "deposit_won": 9091000,
+    "name": "증평송산5",
+    "rent_won": 182490,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -4441,7 +4563,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "670d07f12201edab",
+  "hash": "e5f9b6e2a81ad4fc",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -4453,22 +4575,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "진주시",
+  "sigungu": "김해시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 30,
-    "deposit_won": null,
-    "name": "경상남도 진주시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "진주시"
-   },
    {
     "address": "",
     "count": 10,
@@ -4478,6 +4590,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
    }
   ]
  },
