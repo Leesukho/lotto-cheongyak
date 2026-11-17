@@ -1,5 +1,73 @@
 [
  {
+  "address": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
+  "agency": "잠실진주아파트주택재건축정비사업조합",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-11-17",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-27"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준",
+    "일반 2세대 + 특별 1세대 (특별공급은 원 특공 유형 자격 필요)"
+   ]
+  },
+  "firstSeen": "2026-11-18T01:00",
+  "hash": "a869aa9c7fa0800b",
+  "id": "AH_2026930045_2026930045",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930045&pblancNo=2026930045",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026930045&pblancNo=2026930045&atchmnflSeqNo=2023023&atchmnflSn=9"
+  },
+  "maxGapManwon": 233393,
+  "rawHash": "5f0c07994a87a2af",
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sigungu": "송파구",
+  "source": "applyhome",
+  "status": "",
+  "title": "잠실 래미안아이파크",
+  "totalUnits": 3,
+  "units": [
+   {
+    "area_m2": 43.73,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 127452,
+    "market_basis": "동일단지",
+    "market_count": 1,
+    "market_manwon": 238000,
+    "name": "043.7300 ",
+    "price_manwon": 110548
+   },
+   {
+    "area_m2": 59.47,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 26061,
+    "market_basis": "송파구 신축 유사평형",
+    "market_count": 41,
+    "market_manwon": 184000,
+    "name": "059.4700A",
+    "price_manwon": 157939
+   },
+   {
+    "area_m2": 84.96,
+    "count_general": 0,
+    "count_special": 1,
+    "gap_manwon": 233393,
+    "market_basis": "동일단지",
+    "market_count": 5,
+    "market_manwon": 419000,
+    "name": "084.9600D",
+    "price_manwon": 185607
+   }
+  ]
+ },
+ {
   "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
   "agency": "LH",
   "category": "국민임대",
