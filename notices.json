@@ -2291,6 +2291,108 @@
   ]
  },
  {
+  "address": "경상남도 김해시 율하5로 48 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-01",
+   "winner": "2027-03-11"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T10:50",
+  "hash": "fb559f354272f2c9",
+  "id": "MH_공공임대_21572",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21572&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021034&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경남",
+  "sidoFull": "경상남도",
+  "sidos": [
+   "경남"
+  ],
+  "sigungu": "김해시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "김해시 지역 국민임대주택 예비입주자 모집(2026.11.16.공고)",
+  "totalUnits": 460,
+  "units": [
+   {
+    "address": "경상남도 김해시 율하5로 48 ",
+    "count": 280,
+    "deposit_won": 9929000,
+    "name": "김해율하2LH1",
+    "rent_won": 159220,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
+   },
+   {
+    "address": "경상남도 김해시 진영읍 김해대로 463 ",
+    "count": 180,
+    "deposit_won": 8748000,
+    "name": "김해진영6",
+    "rent_won": 171210,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
+   }
+  ]
+ },
+ {
+  "address": "전북특별자치도 장수군 장수읍 관두길 16 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-26",
+   "applyStart": "2026-11-24",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T10:50",
+  "hash": "5c4749460dad1e4f",
+  "id": "MH_공공임대_21571",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21571&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021061&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "장수군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "장수북동 국민임대주택 예비입주자 모집",
+  "totalUnits": 100,
+  "units": [
+   {
+    "address": "전북특별자치도 장수군 장수읍 관두길 16 ",
+    "count": 100,
+    "deposit_won": 11825000,
+    "name": "장수북동",
+    "rent_won": 82480,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "장수군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -3336,7 +3438,7 @@
    ]
   },
   "firstSeen": "2026-11-12T13:40",
-  "hash": "0dad64cbf710ff85",
+  "hash": "f69f8b1dde041d4a",
   "id": "MH_공공임대_21526",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21526&houseSn=3",
@@ -3366,16 +3468,6 @@
     "sigungu": "동구"
    },
    {
-    "address": "대구광역시 동구 초례로16길 3 ",
-    "count": 39,
-    "deposit_won": 11566000,
-    "name": "대구신서혁신 14단지",
-    "rent_won": 164760,
-    "sido": "대구",
-    "sidoFull": "대구광역시",
-    "sigungu": "동구"
-   },
-   {
     "address": "경상북도 경산시 진량읍 봉황길 31 ",
     "count": 11,
     "deposit_won": 9530000,
@@ -3394,6 +3486,16 @@
     "sido": "경북",
     "sidoFull": "경상북도",
     "sigungu": "경산시"
+   },
+   {
+    "address": "대구광역시 동구 초례로16길 3 ",
+    "count": 39,
+    "deposit_won": 11566000,
+    "name": "대구신서혁신 14단지",
+    "rent_won": 164760,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "동구"
    }
   ]
  },
@@ -4035,7 +4137,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "e5f9b6e2a81ad4fc",
+  "hash": "670d07f12201edab",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -4047,22 +4149,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "김해시",
+  "sigungu": "진주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "경상남도 김해시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "김해시"
-   },
    {
     "address": "",
     "count": 30,
@@ -4072,6 +4164,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "진주시"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "경상남도 김해시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "김해시"
    }
   ]
  },
