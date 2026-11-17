@@ -2165,6 +2165,132 @@
   ]
  },
  {
+  "address": "전북특별자치도 완주군 삼례읍 삼봉5로 60 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-11-27",
+   "applyStart": "2026-11-24",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-17T10:30",
+  "hash": "497b6ff98158159c",
+  "id": "MH_공공임대_21570",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21570&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021067&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "완주군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "전주시,완주군 국민임대주택 예비입주자 모집",
+  "totalUnits": 406,
+  "units": [
+   {
+    "address": "전북특별자치도 완주군 삼례읍 삼봉5로 60 ",
+    "count": 100,
+    "deposit_won": 7660000,
+    "name": "완주삼봉A-1BL",
+    "rent_won": 118790,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "완주군"
+   },
+   {
+    "address": "전북특별자치도 완주군 용진읍 가목길 21 ",
+    "count": 60,
+    "deposit_won": 11552000,
+    "name": "완주덕천하이트",
+    "rent_won": 96250,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "완주군"
+   },
+   {
+    "address": "전북특별자치도 전주시 덕진구 반월4길 15 ",
+    "count": 20,
+    "deposit_won": 5705000,
+    "name": "전주대창하이빌",
+    "rent_won": 92660,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 덕진구"
+   },
+   {
+    "address": "전북특별자치도 전주시 덕진구 여산로 227 ",
+    "count": 5,
+    "deposit_won": 20630000,
+    "name": "전주동산한강",
+    "rent_won": 121000,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 덕진구"
+   },
+   {
+    "address": "전북특별자치도 전주시 완산구 흑석로 64 ",
+    "count": 35,
+    "deposit_won": 4670000,
+    "name": "전주신세계블루타운",
+    "rent_won": 39820,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 완산구"
+   },
+   {
+    "address": "전북특별자치도 전주시 덕진구 안골5길 15 ",
+    "count": 50,
+    "deposit_won": 8872000,
+    "name": "전주우아효성",
+    "rent_won": 78680,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 덕진구"
+   },
+   {
+    "address": "전북특별자치도 전주시 완산구 흑석1길 85 ",
+    "count": 80,
+    "deposit_won": 7914000,
+    "name": "전주효성흑석",
+    "rent_won": 87940,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 완산구"
+   },
+   {
+    "address": "전북특별자치도 전주시 완산구 호암로 2 ",
+    "count": 30,
+    "deposit_won": 29277000,
+    "name": "전주효자1",
+    "rent_won": 163550,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "전주시 완산구"
+   },
+   {
+    "address": "전북특별자치도 완주군 봉동읍 봉동중앙로 53-18 , 53-20",
+    "count": 26,
+    "deposit_won": 16267000,
+    "name": "완주봉동1.2",
+    "rent_won": 109860,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "완주군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -2180,7 +2306,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "83c80caab54c0775",
+  "hash": "8be345d61c95b225",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -2192,22 +2318,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "아산시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 29,
-    "deposit_won": null,
-    "name": "충청남도 아산시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "아산시"
-   },
    {
     "address": "",
     "count": 33,
@@ -2227,6 +2343,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
+   },
+   {
+    "address": "",
+    "count": 29,
+    "deposit_won": null,
+    "name": "충청남도 아산시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "아산시"
    }
   ]
  },
@@ -3909,7 +4035,7 @@
    ]
   },
   "firstSeen": "2026-11-09T14:20",
-  "hash": "670d07f12201edab",
+  "hash": "e5f9b6e2a81ad4fc",
   "id": "MH_공공임대_21512",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21512",
@@ -3921,22 +4047,12 @@
   "sidos": [
    "경남"
   ],
-  "sigungu": "진주시",
+  "sigungu": "김해시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "2026년 청년매입임대주택 입주자모집 공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 30,
-    "deposit_won": null,
-    "name": "경상남도 진주시",
-    "rent_won": null,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "진주시"
-   },
    {
     "address": "",
     "count": 10,
@@ -3946,6 +4062,16 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "김해시"
+   },
+   {
+    "address": "",
+    "count": 30,
+    "deposit_won": null,
+    "name": "경상남도 진주시",
+    "rent_won": null,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "진주시"
    }
   ]
  },
