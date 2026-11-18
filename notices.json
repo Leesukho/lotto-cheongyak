@@ -1,5 +1,195 @@
 [
  {
+  "address": "경기도 광주시 광주대로 142 ",
+  "agency": "송정파크 주식회사",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-11-18",
+   "applyEnd": "2026-11-23",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-19T01:00",
+  "hash": "6d9700051a315d39",
+  "id": "AH_2026930046_2026930046",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930046&pblancNo=2026930046",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026930046&pblancNo=2026930046&atchmnflSeqNo=2024084&atchmnflSn=5"
+  },
+  "maxGapManwon": 3218,
+  "rawHash": "20dfc98c85410879",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "광주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "광주 송정 중흥S-클래스 파크뷰",
+  "totalUnits": 2,
+  "units": [
+   {
+    "area_m2": 59.867,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 2518,
+    "market_basis": "동일단지",
+    "market_count": 16,
+    "market_manwon": 44186,
+    "name": "059.8670A",
+    "price_manwon": 41668
+   },
+   {
+    "area_m2": 59.767,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 3218,
+    "market_basis": "동일단지",
+    "market_count": 16,
+    "market_manwon": 44186,
+    "name": "059.7670C",
+    "price_manwon": 40968
+   }
+  ]
+ },
+ {
+  "address": "부산광역시 연제구 연산동 1123-1번지",
+  "agency": "지에스건설(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-18",
+   "applyEnd": "2026-11-23",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-19T01:00",
+  "hash": "6d44cf89dd15b2c2",
+  "id": "AH_2026910295_2026910295",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910295&pblancNo=2026910295",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910295&pblancNo=2026910295&atchmnflSeqNo=2026063&atchmnflSn=2"
+  },
+  "maxGapManwon": -26215,
+  "rawHash": "e69c1cfca77c24d7",
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sigungu": "연제구",
+  "source": "applyhome",
+  "status": "",
+  "title": "연제갤러리자이",
+  "totalUnits": 315,
+  "units": [
+   {
+    "area_m2": 84.9587,
+    "count_general": 53,
+    "count_special": 0,
+    "gap_manwon": -26215,
+    "market_basis": "연산동 신축 유사평형",
+    "market_count": 132,
+    "market_manwon": 62725,
+    "name": "084.9587A",
+    "price_manwon": 88940
+   },
+   {
+    "area_m2": 84.9052,
+    "count_general": 81,
+    "count_special": 0,
+    "gap_manwon": -26435,
+    "market_basis": "연산동 신축 유사평형",
+    "market_count": 132,
+    "market_manwon": 62725,
+    "name": "084.9052B",
+    "price_manwon": 89160
+   },
+   {
+    "area_m2": 84.878,
+    "count_general": 26,
+    "count_special": 0,
+    "gap_manwon": -27525,
+    "market_basis": "연산동 신축 유사평형",
+    "market_count": 132,
+    "market_manwon": 62725,
+    "name": "084.8780C",
+    "price_manwon": 90250
+   },
+   {
+    "area_m2": 84.7933,
+    "count_general": 155,
+    "count_special": 0,
+    "gap_manwon": -27295,
+    "market_basis": "연산동 신축 유사평형",
+    "market_count": 132,
+    "market_manwon": 62725,
+    "name": "084.7933D",
+    "price_manwon": 90020
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 서해구 인천검암역세권 공공주택지구 내 B-1BL",
+  "agency": "인천도시공사,(주)대우건설,동부건설(주),(주)비에스한양,경화건설(주),브니엘네이처(주)",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-18",
+   "applyEnd": "2026-11-23",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-30"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-19T01:00",
+  "hash": "852aa10c58831e31",
+  "id": "AH_2026910292_2026910292",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910292&pblancNo=2026910292",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910292&pblancNo=2026910292&atchmnflSeqNo=2021049&atchmnflSn=2"
+  },
+  "maxGapManwon": 660,
+  "rawHash": "37a1c5e910ea7ea9",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "서해구",
+  "source": "applyhome",
+  "status": "",
+  "title": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
+  "totalUnits": 9,
+  "units": [
+   {
+    "area_m2": 84.4783,
+    "count_general": 7,
+    "count_special": 0,
+    "gap_manwon": 60,
+    "market_basis": "서해구 신축 유사평형",
+    "market_count": 357,
+    "market_manwon": 63000,
+    "name": "084.4783B",
+    "price_manwon": 62940
+   },
+   {
+    "area_m2": 84.9219,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": 660,
+    "market_basis": "서해구 신축 유사평형",
+    "market_count": 357,
+    "market_manwon": 63000,
+    "name": "084.9219C",
+    "price_manwon": 62340
+   }
+  ]
+ },
+ {
   "address": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
   "agency": "잠실진주아파트주택재건축정비사업조합",
   "category": "불법행위 재공급",
