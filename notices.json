@@ -811,7 +811,7 @@
    ]
   },
   "firstSeen": "2026-11-16T14:40",
-  "hash": "3185d45bda8e183d",
+  "hash": "341a2149b3addbf6",
   "id": "MH_공공임대_21547",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21547&houseSn=1",
@@ -850,16 +850,6 @@
     "sigungu": "원주시"
    },
    {
-    "address": "강원특별자치도 원주시 혁신로 350 ",
-    "count": 80,
-    "deposit_won": 10637000,
-    "name": "원주푸른숨10",
-    "rent_won": 212770,
-    "sido": "강원",
-    "sidoFull": "강원특별자치도",
-    "sigungu": "원주시"
-   },
-   {
     "address": "강원특별자치도 원주시 흥업면 남원로 52 ",
     "count": 100,
     "deposit_won": 9456000,
@@ -875,6 +865,16 @@
     "deposit_won": 9536000,
     "name": "원주태장6",
     "rent_won": 124220,
+    "sido": "강원",
+    "sidoFull": "강원특별자치도",
+    "sigungu": "원주시"
+   },
+   {
+    "address": "강원특별자치도 원주시 혁신로 350 ",
+    "count": 80,
+    "deposit_won": 10637000,
+    "name": "원주푸른숨10",
+    "rent_won": 212770,
     "sido": "강원",
     "sidoFull": "강원특별자치도",
     "sigungu": "원주시"
@@ -3171,6 +3171,62 @@
   ]
  },
  {
+  "address": "대전광역시 유성구 유성대로668번길 81 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-09",
+   "applyStart": "2026-12-07",
+   "winner": "2027-03-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-18T17:00",
+  "hash": "819f8f71951eb626",
+  "id": "MH_공공임대_21584",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21584&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021111&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sidos": [
+   "대전"
+  ],
+  "sigungu": "유성구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "대전광역시 유성구(유성타워)·대덕구(주은반석) 국민임대(매입형)주택 입주자격완화 예비입주자모집",
+  "totalUnits": 135,
+  "units": [
+   {
+    "address": "대전광역시 유성구 유성대로668번길 81 ",
+    "count": 35,
+    "deposit_won": 9440000,
+    "name": "대전유성타워",
+    "rent_won": 52580,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
+   },
+   {
+    "address": "대전광역시 대덕구 덕암로154번길 16 ",
+    "count": 100,
+    "deposit_won": 9882000,
+    "name": "대전주은반석",
+    "rent_won": 81460,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "대덕구"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -3186,7 +3242,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "1a6d91d29a5e6da6",
+  "hash": "763fdddcec0e2dd7",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -3198,12 +3254,22 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "아산시",
+  "sigungu": "천안시 서북구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
+   },
    {
     "address": "",
     "count": 29,
@@ -3223,16 +3289,6 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
-   },
-   {
-    "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
    }
   ]
  },
@@ -5882,6 +5938,108 @@
   ]
  },
  {
+  "address": "경기도 안성시 공도읍 진사리 20-51 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-18T17:00",
+  "hash": "00c92733d1146b67",
+  "id": "MH_공공분양_1520",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1520&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021114&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "안성시",
+  "source": "myhome_sale",
+  "status": "정정공고",
+  "title": "[정정공고]경기남부권(안성 동인힐타운) 다세대주택 공가세대 일반매각 공고(무순위, 무주택세대구성원)",
+  "totalUnits": 14,
+  "units": [
+   {
+    "address": "경기도 안성시 공도읍 진사리 20-51 ",
+    "count": 14,
+    "deposit_won": null,
+    "name": "동인힐타운 A⸱B⸱C동",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "안성시"
+   }
+  ]
+ },
+ {
+  "address": "경기도 수원시 영통구 광교마을로 156 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-05",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-18T17:00",
+  "hash": "5905fffdea9192b4",
+  "id": "MH_공공분양_1519",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1519&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021113&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "수원시 영통구",
+  "source": "myhome_sale",
+  "status": "정정공고",
+  "title": "[정정공고]경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)",
+  "totalUnits": 4,
+  "units": [
+   {
+    "address": "경기도 수원시 영통구 광교마을로 156 ",
+    "count": 2,
+    "deposit_won": null,
+    "name": "수원 광교40단지 더포레스트",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "수원시 영통구"
+   },
+   {
+    "address": "경기도 수원시 영통구 센트럴파크로 34 ",
+    "count": 2,
+    "deposit_won": null,
+    "name": "수원 광교62단지 더리브",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "수원시 영통구"
+   }
+  ]
+ },
+ {
   "address": "강원특별자치도 정선군 사북읍 사북6길 8 ",
   "agency": "LH",
   "category": "행복주택",
@@ -6681,6 +6839,52 @@
   "source": "myhome_sale",
   "status": "일반공고",
   "title": "영천문외 센트럴타운 공가세대 일반매각 공고",
+  "totalUnits": 70,
+  "units": [
+   {
+    "address": "경상북도 영천시 충효로 39 ",
+    "count": 70,
+    "deposit_won": null,
+    "name": "영천문외 센트럴타운",
+    "rent_won": null,
+    "sido": "경북",
+    "sidoFull": "경상북도",
+    "sigungu": "영천시"
+   }
+  ]
+ },
+ {
+  "address": "경상북도 영천시 충효로 39 ",
+  "agency": "LH",
+  "category": "공공분양",
+  "dates": {
+   "announce": "2026-11-02",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-23",
+   "winner": "2026-11-27"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-18T17:00",
+  "hash": "29061b4cada6d095",
+  "id": "MH_공공분양_1521",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1521&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021112&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+  },
+  "maxGapManwon": null,
+  "sido": "경북",
+  "sidoFull": "경상북도",
+  "sidos": [
+   "경북"
+  ],
+  "sigungu": "영천시",
+  "source": "myhome_sale",
+  "status": "정정공고",
+  "title": "[정정공고]영천문외 센트럴타운 공가세대 일반매각 공고",
   "totalUnits": 70,
   "units": [
    {
