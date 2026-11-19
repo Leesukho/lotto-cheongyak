@@ -246,6 +246,52 @@
   ]
  },
  {
+  "address": "대구광역시 북구 내곡로 69 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-18",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-12-02",
+   "winner": "2026-12-08"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-19T13:50",
+  "hash": "8762ca39874ea700",
+  "id": "MH_공공임대_21588",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21588&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021103&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대구",
+  "sidoFull": "대구광역시",
+  "sidos": [
+   "대구"
+  ],
+  "sigungu": "북구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "대구금호5 국민임대주택 입주자격 완화 동호지정 입주자모집",
+  "totalUnits": 205,
+  "units": [
+   {
+    "address": "대구광역시 북구 내곡로 69 ",
+    "count": 205,
+    "deposit_won": 11051000,
+    "name": "대구금호5(A-3BL)",
+    "rent_won": 168710,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "북구"
+   }
+  ]
+ },
+ {
   "address": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
   "agency": "잠실진주아파트주택재건축정비사업조합",
   "category": "불법행위 재공급",
@@ -3594,7 +3640,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "83c80caab54c0775",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -3606,7 +3652,7 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "당진시",
+  "sigungu": "아산시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
@@ -3614,13 +3660,13 @@
   "units": [
    {
     "address": "",
-    "count": 44,
+    "count": 29,
     "deposit_won": null,
-    "name": "충청남도 당진시",
+    "name": "충청남도 아산시",
     "rent_won": null,
     "sido": "충남",
     "sidoFull": "충청남도",
-    "sigungu": "당진시"
+    "sigungu": "아산시"
    },
    {
     "address": "",
@@ -3634,13 +3680,13 @@
    },
    {
     "address": "",
-    "count": 29,
+    "count": 44,
     "deposit_won": null,
-    "name": "충청남도 아산시",
+    "name": "충청남도 당진시",
     "rent_won": null,
     "sido": "충남",
     "sidoFull": "충청남도",
-    "sigungu": "아산시"
+    "sigungu": "당진시"
    }
   ]
  },
