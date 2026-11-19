@@ -81,7 +81,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:30",
-  "hash": "9a6bf3c5065a3d21",
+  "hash": "af0d85bc310dfb09",
   "id": "MH_공공임대_21589",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21589",
@@ -93,7 +93,7 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "구리시",
+  "sigungu": "남양주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅱ(전세형) 예비입주자 모집 공고",
@@ -101,13 +101,23 @@
   "units": [
    {
     "address": "",
-    "count": 6,
+    "count": 5,
     "deposit_won": null,
-    "name": "경기도 구리시",
+    "name": "경기도 남양주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "구리시"
+    "sigungu": "남양주시"
+   },
+   {
+    "address": "",
+    "count": 4,
+    "deposit_won": null,
+    "name": "경기도 의정부시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "의정부시"
    },
    {
     "address": "",
@@ -131,6 +141,16 @@
    },
    {
     "address": "",
+    "count": 6,
+    "deposit_won": null,
+    "name": "경기도 구리시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
+   },
+   {
+    "address": "",
     "count": 30,
     "deposit_won": null,
     "name": "경기도 김포시",
@@ -138,10 +158,56 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "김포시"
+   }
+  ]
+ },
+ {
+  "address": "",
+  "agency": "LH",
+  "category": "매입·전세임대",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-12-01",
+   "winner": "2027-02-26"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-19T14:50",
+  "hash": "2632ea9f690f0262",
+  "id": "MH_공공임대_21590",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21590",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021072&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sidos": [
+   "경기"
+  ],
+  "sigungu": "파주시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
+  "totalUnits": 167,
+  "units": [
+   {
+    "address": "",
+    "count": 78,
+    "deposit_won": null,
+    "name": "경기도 파주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "파주시"
    },
    {
     "address": "",
-    "count": 4,
+    "count": 8,
     "deposit_won": null,
     "name": "경기도 의정부시",
     "rent_won": null,
@@ -151,13 +217,63 @@
    },
    {
     "address": "",
-    "count": 5,
+    "count": 56,
+    "deposit_won": null,
+    "name": "경기도",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 4,
+    "deposit_won": null,
+    "name": "경기도 양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "양주시"
+   },
+   {
+    "address": "",
+    "count": 6,
     "deposit_won": null,
     "name": "경기도 남양주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "남양주시"
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경기도 가평군",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "가평군"
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경기도 구리시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
+   },
+   {
+    "address": "",
+    "count": 13,
+    "deposit_won": null,
+    "name": "경기도 김포시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "김포시"
    }
   ]
  },
@@ -1887,7 +2003,7 @@
    ]
   },
   "firstSeen": "2026-11-16T16:00",
-  "hash": "5ebe3db1c9bb741b",
+  "hash": "e5110fc91742ed01",
   "id": "MH_공공임대_21559",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21559&houseSn=1",
@@ -1936,6 +2052,16 @@
     "sigungu": "광산구"
    },
    {
+    "address": "전남광주통합특별시 광산구 풍영로329번길 50 ",
+    "count": 70,
+    "deposit_won": 21373000,
+    "name": "광주수완7",
+    "rent_won": 124220,
+    "sido": "전남",
+    "sidoFull": "전남광주통합특별시",
+    "sigungu": "광산구"
+   },
+   {
     "address": "전남광주통합특별시 광산구 송도로182번길 15-12 ",
     "count": 30,
     "deposit_won": 13878000,
@@ -1964,16 +2090,6 @@
     "sido": "전남",
     "sidoFull": "전남광주통합특별시",
     "sigungu": "남구"
-   },
-   {
-    "address": "전남광주통합특별시 광산구 풍영로329번길 50 ",
-    "count": 70,
-    "deposit_won": 21373000,
-    "name": "광주수완7",
-    "rent_won": 124220,
-    "sido": "전남",
-    "sidoFull": "전남광주통합특별시",
-    "sigungu": "광산구"
    }
   ]
  },
@@ -1993,7 +2109,7 @@
    ]
   },
   "firstSeen": "2026-11-16T16:30",
-  "hash": "09dd480632e1f1a5",
+  "hash": "e25bb6d233b0d39e",
   "id": "MH_공공임대_21560",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21560&houseSn=1",
@@ -2032,16 +2148,6 @@
     "sigungu": "아산시"
    },
    {
-    "address": "충청남도 천안시 서북구 성거읍 망향로 811 ",
-    "count": 4,
-    "deposit_won": 6220000,
-    "name": "천안금정샛별",
-    "rent_won": 150670,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
-   {
     "address": "충청남도 천안시 서북구 성환읍 율금1길 309 ",
     "count": 45,
     "deposit_won": 12413000,
@@ -2062,21 +2168,31 @@
     "sigungu": "천안시 동남구"
    },
    {
-    "address": "충청남도 천안시 동남구 병천면 충절로 1890 ",
-    "count": 50,
-    "deposit_won": 16400000,
-    "name": "천안병천중앙",
-    "rent_won": 92080,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 동남구"
-   },
-   {
     "address": "충청남도 천안시 동남구 북면 충절로 1456 ",
     "count": 29,
     "deposit_won": 12799000,
     "name": "천안북면중앙",
     "rent_won": 70780,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 동남구"
+   },
+   {
+    "address": "충청남도 천안시 서북구 성거읍 망향로 811 ",
+    "count": 4,
+    "deposit_won": 6220000,
+    "name": "천안금정샛별",
+    "rent_won": 150670,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "충청남도 천안시 동남구 병천면 충절로 1890 ",
+    "count": 50,
+    "deposit_won": 16400000,
+    "name": "천안병천중앙",
+    "rent_won": 92080,
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 동남구"
@@ -3802,7 +3918,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "1a6d91d29a5e6da6",
+  "hash": "83c80caab54c0775",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -3832,16 +3948,6 @@
    },
    {
     "address": "",
-    "count": 44,
-    "deposit_won": null,
-    "name": "충청남도 당진시",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "당진시"
-   },
-   {
-    "address": "",
     "count": 33,
     "deposit_won": null,
     "name": "충청남도 천안시 서북구",
@@ -3849,6 +3955,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
+   },
+   {
+    "address": "",
+    "count": 44,
+    "deposit_won": null,
+    "name": "충청남도 당진시",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "당진시"
    }
   ]
  },
