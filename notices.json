@@ -568,6 +568,162 @@
   ]
  },
  {
+  "address": "인천 검단신도시 AB13블록 호반써밋 아라 (인천광역시 검단구 이음4로 101)",
+  "agency": "티에스리빙 주식회사",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-24",
+   "winner": "2026-11-27"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-20T01:00",
+  "hash": "1cbda8f01f4f0a8a",
+  "id": "AH_2026910307_2026910307",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910307&pblancNo=2026910307",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910307&pblancNo=2026910307&atchmnflSeqNo=2027111&atchmnflSn=5"
+  },
+  "maxGapManwon": null,
+  "rawHash": "5168f82c2720e94a",
+  "sido": "인천",
+  "sidoFull": "인천",
+  "sigungu": "검단신도시",
+  "source": "applyhome",
+  "status": "",
+  "title": "인천 검단신도시 AB13블록 호반써밋Ⅲ",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 97.9655,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "097.9655P",
+    "price_manwon": 64280
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+  "agency": "산곡6주택재개발정비사업조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-11-24",
+   "applyStart": "2026-11-24",
+   "winner": "2026-11-27"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-20T01:00",
+  "hash": "c5892cafcadf01f3",
+  "id": "AH_2026910300_2026910300",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910300&pblancNo=2026910300",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910300&pblancNo=2026910300&atchmnflSeqNo=2027185&atchmnflSn=2"
+  },
+  "maxGapManwon": -13300,
+  "rawHash": "e944037f3dd49272",
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sigungu": "부평구",
+  "source": "applyhome",
+  "status": "",
+  "title": "산곡역자이힐스테이트앤하늘채",
+  "totalUnits": 550,
+  "units": [
+   {
+    "area_m2": 50.26,
+    "count_general": 92,
+    "count_special": 0,
+    "gap_manwon": -13300,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 27,
+    "market_manwon": 42300,
+    "name": "050.2600A",
+    "price_manwon": 55600
+   },
+   {
+    "area_m2": 50.26,
+    "count_general": 28,
+    "count_special": 0,
+    "gap_manwon": -13700,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 27,
+    "market_manwon": 42300,
+    "name": "050.2600B",
+    "price_manwon": 56000
+   },
+   {
+    "area_m2": 59.99,
+    "count_general": 230,
+    "count_special": 0,
+    "gap_manwon": -22200,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 80,
+    "market_manwon": 55800,
+    "name": "059.9900B",
+    "price_manwon": 78000
+   },
+   {
+    "area_m2": 75.56,
+    "count_general": 96,
+    "count_special": 0,
+    "gap_manwon": -26750,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 24,
+    "market_manwon": 64250,
+    "name": "075.5600A",
+    "price_manwon": 91000
+   },
+   {
+    "area_m2": 75.62,
+    "count_general": 47,
+    "count_special": 0,
+    "gap_manwon": -25150,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 24,
+    "market_manwon": 64250,
+    "name": "075.6200B",
+    "price_manwon": 89400
+   },
+   {
+    "area_m2": 84.92,
+    "count_general": 16,
+    "count_special": 0,
+    "gap_manwon": -30100,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 36,
+    "market_manwon": 64000,
+    "name": "084.9200A",
+    "price_manwon": 94100
+   },
+   {
+    "area_m2": 84.98,
+    "count_general": 41,
+    "count_special": 0,
+    "gap_manwon": -38200,
+    "market_basis": "산곡동 신축 유사평형",
+    "market_count": 36,
+    "market_manwon": 64000,
+    "name": "084.9800B",
+    "price_manwon": 102200
+   }
+  ]
+ },
+ {
   "address": "경기도 광주시 광주대로 142 ",
   "agency": "송정파크 주식회사",
   "category": "불법행위 재공급",
