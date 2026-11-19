@@ -81,7 +81,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:30",
-  "hash": "c6126f433485d5fd",
+  "hash": "4aba577050a94f16",
   "id": "MH_공공임대_21589",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21589",
@@ -121,16 +121,6 @@
    },
    {
     "address": "",
-    "count": 12,
-    "deposit_won": null,
-    "name": "경기도",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": ""
-   },
-   {
-    "address": "",
     "count": 5,
     "deposit_won": null,
     "name": "경기도 남양주시",
@@ -158,6 +148,16 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "김포시"
+   },
+   {
+    "address": "",
+    "count": 12,
+    "deposit_won": null,
+    "name": "경기도",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": ""
    }
   ]
  },
@@ -177,7 +177,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:50",
-  "hash": "804d259631dd4241",
+  "hash": "444103a91a20db28",
   "id": "MH_공공임대_21590",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21590",
@@ -189,22 +189,12 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "양주시",
+  "sigungu": "김포시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
   "totalUnits": 167,
   "units": [
-   {
-    "address": "",
-    "count": 4,
-    "deposit_won": null,
-    "name": "경기도 양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "양주시"
-   },
    {
     "address": "",
     "count": 13,
@@ -227,23 +217,13 @@
    },
    {
     "address": "",
-    "count": 6,
+    "count": 4,
     "deposit_won": null,
-    "name": "경기도 남양주시",
+    "name": "경기도 양주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "남양주시"
-   },
-   {
-    "address": "",
-    "count": 78,
-    "deposit_won": null,
-    "name": "경기도 파주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "파주시"
+    "sigungu": "양주시"
    },
    {
     "address": "",
@@ -254,6 +234,16 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "의정부시"
+   },
+   {
+    "address": "",
+    "count": 78,
+    "deposit_won": null,
+    "name": "경기도 파주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "파주시"
    },
    {
     "address": "",
@@ -274,6 +264,16 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 6,
+    "deposit_won": null,
+    "name": "경기도 남양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "남양주시"
    }
   ]
  },
@@ -406,6 +406,98 @@
     "sido": "대구",
     "sidoFull": "대구광역시",
     "sigungu": "달서구"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 미추홀구 학익동 757 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-12-03",
+   "applyStart": "2026-12-01",
+   "winner": "2027-01-13"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-19T17:50",
+  "hash": "a9d69d8c363fd04b",
+  "id": "MH_공공임대_21595",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21595&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021117&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "미추홀구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "학익 SK VIEW(학익 1구역 주택재개발정비사업) 국민임대주택 입주자 모집 공고(당해 사업지구 철거민)",
+  "totalUnits": 80,
+  "units": [
+   {
+    "address": "인천광역시 미추홀구 학익동 757 ",
+    "count": 80,
+    "deposit_won": 26915000,
+    "name": "학익 SK VIEW(학익 1구역 주택재개발정비사업)",
+    "rent_won": 230010,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "미추홀구"
+   }
+  ]
+ },
+ {
+  "address": "인천광역시 남동구 은봉로 297 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-12-02",
+   "applyStart": "2026-12-02",
+   "winner": "2027-03-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-19T17:50",
+  "hash": "bfbe584dfa3ed987",
+  "id": "MH_공공임대_21594",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21594&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021121&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "인천",
+  "sidoFull": "인천광역시",
+  "sidos": [
+   "인천"
+  ],
+  "sigungu": "남동구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "인천논현 LH16단지 (인천논현4 1블록) 창업지원주택 입주자 모집[인정업종 확대, 선착순동호지정, 선계약후검증](입주자모집공고일 : 2026.11.19.)",
+  "totalUnits": 55,
+  "units": [
+   {
+    "address": "인천광역시 남동구 은봉로 297 ",
+    "count": 55,
+    "deposit_won": 34920000,
+    "name": "인천논현 LH16단지",
+    "rent_won": 162960,
+    "sido": "인천",
+    "sidoFull": "인천광역시",
+    "sigungu": "남동구"
    }
   ]
  },
@@ -4106,7 +4198,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "a1dc71e0b0636457",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -4136,16 +4228,6 @@
    },
    {
     "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
-   {
-    "address": "",
     "count": 29,
     "deposit_won": null,
     "name": "충청남도 아산시",
@@ -4153,6 +4235,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "아산시"
+   },
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
    }
   ]
  },
