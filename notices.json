@@ -1,5 +1,71 @@
 [
  {
+  "address": "서울특별시 중랑구 양원역로 92 ",
+  "agency": "LH",
+  "category": "영구임대",
+  "dates": {
+   "announce": "2026-11-19",
+   "applyEnd": "2026-12-04",
+   "applyStart": "2026-11-30",
+   "winner": "2027-03-25"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-19T14:00",
+  "hash": "e7cbe929a4770b6f",
+  "id": "MH_공공임대_21586",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21586&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021109&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "서울",
+  "sidoFull": "서울특별시",
+  "sidos": [
+   "서울"
+  ],
+  "sigungu": "중랑구",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "2026년 서울특별시 영구임대주택 예비입주자 모집",
+  "totalUnits": 159,
+  "units": [
+   {
+    "address": "서울특별시 중랑구 양원역로 92 ",
+    "count": 14,
+    "deposit_won": 3044000,
+    "name": "양원S1",
+    "rent_won": 60660,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "중랑구"
+   },
+   {
+    "address": "서울특별시 동작구 여의대방로44길 47 ",
+    "count": 30,
+    "deposit_won": 2897000,
+    "name": "대방",
+    "rent_won": 57640,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "동작구"
+   },
+   {
+    "address": "서울특별시 금천구 한내로 69-15 ",
+    "count": 115,
+    "deposit_won": 2801000,
+    "name": "금천독산13",
+    "rent_won": 54920,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "금천구"
+   }
+  ]
+ },
+ {
   "address": "경기도 광주시 광주대로 142 ",
   "agency": "송정파크 주식회사",
   "category": "불법행위 재공급",
@@ -1496,7 +1562,7 @@
   ]
  },
  {
-  "address": "대전광역시 유성구 유성대로668번길 81 ",
+  "address": "대전광역시 대덕구 덕암로154번길 16 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -1511,10 +1577,10 @@
    ]
   },
   "firstSeen": "2026-11-16T15:30",
-  "hash": "07fc20e4ad574c23",
+  "hash": "e26d49dd3278d469",
   "id": "MH_공공임대_21556",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21556&houseSn=1",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21556&houseSn=2",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021075&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -1523,22 +1589,12 @@
   "sidos": [
    "대전"
   ],
-  "sigungu": "유성구",
+  "sigungu": "대덕구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "대전광역시 유성구(유성타워)·대덕구(주은반석) 국민임대(매입형)주택 입주자격완화 예비입주자모집",
   "totalUnits": 135,
   "units": [
-   {
-    "address": "대전광역시 유성구 유성대로668번길 81 ",
-    "count": 35,
-    "deposit_won": 9440000,
-    "name": "대전유성타워",
-    "rent_won": 52580,
-    "sido": "대전",
-    "sidoFull": "대전광역시",
-    "sigungu": "유성구"
-   },
    {
     "address": "대전광역시 대덕구 덕암로154번길 16 ",
     "count": 100,
@@ -1548,6 +1604,16 @@
     "sido": "대전",
     "sidoFull": "대전광역시",
     "sigungu": "대덕구"
+   },
+   {
+    "address": "대전광역시 유성구 유성대로668번길 81 ",
+    "count": 35,
+    "deposit_won": 9440000,
+    "name": "대전유성타워",
+    "rent_won": 52580,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
    }
   ]
  },
