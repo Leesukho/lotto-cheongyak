@@ -46,6 +46,140 @@
   ]
  },
  {
+  "address": "부산광역시 수영구 광안동 971",
+  "agency": "광안지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-20",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-25",
+   "winner": "2026-11-30"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-21T01:00",
+  "hash": "4fcd0dc76381f7b2",
+  "id": "AH_2026910306_2026910306",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910306&pblancNo=2026910306",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910306&pblancNo=2026910306&atchmnflSeqNo=2028171&atchmnflSn=5"
+  },
+  "maxGapManwon": 50,
+  "rawHash": "900b82fa0ee9e180",
+  "sido": "부산",
+  "sidoFull": "부산광역시",
+  "sigungu": "수영구",
+  "source": "applyhome",
+  "status": "",
+  "title": "광안센텀 비스타동원(조합원 취소분)",
+  "totalUnits": 39,
+  "units": [
+   {
+    "area_m2": 59.9823,
+    "count_general": 13,
+    "count_special": 0,
+    "gap_manwon": -10980,
+    "market_basis": "동일단지",
+    "market_count": 1,
+    "market_manwon": 56420,
+    "name": "059.9823 ",
+    "price_manwon": 67400
+   },
+   {
+    "area_m2": 59.9782,
+    "count_general": 5,
+    "count_special": 0,
+    "gap_manwon": -9680,
+    "market_basis": "동일단지",
+    "market_count": 1,
+    "market_manwon": 56420,
+    "name": "059.9782C",
+    "price_manwon": 66100
+   },
+   {
+    "area_m2": 84.962,
+    "count_general": 17,
+    "count_special": 0,
+    "gap_manwon": -4650,
+    "market_basis": "동일단지",
+    "market_count": 20,
+    "market_manwon": 86750,
+    "name": "084.9620A",
+    "price_manwon": 91400
+   },
+   {
+    "area_m2": 84.9413,
+    "count_general": 4,
+    "count_special": 0,
+    "gap_manwon": 50,
+    "market_basis": "동일단지",
+    "market_count": 20,
+    "market_manwon": 86750,
+    "name": "084.9413B",
+    "price_manwon": 86700
+   }
+  ]
+ },
+ {
+  "address": "전남광주통합특별시 광산구 하산동 269번지 일원",
+  "agency": "송정리버파크지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-20",
+   "applyEnd": "2026-11-25",
+   "applyStart": "2026-11-25",
+   "winner": "2026-11-30"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-21T01:00",
+  "hash": "fc2886854cfa28c5",
+  "id": "AH_2026910298_2026910298",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910298&pblancNo=2026910298",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910298&pblancNo=2026910298&atchmnflSeqNo=2027997&atchmnflSn=2"
+  },
+  "maxGapManwon": 3800,
+  "rawHash": "0f4612651f2ebcd6",
+  "sido": "광주",
+  "sidoFull": "전남광주통합특별시",
+  "sigungu": "광산구",
+  "source": "applyhome",
+  "status": "",
+  "title": "한양립스 에듀포레(조합원 취소분)",
+  "totalUnits": 4,
+  "units": [
+   {
+    "area_m2": 84.968,
+    "count_general": 3,
+    "count_special": 0,
+    "gap_manwon": 3800,
+    "market_basis": "동일단지",
+    "market_count": 1,
+    "market_manwon": 53700,
+    "name": "084.9680A",
+    "price_manwon": 49900
+   },
+   {
+    "area_m2": 89.513,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 2000,
+    "market_basis": "동일단지",
+    "market_count": 1,
+    "market_manwon": 53700,
+    "name": "089.5130A",
+    "price_manwon": 51700
+   }
+  ]
+ },
+ {
   "address": "서울특별시 중랑구 양원역로 92 ",
   "agency": "LH",
   "category": "영구임대",
