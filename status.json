@@ -1,14 +1,14 @@
 {
- "lastPublished": "2026-11-21T23:50:27",
- "lastRun": "2026-11-21T23:50:27",
+ "lastPublished": "2026-11-22T00:50:29",
+ "lastRun": "2026-11-22T00:50:29",
  "newNotices": 0,
  "noticeCount": 208,
  "sources": {
   "applyhome": {
-   "count": 100,
+   "count": 0,
    "new": 0,
    "ok": true,
-   "skipped": false
+   "skipped": true
   },
   "myhome": {
    "count": 104,
