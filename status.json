@@ -1,7 +1,7 @@
 {
- "lastPublished": "2026-11-23T16:50:38",
- "lastRun": "2026-11-23T16:50:38",
- "newNotices": 1,
+ "lastPublished": "2026-11-23T17:30:37",
+ "lastRun": "2026-11-23T17:30:37",
+ "newNotices": 0,
  "noticeCount": 210,
  "sources": {
   "applyhome": {
@@ -11,11 +11,10 @@
    "skipped": false
   },
   "myhome": {
-   "count": 106,
-   "new": 1,
-   "ok": true,
-   "skipped": false
+   "error": "<urlopen error timed out>",
+   "fails": 1,
+   "ok": false
   }
  },
- "topicMessages": 1
+ "topicMessages": 0
 }
