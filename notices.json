@@ -56,6 +56,420 @@
   ]
  },
  {
+  "address": "경기도 화성시 신동 동탄2택지개발지구(A57-2블럭)",
+  "agency": "주식회사 하이아트이앤씨",
+  "category": "불법행위 재공급",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "7b161a60ccde1667",
+  "id": "AH_2026930048_2026930048",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930048&pblancNo=2026930048",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026930048&pblancNo=2026930048&atchmnflSeqNo=2027422&atchmnflSn=3"
+  },
+  "maxGapManwon": null,
+  "rawHash": "5db920322e54983f",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "화성시",
+  "source": "applyhome",
+  "status": "",
+  "title": "동탄신도시 금강펜테리움 7차 센트럴파크 불법행위재공급",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 84.9676,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": null,
+    "market_basis": null,
+    "market_count": null,
+    "market_manwon": null,
+    "name": "084.9676A",
+    "price_manwon": 55320
+   }
+  ]
+ },
+ {
+  "address": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+  "agency": "(주)하이아트",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "55e366e713515fd8",
+  "id": "AH_2026910305_2026910305",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910305&pblancNo=2026910305",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910305&pblancNo=2026910305&atchmnflSeqNo=2023020&atchmnflSn=4"
+  },
+  "maxGapManwon": 10450,
+  "rawHash": "44d8495c16ee2baf",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "성남시",
+  "source": "applyhome",
+  "status": "",
+  "title": "판교TH212(2차)",
+  "totalUnits": 1,
+  "units": [
+   {
+    "area_m2": 128.8329,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 10450,
+    "market_basis": "분당구 신축 유사평형",
+    "market_count": 20,
+    "market_manwon": 169750,
+    "name": "128.8329C",
+    "price_manwon": 159300
+   }
+  ]
+ },
+ {
+  "address": "경기도 성남시 분당구 정자동 90번지",
+  "agency": "느티마을4단지 리모델링주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "97f78590bbf65158",
+  "id": "AH_2026910304_2026910304",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910304&pblancNo=2026910304",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910304&pblancNo=2026910304&atchmnflSeqNo=2027367&atchmnflSn=2"
+  },
+  "maxGapManwon": -66200,
+  "rawHash": "8eb6cccac9674e58",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "성남시",
+  "source": "applyhome",
+  "status": "",
+  "title": "더샵 분당하이스트(2차)",
+  "totalUnits": 34,
+  "units": [
+   {
+    "area_m2": 74.0,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -69950,
+    "market_basis": "정자동 유사평형",
+    "market_count": 18,
+    "market_manwon": 164250,
+    "name": "074.0000A",
+    "price_manwon": 234200
+   },
+   {
+    "area_m2": 74.44,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -66200,
+    "market_basis": "정자동 유사평형",
+    "market_count": 16,
+    "market_manwon": 164000,
+    "name": "074.4400D",
+    "price_manwon": 230200
+   },
+   {
+    "area_m2": 84.0,
+    "count_general": 18,
+    "count_special": 0,
+    "gap_manwon": -113850,
+    "market_basis": "정자동 신축 유사평형",
+    "market_count": 4,
+    "market_manwon": 184250,
+    "name": "084.0000A",
+    "price_manwon": 298100
+   },
+   {
+    "area_m2": 84.0,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -89650,
+    "market_basis": "정자동 신축 유사평형",
+    "market_count": 4,
+    "market_manwon": 184250,
+    "name": "084.0000C",
+    "price_manwon": 273900
+   },
+   {
+    "area_m2": 84.64,
+    "count_general": 12,
+    "count_special": 0,
+    "gap_manwon": -107750,
+    "market_basis": "정자동 신축 유사평형",
+    "market_count": 4,
+    "market_manwon": 184250,
+    "name": "084.6400G",
+    "price_manwon": 292000
+   }
+  ]
+ },
+ {
+  "address": "경기도 화성시 동탄구 동탄신리천로8길 17, 동탄신도시 금강펜테리움 7차 센트럴파크",
+  "agency": "주식회사 하이아트이앤씨",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "ae3c3888e5aa6683",
+  "id": "AH_2026910303_2026910303",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910303&pblancNo=2026910303",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910303&pblancNo=2026910303&atchmnflSeqNo=2027407&atchmnflSn=5"
+  },
+  "maxGapManwon": 22680,
+  "rawHash": "2100fcb7a4314832",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "화성시",
+  "source": "applyhome",
+  "status": "",
+  "title": "동탄신도시 금강펜테리움 7차 센트럴파크(2차)",
+  "totalUnits": 4,
+  "units": [
+   {
+    "area_m2": 84.9676,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 22680,
+    "market_basis": "동탄구 신축 유사평형",
+    "market_count": 790,
+    "market_manwon": 78000,
+    "name": "084.9676A",
+    "price_manwon": 55320
+   },
+   {
+    "area_m2": 84.9264,
+    "count_general": 3,
+    "count_special": 0,
+    "gap_manwon": 22190,
+    "market_basis": "동탄구 신축 유사평형",
+    "market_count": 790,
+    "market_manwon": 78000,
+    "name": "084.9264B",
+    "price_manwon": 55810
+   }
+  ]
+ },
+ {
+  "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
+  "agency": "(주)한화",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2026-12-04"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "72d85e0699aad4d7",
+  "id": "AH_2026910302_2026910302",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910302&pblancNo=2026910302",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910302&pblancNo=2026910302&atchmnflSeqNo=2022219&atchmnflSn=3"
+  },
+  "maxGapManwon": 4780,
+  "rawHash": "6427f7fbb8f3c274",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "수원시",
+  "source": "applyhome",
+  "status": "",
+  "title": "한화포레나 영흥숲(4차)",
+  "totalUnits": 2,
+  "units": [
+   {
+    "area_m2": 66.8113,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": 4780,
+    "market_basis": "동일단지",
+    "market_count": 4,
+    "market_manwon": 56000,
+    "name": "066.8113 ",
+    "price_manwon": 51220
+   },
+   {
+    "area_m2": 68.9883,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -1600,
+    "market_basis": "동일단지",
+    "market_count": 4,
+    "market_manwon": 56000,
+    "name": "068.9883 ",
+    "price_manwon": 57600
+   }
+  ]
+ },
+ {
+  "address": "경기도 이천시 안흥동 279-1번지 일원",
+  "agency": "안흥동 지역주택조합",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-12-01",
+   "applyStart": "2026-12-01",
+   "winner": "2026-12-04"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "b4ef265b2b86ee8f",
+  "id": "AH_2026910301_2026910301",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910301&pblancNo=2026910301",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910301&pblancNo=2026910301&atchmnflSeqNo=2022069&atchmnflSn=2"
+  },
+  "maxGapManwon": -16140,
+  "rawHash": "c76a243262915db2",
+  "sido": "경기",
+  "sidoFull": "경기도",
+  "sigungu": "이천시",
+  "source": "applyhome",
+  "status": "",
+  "title": "이천 서희스타힐스 SKY (조합원 취소분)",
+  "totalUnits": 3,
+  "units": [
+   {
+    "area_m2": 84.98,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -18550,
+    "market_basis": "동일단지",
+    "market_count": 3,
+    "market_manwon": 46910,
+    "name": "084.9800A",
+    "price_manwon": 65460
+   },
+   {
+    "area_m2": 84.99,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -16140,
+    "market_basis": "동일단지",
+    "market_count": 3,
+    "market_manwon": 46910,
+    "name": "084.9900C",
+    "price_manwon": 63050
+   }
+  ]
+ },
+ {
+  "address": "대구광역시 달서구 감삼동 599-51 (도로명주소 : 대구광역시 달서구 달구벌대로 1514)",
+  "agency": "(주)위성도시건설",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-24T01:00",
+  "hash": "497f1430270d522c",
+  "id": "AH_2026910289_2026910289",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910289&pblancNo=2026910289",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910289&pblancNo=2026910289&atchmnflSeqNo=2030016&atchmnflSn=5"
+  },
+  "maxGapManwon": -1750,
+  "rawHash": "1f25f1d87047c6a6",
+  "sido": "대구",
+  "sidoFull": "대구광역시",
+  "sigungu": "달서구",
+  "source": "applyhome",
+  "status": "",
+  "title": "이안 엑소디움 에이펙스",
+  "totalUnits": 6,
+  "units": [
+   {
+    "area_m2": 84.8856,
+    "count_general": 2,
+    "count_special": 0,
+    "gap_manwon": -2370,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 62600,
+    "name": "084.8856A",
+    "price_manwon": 64970
+   },
+   {
+    "area_m2": 84.9465,
+    "count_general": 3,
+    "count_special": 0,
+    "gap_manwon": -1750,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 62600,
+    "name": "084.9465B",
+    "price_manwon": 64350
+   },
+   {
+    "area_m2": 84.9213,
+    "count_general": 1,
+    "count_special": 0,
+    "gap_manwon": -3200,
+    "market_basis": "동일단지",
+    "market_count": 2,
+    "market_manwon": 62600,
+    "name": "084.9213C",
+    "price_manwon": 65800
+   }
+  ]
+ },
+ {
   "address": "부산광역시 수영구 수영로705번길 37-13 ",
   "agency": "LH",
   "category": "매입·전세임대",
