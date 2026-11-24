@@ -1186,7 +1186,7 @@
  },
  "MH_공공임대_21532": {
   "firstSeen": "2026-11-13T16:40",
-  "hash": "4f0d1f9cefe8bf4c",
+  "hash": "8be345d61c95b225",
   "rawHash": null
  },
  "MH_공공임대_21534": {
@@ -1386,7 +1386,7 @@
  },
  "MH_공공임대_21573": {
   "firstSeen": "2026-11-17T11:00",
-  "hash": "80b537b80eb3b3ad",
+  "hash": "135e4d1203bc1199",
   "rawHash": null
  },
  "MH_공공임대_21574": {
@@ -1461,12 +1461,12 @@
  },
  "MH_공공임대_21589": {
   "firstSeen": "2026-11-19T14:30",
-  "hash": "54d7a7ad5c748d09",
+  "hash": "2b21ca2601a2ff8e",
   "rawHash": null
  },
  "MH_공공임대_21590": {
   "firstSeen": "2026-11-19T14:50",
-  "hash": "b65680c006ccb417",
+  "hash": "e45a38de8b9f9d74",
   "rawHash": null
  },
  "MH_공공임대_21591": {
@@ -1516,17 +1516,22 @@
  },
  "MH_공공임대_21601": {
   "firstSeen": "2026-11-24T11:10",
-  "hash": "53aed8a6229f71c8",
+  "hash": "8037189a1625ab4e",
   "rawHash": null
  },
  "MH_공공임대_21604": {
   "firstSeen": "2026-11-24T14:30",
-  "hash": "888f72310b11a1b4",
+  "hash": "2c95ddfbefb64af0",
   "rawHash": null
  },
  "MH_공공임대_21605": {
   "firstSeen": "2026-11-24T14:37",
   "hash": "ce8a3a2682256876",
+  "rawHash": null
+ },
+ "MH_공공임대_21606": {
+  "firstSeen": "2026-11-24T15:50",
+  "hash": "74b16f65bf2ed307",
   "rawHash": null
  }
 }
