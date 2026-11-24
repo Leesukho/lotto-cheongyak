@@ -15,7 +15,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:30",
-  "hash": "2c95ddfbefb64af0",
+  "hash": "29c0fb407ac9401b",
   "id": "MH_공공임대_21604",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21604",
@@ -57,16 +57,6 @@
     "address": "",
     "count": 20,
     "deposit_won": null,
-    "name": "서울특별시 성북구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "성북구"
-   },
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
     "name": "서울특별시 은평구",
     "rent_won": null,
     "sido": "서울",
@@ -95,6 +85,16 @@
    },
    {
     "address": "",
+    "count": 25,
+    "deposit_won": null,
+    "name": "서울특별시 금천구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "금천구"
+   },
+   {
+    "address": "",
     "count": 20,
     "deposit_won": null,
     "name": "서울특별시 강동구",
@@ -105,13 +105,13 @@
    },
    {
     "address": "",
-    "count": 25,
+    "count": 20,
     "deposit_won": null,
-    "name": "서울특별시 금천구",
+    "name": "서울특별시 성북구",
     "rent_won": null,
     "sido": "서울",
     "sidoFull": "서울특별시",
-    "sigungu": "금천구"
+    "sigungu": "성북구"
    },
    {
     "address": "",
@@ -141,7 +141,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:37",
-  "hash": "ce8a3a2682256876",
+  "hash": "3a6580987d284e90",
   "id": "MH_공공임대_21605",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21605",
@@ -153,12 +153,22 @@
   "sidos": [
    "서울"
   ],
-  "sigungu": "은평구",
+  "sigungu": "강동구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[서울지역본부] 고령자 매입임대주택 예비입주자 모집공고",
   "totalUnits": 110,
   "units": [
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서울특별시 강동구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "강동구"
+   },
    {
     "address": "",
     "count": 90,
@@ -178,16 +188,6 @@
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "금천구"
-   },
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "서울특별시 강동구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "강동구"
    }
   ]
  },
@@ -234,6 +234,52 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "이천시"
+   }
+  ]
+ },
+ {
+  "address": "전북특별자치도 완주군 삼례읍 동학로 36-21 ",
+  "agency": "LH",
+  "category": "행복주택",
+  "dates": {
+   "announce": "2026-11-24",
+   "applyEnd": "2026-12-31",
+   "applyStart": "2026-12-10",
+   "winner": "2026-12-31"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-24T16:30",
+  "hash": "20a7e63e8a618e06",
+  "id": "MH_공공임대_21607",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21607&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021128&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "완주군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "완주삼례A-1 행복주택 입주자격완화 입주자 모집(동호지정,선계약후검증)",
+  "totalUnits": 5,
+  "units": [
+   {
+    "address": "전북특별자치도 완주군 삼례읍 동학로 36-21 ",
+    "count": 5,
+    "deposit_won": 13192000,
+    "name": "완주삼례A-1",
+    "rent_won": 68150,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "완주군"
    }
   ]
  },
@@ -969,7 +1015,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:30",
-  "hash": "2b21ca2601a2ff8e",
+  "hash": "54d7a7ad5c748d09",
   "id": "MH_공공임대_21589",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21589",
@@ -981,12 +1027,22 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "구리시",
+  "sigungu": "남양주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅱ(전세형) 예비입주자 모집 공고",
   "totalUnits": 62,
   "units": [
+   {
+    "address": "",
+    "count": 5,
+    "deposit_won": null,
+    "name": "경기도 남양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "남양주시"
+   },
    {
     "address": "",
     "count": 6,
@@ -996,6 +1052,16 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "구리시"
+   },
+   {
+    "address": "",
+    "count": 5,
+    "deposit_won": null,
+    "name": "경기도 파주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "파주시"
    },
    {
     "address": "",
@@ -1016,26 +1082,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "김포시"
-   },
-   {
-    "address": "",
-    "count": 5,
-    "deposit_won": null,
-    "name": "경기도 남양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "남양주시"
-   },
-   {
-    "address": "",
-    "count": 5,
-    "deposit_won": null,
-    "name": "경기도 파주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "파주시"
    },
    {
     "address": "",
@@ -1065,7 +1111,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:50",
-  "hash": "e45a38de8b9f9d74",
+  "hash": "d4ab94e447f21806",
   "id": "MH_공공임대_21590",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21590",
@@ -1077,12 +1123,22 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "파주시",
+  "sigungu": "의정부시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
   "totalUnits": 167,
   "units": [
+   {
+    "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "경기도 의정부시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "의정부시"
+   },
    {
     "address": "",
     "count": 78,
@@ -1095,13 +1151,23 @@
    },
    {
     "address": "",
-    "count": 8,
+    "count": 4,
     "deposit_won": null,
-    "name": "경기도 의정부시",
+    "name": "경기도 양주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "의정부시"
+    "sigungu": "양주시"
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경기도 구리시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
    },
    {
     "address": "",
@@ -1135,16 +1201,6 @@
    },
    {
     "address": "",
-    "count": 1,
-    "deposit_won": null,
-    "name": "경기도 구리시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "구리시"
-   },
-   {
-    "address": "",
     "count": 13,
     "deposit_won": null,
     "name": "경기도 김포시",
@@ -1152,16 +1208,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "김포시"
-   },
-   {
-    "address": "",
-    "count": 4,
-    "deposit_won": null,
-    "name": "경기도 양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "양주시"
    }
   ]
  },
@@ -1703,7 +1749,7 @@
    ]
   },
   "firstSeen": "2026-11-24T11:10",
-  "hash": "8037189a1625ab4e",
+  "hash": "0c2f4efaf66a6f41",
   "id": "MH_공공임대_21601",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21601",
@@ -1715,12 +1761,22 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "",
+  "sigungu": "가평군",
   "source": "myhome_rent",
   "status": "정정공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
   "totalUnits": 166,
   "units": [
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경기도 가평군",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "가평군"
+   },
    {
     "address": "",
     "count": 56,
@@ -1743,6 +1799,16 @@
    },
    {
     "address": "",
+    "count": 78,
+    "deposit_won": null,
+    "name": "경기도 파주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "파주시"
+   },
+   {
+    "address": "",
     "count": 8,
     "deposit_won": null,
     "name": "경기도 의정부시",
@@ -1750,16 +1816,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "의정부시"
-   },
-   {
-    "address": "",
-    "count": 1,
-    "deposit_won": null,
-    "name": "경기도 가평군",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "가평군"
    },
    {
     "address": "",
@@ -1773,16 +1829,6 @@
    },
    {
     "address": "",
-    "count": 6,
-    "deposit_won": null,
-    "name": "경기도 남양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "남양주시"
-   },
-   {
-    "address": "",
     "count": 3,
     "deposit_won": null,
     "name": "경기도 양주시",
@@ -1793,13 +1839,13 @@
    },
    {
     "address": "",
-    "count": 78,
+    "count": 6,
     "deposit_won": null,
-    "name": "경기도 파주시",
+    "name": "경기도 남양주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "파주시"
+    "sigungu": "남양주시"
    }
   ]
  },
@@ -5500,7 +5546,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "8be345d61c95b225",
+  "hash": "4f0d1f9cefe8bf4c",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -5512,22 +5558,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "당진시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
    {
     "address": "",
     "count": 44,
@@ -5537,6 +5573,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "당진시"
+   },
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
    },
    {
     "address": "",
