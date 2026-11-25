@@ -240,6 +240,84 @@
   ]
  },
  {
+  "address": "충청북도 청주시 서원구 장성동 135번지 일원(장성지구 A2블럭)",
+  "agency": "유한회사 에이치엠서빈",
+  "category": "무순위",
+  "dates": {
+   "announce": "2026-11-25",
+   "applyEnd": "2026-11-30",
+   "applyStart": "2026-11-30",
+   "winner": "2026-12-03"
+  },
+  "eligibility": {
+   "summary": [
+    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
+   ]
+  },
+  "firstSeen": "2026-11-26T01:00",
+  "hash": "0ad895e0794aaa54",
+  "id": "AH_2026910294_2026910294",
+  "links": {
+   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910294&pblancNo=2026910294",
+   "pdf": "https://static.applyhome.co.kr/ai/aia/getAtchmnfl.do?houseManageNo=2026910294&pblancNo=2026910294&atchmnflSeqNo=2031995&atchmnflSn=3"
+  },
+  "maxGapManwon": -9290,
+  "rawHash": "a22d6d7aed53b1a8",
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sigungu": "청주시",
+  "source": "applyhome",
+  "status": "",
+  "title": "신분평 에피트 더웨이시티",
+  "totalUnits": 395,
+  "units": [
+   {
+    "area_m2": 59.996,
+    "count_general": 24,
+    "count_special": 0,
+    "gap_manwon": -9290,
+    "market_basis": "서원구 신축 유사평형",
+    "market_count": 21,
+    "market_manwon": 30000,
+    "name": "059.9960B",
+    "price_manwon": 39290
+   },
+   {
+    "area_m2": 75.723,
+    "count_general": 41,
+    "count_special": 0,
+    "gap_manwon": -12290,
+    "market_basis": "서원구 신축 유사평형",
+    "market_count": 40,
+    "market_manwon": 33800,
+    "name": "075.7230A",
+    "price_manwon": 46090
+   },
+   {
+    "area_m2": 84.9568,
+    "count_general": 254,
+    "count_special": 0,
+    "gap_manwon": -12790,
+    "market_basis": "서원구 신축 유사평형",
+    "market_count": 59,
+    "market_manwon": 37300,
+    "name": "084.9568A",
+    "price_manwon": 50090
+   },
+   {
+    "area_m2": 112.8127,
+    "count_general": 76,
+    "count_special": 0,
+    "gap_manwon": -37890,
+    "market_basis": "서원구 유사평형",
+    "market_count": 5,
+    "market_manwon": 28000,
+    "name": "112.8127 ",
+    "price_manwon": 65890
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
