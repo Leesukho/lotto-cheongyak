@@ -2786,7 +2786,7 @@
   ]
  },
  {
-  "address": "충청북도 음성군 금왕읍 대금로 1557-13 ",
+  "address": "충청북도 음성군 감곡면 오향로 31 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -2801,10 +2801,10 @@
    ]
   },
   "firstSeen": "2026-11-16T13:50",
-  "hash": "5078fe714183f102",
+  "hash": "ba6144cd8e8b4372",
   "id": "MH_공공임대_21536",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=7",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21536&houseSn=6",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021090&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -2820,11 +2820,41 @@
   "totalUnits": 540,
   "units": [
    {
+    "address": "충청북도 음성군 감곡면 오향로 31 ",
+    "count": 50,
+    "deposit_won": 12243000,
+    "name": "음성감곡",
+    "rent_won": 108820,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   },
+   {
     "address": "충청북도 음성군 금왕읍 대금로 1557-13 ",
     "count": 60,
     "deposit_won": 9166000,
     "name": "음성금석1",
     "rent_won": 80500,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   },
+   {
+    "address": "충청북도 음성군 맹동면 대동로 26 ",
+    "count": 40,
+    "deposit_won": 10264000,
+    "name": "음성맹동",
+    "rent_won": 89800,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   },
+   {
+    "address": "충청북도 음성군 맹동면 이수로 31 ",
+    "count": 300,
+    "deposit_won": 8798000,
+    "name": "충북혁신1",
+    "rent_won": 157920,
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "음성군"
@@ -2845,36 +2875,6 @@
     "deposit_won": 10818000,
     "name": "음성삼성",
     "rent_won": 93490,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "음성군"
-   },
-   {
-    "address": "충청북도 음성군 맹동면 이수로 31 ",
-    "count": 300,
-    "deposit_won": 8798000,
-    "name": "충북혁신1",
-    "rent_won": 157920,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "음성군"
-   },
-   {
-    "address": "충청북도 음성군 감곡면 오향로 31 ",
-    "count": 50,
-    "deposit_won": 12243000,
-    "name": "음성감곡",
-    "rent_won": 108820,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "음성군"
-   },
-   {
-    "address": "충청북도 음성군 맹동면 대동로 26 ",
-    "count": 40,
-    "deposit_won": 10264000,
-    "name": "음성맹동",
-    "rent_won": 89800,
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "음성군"
@@ -12221,138 +12221,6 @@
     "sigungu": "서귀포시"
    }
   ]
- },
- {
-  "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
-  "agency": "(주)한화",
-  "category": "불법행위 재공급",
-  "dates": {
-   "announce": "2026-10-21",
-   "applyEnd": "2026-10-26",
-   "applyStart": "2026-10-26",
-   "winner": "2026-10-29"
-  },
-  "eligibility": {
-   "summary": [
-    "계약취소주택: 해당 시·군 거주 무주택세대주(일반분) · 청약통장 불필요 · 재당첨제한은 원 주택 기준"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "4bfac721971deb58",
-  "id": "AH_2026930044_2026930044",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026930044&pblancNo=2026930044",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "b60ad127088f438e",
-  "sido": "경기",
-  "sidoFull": "경기도",
-  "sigungu": "수원시",
-  "source": "applyhome",
-  "status": "",
-  "title": "한화포레나 영흥숲",
-  "totalUnits": 1,
-  "units": []
- },
- {
-  "address": "경기도 시흥시 시흥대로 1110",
-  "agency": "(주)다우개발",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-21",
-   "applyEnd": "2026-10-26",
-   "applyStart": "2026-10-26",
-   "winner": "2026-10-29"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "d9bcbabc9908b480",
-  "id": "AH_2026910268_2026910268",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910268&pblancNo=2026910268",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "0924417d8cf9c580",
-  "sido": "경기",
-  "sidoFull": "경기도",
-  "sigungu": "시흥시",
-  "source": "applyhome",
-  "status": "",
-  "title": "신천역 에피트(3차)",
-  "totalUnits": 8,
-  "units": []
- },
- {
-  "address": "울산광역시 남구 무거동 1615-1번지(무거삼호지구 11BL) 일원",
-  "agency": "(주)동원개발",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-21",
-   "applyEnd": "2026-10-26",
-   "applyStart": "2026-10-26",
-   "winner": "2026-10-29"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "1dec950cd7539e67",
-  "id": "AH_2026910266_2026910266",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910266&pblancNo=2026910266",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "98825eea813fafd2",
-  "sido": "울산",
-  "sidoFull": "울산광역시",
-  "sigungu": "남구",
-  "source": "applyhome",
-  "status": "",
-  "title": "문수로 비스타 더파크",
-  "totalUnits": 329,
-  "units": []
- },
- {
-  "address": "경기도 수원시 영통구 원천동 333-1번지 일원",
-  "agency": "(주)한화",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-21",
-   "applyEnd": "2026-10-26",
-   "applyStart": "2026-10-26",
-   "winner": "2026-10-29"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "3072398dbb82416a",
-  "id": "AH_2026910265_2026910265",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910265&pblancNo=2026910265",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "9fba7c241899a882",
-  "sido": "경기",
-  "sidoFull": "경기도",
-  "sigungu": "수원시",
-  "source": "applyhome",
-  "status": "",
-  "title": "한화포레나 영흥숲(3차)",
-  "totalUnits": 1,
-  "units": []
  },
  {
   "address": "",
