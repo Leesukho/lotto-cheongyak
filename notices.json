@@ -138,6 +138,52 @@
   ]
  },
  {
+  "address": "충청북도 음성군 맹동면 대하로 347 ",
+  "agency": "LH",
+  "category": "통합공공임대",
+  "dates": {
+   "announce": "2026-11-25",
+   "applyEnd": "2026-12-11",
+   "applyStart": "2026-12-07",
+   "winner": "2027-04-06"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-25T13:50",
+  "hash": "aac221001ea9023f",
+  "id": "MH_공공임대_21612",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21612&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021132&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=48&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "충북",
+  "sidoFull": "충청북도",
+  "sidos": [
+   "충북"
+  ],
+  "sigungu": "음성군",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "충북혁신클러스터 통합공공임대(일자리연계형 지원주택)",
+  "totalUnits": 300,
+  "units": [
+   {
+    "address": "충청북도 음성군 맹동면 대하로 347 ",
+    "count": 300,
+    "deposit_won": 5955000,
+    "name": "충북혁신(클러스터)",
+    "rent_won": 62660,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "음성군"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -153,7 +199,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:30",
-  "hash": "7fe48d9a76703c33",
+  "hash": "1a424f3b30561a91",
   "id": "MH_공공임대_21604",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21604",
@@ -165,12 +211,22 @@
   "sidos": [
    "서울"
   ],
-  "sigungu": "성북구",
+  "sigungu": "서대문구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[서울지역본부] 일반 매입임대주택 예비입주자 모집공고",
   "totalUnits": 215,
   "units": [
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "서울특별시 서대문구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "서대문구"
+   },
    {
     "address": "",
     "count": 20,
@@ -183,13 +239,43 @@
    },
    {
     "address": "",
-    "count": 20,
+    "count": 25,
     "deposit_won": null,
-    "name": "서울특별시 서대문구",
+    "name": "서울특별시 금천구",
     "rent_won": null,
     "sido": "서울",
     "sidoFull": "서울특별시",
-    "sigungu": "서대문구"
+    "sigungu": "금천구"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서울특별시 노원구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "노원구"
+   },
+   {
+    "address": "",
+    "count": 50,
+    "deposit_won": null,
+    "name": "서울특별시 강서구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "강서구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "서울특별시 동대문구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "동대문구"
    },
    {
     "address": "",
@@ -205,61 +291,21 @@
     "address": "",
     "count": 20,
     "deposit_won": null,
-    "name": "서울특별시 은평구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "은평구"
-   },
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
-    "name": "서울특별시 동대문구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "동대문구"
-   },
-   {
-    "address": "",
-    "count": 50,
-    "deposit_won": null,
-    "name": "서울특별시 강서구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "강서구"
-   },
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "서울특별시 노원구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "노원구"
-   },
-   {
-    "address": "",
-    "count": 25,
-    "deposit_won": null,
-    "name": "서울특별시 금천구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "금천구"
-   },
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
     "name": "서울특별시 강동구",
     "rent_won": null,
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "강동구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
+    "name": "서울특별시 은평구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "은평구"
    }
   ]
  },
@@ -279,7 +325,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:37",
-  "hash": "3a6580987d284e90",
+  "hash": "ce8a3a2682256876",
   "id": "MH_공공임대_21605",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21605",
@@ -291,22 +337,12 @@
   "sidos": [
    "서울"
   ],
-  "sigungu": "강동구",
+  "sigungu": "은평구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[서울지역본부] 고령자 매입임대주택 예비입주자 모집공고",
   "totalUnits": 110,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "서울특별시 강동구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "강동구"
-   },
    {
     "address": "",
     "count": 90,
@@ -326,6 +362,16 @@
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "금천구"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서울특별시 강동구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "강동구"
    }
   ]
  },
@@ -1887,7 +1933,7 @@
    ]
   },
   "firstSeen": "2026-11-24T11:10",
-  "hash": "4fad0355c56c14d7",
+  "hash": "fb2ac98ca1f1d55f",
   "id": "MH_공공임대_21601",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21601",
@@ -1899,22 +1945,12 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "파주시",
+  "sigungu": "의정부시",
   "source": "myhome_rent",
   "status": "정정공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
   "totalUnits": 166,
   "units": [
-   {
-    "address": "",
-    "count": 78,
-    "deposit_won": null,
-    "name": "경기도 파주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "파주시"
-   },
    {
     "address": "",
     "count": 8,
@@ -1924,16 +1960,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "의정부시"
-   },
-   {
-    "address": "",
-    "count": 1,
-    "deposit_won": null,
-    "name": "경기도 구리시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "구리시"
    },
    {
     "address": "",
@@ -1954,6 +1980,26 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "가평군"
+   },
+   {
+    "address": "",
+    "count": 1,
+    "deposit_won": null,
+    "name": "경기도 구리시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "구리시"
+   },
+   {
+    "address": "",
+    "count": 78,
+    "deposit_won": null,
+    "name": "경기도 파주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "파주시"
    },
    {
     "address": "",
@@ -5015,7 +5061,7 @@
   ]
  },
  {
-  "address": "경상남도 양산시 물금읍 물금2길 50 ",
+  "address": "경상남도 양산시 동면 금산2길 12 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -5030,10 +5076,10 @@
    ]
   },
   "firstSeen": "2026-11-17T11:20",
-  "hash": "6d8e8a06c89cfb10",
+  "hash": "af2a83c59ffdad0b",
   "id": "MH_공공임대_21575",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=2",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=12",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021069&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -5048,16 +5094,6 @@
   "title": "양산시 국민임대주택 예비입주자 완화 모집(‘26.11.16)_소득, 자산, 무주택 요건 완화 / 계약금 인하",
   "totalUnits": 230,
   "units": [
-   {
-    "address": "경상남도 양산시 물금읍 물금2길 50 ",
-    "count": 20,
-    "deposit_won": 12478000,
-    "name": "양산물금2",
-    "rent_won": 227860,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "양산시"
-   },
    {
     "address": "경상남도 양산시 동면 금산2길 12 ",
     "count": 20,
@@ -5074,6 +5110,16 @@
     "deposit_won": 12634000,
     "name": "양산물금1",
     "rent_won": 226660,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 물금읍 물금2길 50 ",
+    "count": 20,
+    "deposit_won": 12478000,
+    "name": "양산물금2",
+    "rent_won": 227860,
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "양산시"
