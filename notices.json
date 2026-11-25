@@ -199,7 +199,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:30",
-  "hash": "1a424f3b30561a91",
+  "hash": "e3e0e70995b7a34b",
   "id": "MH_공공임대_21604",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21604",
@@ -271,6 +271,16 @@
     "address": "",
     "count": 20,
     "deposit_won": null,
+    "name": "서울특별시 은평구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "은평구"
+   },
+   {
+    "address": "",
+    "count": 20,
+    "deposit_won": null,
     "name": "서울특별시 동대문구",
     "rent_won": null,
     "sido": "서울",
@@ -296,16 +306,6 @@
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "강동구"
-   },
-   {
-    "address": "",
-    "count": 20,
-    "deposit_won": null,
-    "name": "서울특별시 은평구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "은평구"
    }
   ]
  },
@@ -325,7 +325,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:37",
-  "hash": "ce8a3a2682256876",
+  "hash": "3a6580987d284e90",
   "id": "MH_공공임대_21605",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21605",
@@ -337,12 +337,22 @@
   "sidos": [
    "서울"
   ],
-  "sigungu": "은평구",
+  "sigungu": "강동구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[서울지역본부] 고령자 매입임대주택 예비입주자 모집공고",
   "totalUnits": 110,
   "units": [
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서울특별시 강동구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "강동구"
+   },
    {
     "address": "",
     "count": 90,
@@ -362,16 +372,6 @@
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "금천구"
-   },
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "서울특별시 강동구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "강동구"
    }
   ]
  },
@@ -1933,7 +1933,7 @@
    ]
   },
   "firstSeen": "2026-11-24T11:10",
-  "hash": "fb2ac98ca1f1d55f",
+  "hash": "dd41eb1cf66529a1",
   "id": "MH_공공임대_21601",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21601",
@@ -1945,22 +1945,12 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "의정부시",
+  "sigungu": "",
   "source": "myhome_rent",
   "status": "정정공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
   "totalUnits": 166,
   "units": [
-   {
-    "address": "",
-    "count": 8,
-    "deposit_won": null,
-    "name": "경기도 의정부시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "의정부시"
-   },
    {
     "address": "",
     "count": 56,
@@ -1993,6 +1983,36 @@
    },
    {
     "address": "",
+    "count": 8,
+    "deposit_won": null,
+    "name": "경기도 의정부시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "의정부시"
+   },
+   {
+    "address": "",
+    "count": 6,
+    "deposit_won": null,
+    "name": "경기도 남양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "남양주시"
+   },
+   {
+    "address": "",
+    "count": 3,
+    "deposit_won": null,
+    "name": "경기도 양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "양주시"
+   },
+   {
+    "address": "",
     "count": 78,
     "deposit_won": null,
     "name": "경기도 파주시",
@@ -2010,26 +2030,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "김포시"
-   },
-   {
-    "address": "",
-    "count": 3,
-    "deposit_won": null,
-    "name": "경기도 양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "양주시"
-   },
-   {
-    "address": "",
-    "count": 6,
-    "deposit_won": null,
-    "name": "경기도 남양주시",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "남양주시"
    }
   ]
  },
@@ -2465,7 +2465,7 @@
    ]
   },
   "firstSeen": "2026-11-16T13:30",
-  "hash": "5c29f34301e7b12f",
+  "hash": "6f2514eb10929bc6",
   "id": "MH_공공임대_21534",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21534&houseSn=3",
@@ -2494,6 +2494,16 @@
     "sigungu": "기장군"
    },
    {
+    "address": "부산광역시 기장군 장안읍 신좌천로 7 ",
+    "count": 50,
+    "deposit_won": 10514000,
+    "name": "부산장안",
+    "rent_won": 150600,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
     "address": "부산광역시 기장군 정관읍 산단4로 160 ",
     "count": 140,
     "deposit_won": 31575000,
@@ -2509,16 +2519,6 @@
     "deposit_won": 26386000,
     "name": "부산정관5",
     "rent_won": 317410,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "기장군"
-   },
-   {
-    "address": "부산광역시 기장군 장안읍 신좌천로 7 ",
-    "count": 50,
-    "deposit_won": 10514000,
-    "name": "부산장안",
-    "rent_won": 150600,
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "기장군"
@@ -4990,7 +4990,7 @@
    ]
   },
   "firstSeen": "2026-11-17T11:20",
-  "hash": "f360964c881e5142",
+  "hash": "66d4d8f49f3c0f60",
   "id": "MH_공공임대_21576",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21576&houseSn=1",
@@ -5029,6 +5029,16 @@
     "sigungu": "양산시"
    },
    {
+    "address": "경상남도 양산시 배움터길 11 ",
+    "count": 80,
+    "deposit_won": 12059000,
+    "name": "평산휴먼시아",
+    "rent_won": 112170,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
     "address": "경상남도 양산시 동면 금산2길 12 ",
     "count": 20,
     "deposit_won": 12137000,
@@ -5047,21 +5057,11 @@
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "양산시"
-   },
-   {
-    "address": "경상남도 양산시 배움터길 11 ",
-    "count": 80,
-    "deposit_won": 12059000,
-    "name": "평산휴먼시아",
-    "rent_won": 112170,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "양산시"
    }
   ]
  },
  {
-  "address": "경상남도 양산시 동면 금산2길 12 ",
+  "address": "경상남도 양산시 물금읍 청운로 41 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -5076,10 +5076,10 @@
    ]
   },
   "firstSeen": "2026-11-17T11:20",
-  "hash": "af2a83c59ffdad0b",
+  "hash": "09c9d6fbd10c9367",
   "id": "MH_공공임대_21575",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=12",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=1",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021069&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -5094,16 +5094,6 @@
   "title": "양산시 국민임대주택 예비입주자 완화 모집(‘26.11.16)_소득, 자산, 무주택 요건 완화 / 계약금 인하",
   "totalUnits": 230,
   "units": [
-   {
-    "address": "경상남도 양산시 동면 금산2길 12 ",
-    "count": 20,
-    "deposit_won": 12137000,
-    "name": "금산휴먼시아",
-    "rent_won": 101150,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "양산시"
-   },
    {
     "address": "경상남도 양산시 물금읍 청운로 41 ",
     "count": 30,
@@ -5120,6 +5110,16 @@
     "deposit_won": 12478000,
     "name": "양산물금2",
     "rent_won": 227860,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 동면 금산2길 12 ",
+    "count": 20,
+    "deposit_won": 12137000,
+    "name": "금산휴먼시아",
+    "rent_won": 101150,
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "양산시"
@@ -5715,6 +5715,72 @@
   ]
  },
  {
+  "address": "대전광역시 유성구 도안대로 560 ",
+  "agency": "LH",
+  "category": "국민임대",
+  "dates": {
+   "announce": "2026-11-16",
+   "applyEnd": "2026-12-14",
+   "applyStart": "2026-12-09",
+   "winner": "2027-03-30"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-25T14:20",
+  "hash": "5c8a239db31c9c84",
+  "id": "MH_공공임대_21613",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21613&houseSn=3",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021135&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "대전",
+  "sidoFull": "대전광역시",
+  "sidos": [
+   "대전"
+  ],
+  "sigungu": "유성구",
+  "source": "myhome_rent",
+  "status": "정정공고",
+  "title": "대전광역시 유성구 국민임대 예비입주자모집공고(2026.11.16)",
+  "totalUnits": 280,
+  "units": [
+   {
+    "address": "대전광역시 유성구 도안대로 560 ",
+    "count": 120,
+    "deposit_won": 20426000,
+    "name": "대전도안 1단지",
+    "rent_won": 153860,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
+   },
+   {
+    "address": "대전광역시 유성구 원신흥로 37 ",
+    "count": 110,
+    "deposit_won": 20426000,
+    "name": "대전도안 10단지",
+    "rent_won": 127990,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
+   },
+   {
+    "address": "대전광역시 유성구 봉명로 16 ",
+    "count": 50,
+    "deposit_won": 12598000,
+    "name": "대전도안 11단지",
+    "rent_won": 181690,
+    "sido": "대전",
+    "sidoFull": "대전광역시",
+    "sigungu": "유성구"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -5730,7 +5796,7 @@
    ]
   },
   "firstSeen": "2026-11-13T16:40",
-  "hash": "763fdddcec0e2dd7",
+  "hash": "83c80caab54c0775",
   "id": "MH_공공임대_21532",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21532",
@@ -5742,22 +5808,12 @@
   "sidos": [
    "충남"
   ],
-  "sigungu": "천안시 서북구",
+  "sigungu": "아산시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대전·충남] 2026년 2차 든든전세주택 입주자 모집공고 (분양전환형)",
   "totalUnits": 106,
   "units": [
-   {
-    "address": "",
-    "count": 33,
-    "deposit_won": null,
-    "name": "충청남도 천안시 서북구",
-    "rent_won": null,
-    "sido": "충남",
-    "sidoFull": "충청남도",
-    "sigungu": "천안시 서북구"
-   },
    {
     "address": "",
     "count": 29,
@@ -5767,6 +5823,16 @@
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "아산시"
+   },
+   {
+    "address": "",
+    "count": 33,
+    "deposit_won": null,
+    "name": "충청남도 천안시 서북구",
+    "rent_won": null,
+    "sido": "충남",
+    "sidoFull": "충청남도",
+    "sigungu": "천안시 서북구"
    },
    {
     "address": "",
