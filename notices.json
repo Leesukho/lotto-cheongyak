@@ -92,6 +92,52 @@
   ]
  },
  {
+  "address": "전북특별자치도 익산시 부송1로 17 ",
+  "agency": "LH",
+  "category": "5·10년 공공임대",
+  "dates": {
+   "announce": "2026-11-25",
+   "applyEnd": "2026-12-09",
+   "applyStart": "2026-12-09",
+   "winner": "2027-02-05"
+  },
+  "eligibility": {
+   "summary": [
+    "무주택 세대구성원 + 유형별 소득·자산 기준 (청년·신혼·고령자 등 계층별로 다름)"
+   ]
+  },
+  "firstSeen": "2026-11-25T13:40",
+  "hash": "31f279f0617d56a5",
+  "id": "MH_공공임대_21611",
+  "links": {
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21611&houseSn=1",
+   "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021129&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026"
+  },
+  "maxGapManwon": null,
+  "sido": "전북",
+  "sidoFull": "전북특별자치도",
+  "sidos": [
+   "전북"
+  ],
+  "sigungu": "익산시",
+  "source": "myhome_rent",
+  "status": "일반공고",
+  "title": "익산어양4단지 50년 공공임대주택 예비입주자 모집",
+  "totalUnits": 35,
+  "units": [
+   {
+    "address": "전북특별자치도 익산시 부송1로 17 ",
+    "count": 35,
+    "deposit_won": 14171000,
+    "name": "익산어양4단지",
+    "rent_won": 205310,
+    "sido": "전북",
+    "sidoFull": "전북특별자치도",
+    "sigungu": "익산시"
+   }
+  ]
+ },
+ {
   "address": "",
   "agency": "LH",
   "category": "매입·전세임대",
@@ -233,7 +279,7 @@
    ]
   },
   "firstSeen": "2026-11-24T14:37",
-  "hash": "edc63b93aeeb9ee8",
+  "hash": "3a6580987d284e90",
   "id": "MH_공공임대_21605",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21605",
@@ -245,22 +291,12 @@
   "sidos": [
    "서울"
   ],
-  "sigungu": "금천구",
+  "sigungu": "강동구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[서울지역본부] 고령자 매입임대주택 예비입주자 모집공고",
   "totalUnits": 110,
   "units": [
-   {
-    "address": "",
-    "count": 10,
-    "deposit_won": null,
-    "name": "서울특별시 금천구",
-    "rent_won": null,
-    "sido": "서울",
-    "sidoFull": "서울특별시",
-    "sigungu": "금천구"
-   },
    {
     "address": "",
     "count": 10,
@@ -280,6 +316,16 @@
     "sido": "서울",
     "sidoFull": "서울특별시",
     "sigungu": "은평구"
+   },
+   {
+    "address": "",
+    "count": 10,
+    "deposit_won": null,
+    "name": "서울특별시 금천구",
+    "rent_won": null,
+    "sido": "서울",
+    "sidoFull": "서울특별시",
+    "sigungu": "금천구"
    }
   ]
  },
@@ -4969,7 +5015,7 @@
   ]
  },
  {
-  "address": "경상남도 양산시 물금읍 청운로 41 ",
+  "address": "경상남도 양산시 물금읍 물금2길 50 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -4984,10 +5030,10 @@
    ]
   },
   "firstSeen": "2026-11-17T11:20",
-  "hash": "09c9d6fbd10c9367",
+  "hash": "6d8e8a06c89cfb10",
   "id": "MH_공공임대_21575",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=1",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21575&houseSn=2",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021069&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -5002,16 +5048,6 @@
   "title": "양산시 국민임대주택 예비입주자 완화 모집(‘26.11.16)_소득, 자산, 무주택 요건 완화 / 계약금 인하",
   "totalUnits": 230,
   "units": [
-   {
-    "address": "경상남도 양산시 물금읍 청운로 41 ",
-    "count": 30,
-    "deposit_won": 12634000,
-    "name": "양산물금1",
-    "rent_won": 226660,
-    "sido": "경남",
-    "sidoFull": "경상남도",
-    "sigungu": "양산시"
-   },
    {
     "address": "경상남도 양산시 물금읍 물금2길 50 ",
     "count": 20,
@@ -5028,6 +5064,16 @@
     "deposit_won": 12137000,
     "name": "금산휴먼시아",
     "rent_won": 101150,
+    "sido": "경남",
+    "sidoFull": "경상남도",
+    "sigungu": "양산시"
+   },
+   {
+    "address": "경상남도 양산시 물금읍 청운로 41 ",
+    "count": 30,
+    "deposit_won": 12634000,
+    "name": "양산물금1",
+    "rent_won": 226660,
     "sido": "경남",
     "sidoFull": "경상남도",
     "sigungu": "양산시"
