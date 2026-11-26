@@ -2,13 +2,13 @@
  "files": {
   "busan": 363,
   "chungbuk": 518,
-  "chungnam": 713,
+  "chungnam": 714,
   "daegu": 288,
   "daejeon": 135,
   "gangwon": 536,
   "gwangju": 996,
   "gyeongbuk": 735,
-  "gyeonggi": 1290,
+  "gyeonggi": 1291,
   "gyeongnam": 662,
   "incheon": 350,
   "jeju": 171,
@@ -20,6 +20,6 @@
   "ulsan": 216
  },
  "schema": 2,
- "total": 10455,
- "updated": "2026-11-26T09:20:29"
+ "total": 10457,
+ "updated": "2026-11-27T05:28:47"
 }
