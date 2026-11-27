@@ -1895,7 +1895,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:30",
-  "hash": "2ae00edfdae82358",
+  "hash": "e74b203e8f4b5796",
   "id": "MH_공공임대_21589",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21589",
@@ -1907,7 +1907,7 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "의정부시",
+  "sigungu": "파주시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅱ(전세형) 예비입주자 모집 공고",
@@ -1915,23 +1915,13 @@
   "units": [
    {
     "address": "",
-    "count": 4,
+    "count": 5,
     "deposit_won": null,
-    "name": "경기도 의정부시",
+    "name": "경기도 파주시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "의정부시"
-   },
-   {
-    "address": "",
-    "count": 12,
-    "deposit_won": null,
-    "name": "경기도",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": ""
+    "sigungu": "파주시"
    },
    {
     "address": "",
@@ -1945,13 +1935,13 @@
    },
    {
     "address": "",
-    "count": 5,
+    "count": 4,
     "deposit_won": null,
-    "name": "경기도 파주시",
+    "name": "경기도 의정부시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "파주시"
+    "sigungu": "의정부시"
    },
    {
     "address": "",
@@ -1962,6 +1952,16 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "남양주시"
+   },
+   {
+    "address": "",
+    "count": 12,
+    "deposit_won": null,
+    "name": "경기도",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": ""
    },
    {
     "address": "",
@@ -1991,7 +1991,7 @@
    ]
   },
   "firstSeen": "2026-11-19T14:50",
-  "hash": "3d22824ca0983347",
+  "hash": "20fb429a3847651e",
   "id": "MH_공공임대_21590",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21590",
@@ -2003,7 +2003,7 @@
   "sidos": [
    "경기"
   ],
-  "sigungu": "남양주시",
+  "sigungu": "김포시",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[경기북부] 2026년 3차 신혼·신생아 매입임대Ⅰ예비입주자 모집 공고",
@@ -2011,23 +2011,23 @@
   "units": [
    {
     "address": "",
-    "count": 6,
+    "count": 13,
     "deposit_won": null,
-    "name": "경기도 남양주시",
+    "name": "경기도 김포시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "남양주시"
+    "sigungu": "김포시"
    },
    {
     "address": "",
-    "count": 56,
+    "count": 1,
     "deposit_won": null,
-    "name": "경기도",
+    "name": "경기도 구리시",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": ""
+    "sigungu": "구리시"
    },
    {
     "address": "",
@@ -2038,16 +2038,6 @@
     "sido": "경기",
     "sidoFull": "경기도",
     "sigungu": "양주시"
-   },
-   {
-    "address": "",
-    "count": 1,
-    "deposit_won": null,
-    "name": "경기도 가평군",
-    "rent_won": null,
-    "sido": "경기",
-    "sidoFull": "경기도",
-    "sigungu": "가평군"
    },
    {
     "address": "",
@@ -2073,21 +2063,31 @@
     "address": "",
     "count": 1,
     "deposit_won": null,
-    "name": "경기도 구리시",
+    "name": "경기도 가평군",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "구리시"
+    "sigungu": "가평군"
    },
    {
     "address": "",
-    "count": 13,
+    "count": 56,
     "deposit_won": null,
-    "name": "경기도 김포시",
+    "name": "경기도",
     "rent_won": null,
     "sido": "경기",
     "sidoFull": "경기도",
-    "sigungu": "김포시"
+    "sigungu": ""
+   },
+   {
+    "address": "",
+    "count": 6,
+    "deposit_won": null,
+    "name": "경기도 남양주시",
+    "rent_won": null,
+    "sido": "경기",
+    "sidoFull": "경기도",
+    "sigungu": "남양주시"
    }
   ]
  },
@@ -2183,7 +2183,7 @@
    ]
   },
   "firstSeen": "2026-11-19T17:40",
-  "hash": "9838971c1afd53f1",
+  "hash": "345a13bec2d03db8",
   "id": "MH_공공임대_21593",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21593",
@@ -2195,22 +2195,12 @@
   "sidos": [
    "대구"
   ],
-  "sigungu": "달성군",
+  "sigungu": "달서구",
   "source": "myhome_rent",
   "status": "일반공고",
   "title": "[대구시 달서구,달성군] 일반 매입임대 입주자 모집공고",
   "totalUnits": 40,
   "units": [
-   {
-    "address": "",
-    "count": 12,
-    "deposit_won": null,
-    "name": "대구광역시 달성군",
-    "rent_won": null,
-    "sido": "대구",
-    "sidoFull": "대구광역시",
-    "sigungu": "달성군"
-   },
    {
     "address": "",
     "count": 28,
@@ -2220,6 +2210,16 @@
     "sido": "대구",
     "sidoFull": "대구광역시",
     "sigungu": "달서구"
+   },
+   {
+    "address": "",
+    "count": 12,
+    "deposit_won": null,
+    "name": "대구광역시 달성군",
+    "rent_won": null,
+    "sido": "대구",
+    "sidoFull": "대구광역시",
+    "sigungu": "달성군"
    }
   ]
  },
@@ -3202,7 +3202,7 @@
   ]
  },
  {
-  "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
+  "address": "부산광역시 기장군 정관읍 산단4로 160 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -3217,10 +3217,10 @@
    ]
   },
   "firstSeen": "2026-11-16T13:30",
-  "hash": "5c29f34301e7b12f",
+  "hash": "dda74bade3cfc5b1",
   "id": "MH_공공임대_21534",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21534&houseSn=3",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21534&houseSn=4",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021070&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -3235,16 +3235,6 @@
   "title": "부산광역시 국민임대주택 예비입주자 정례모집 공고(2026.11.16.)",
   "totalUnits": 410,
   "units": [
-   {
-    "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
-    "count": 80,
-    "deposit_won": 18566000,
-    "name": "부산고촌",
-    "rent_won": 127870,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "기장군"
-   },
    {
     "address": "부산광역시 기장군 정관읍 산단4로 160 ",
     "count": 140,
@@ -3266,21 +3256,31 @@
     "sigungu": "기장군"
    },
    {
-    "address": "부산광역시 기장군 장안읍 신좌천로 7 ",
-    "count": 50,
-    "deposit_won": 10514000,
-    "name": "부산장안",
-    "rent_won": 150600,
-    "sido": "부산",
-    "sidoFull": "부산광역시",
-    "sigungu": "기장군"
-   },
-   {
     "address": "부산광역시 기장군 기장읍 차성로397번길 7 ",
     "count": 80,
     "deposit_won": 12885000,
     "name": "부산기장교리",
     "rent_won": 117650,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 철마면 고촌로44번길 16 ",
+    "count": 80,
+    "deposit_won": 18566000,
+    "name": "부산고촌",
+    "rent_won": 127870,
+    "sido": "부산",
+    "sidoFull": "부산광역시",
+    "sigungu": "기장군"
+   },
+   {
+    "address": "부산광역시 기장군 장안읍 신좌천로 7 ",
+    "count": 50,
+    "deposit_won": 10514000,
+    "name": "부산장안",
+    "rent_won": 150600,
     "sido": "부산",
     "sidoFull": "부산광역시",
     "sigungu": "기장군"
@@ -3578,7 +3578,7 @@
   ]
  },
  {
-  "address": "충청북도 증평군 증평읍 송산로 53 ",
+  "address": "충청북도 증평군 증평읍 송산로 35 ",
   "agency": "LH",
   "category": "국민임대",
   "dates": {
@@ -3593,10 +3593,10 @@
    ]
   },
   "firstSeen": "2026-11-16T14:00",
-  "hash": "b0cfd77d8bad5aa7",
+  "hash": "c56840a67f78e7a8",
   "id": "MH_공공임대_21539",
   "links": {
-   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21539&houseSn=3",
+   "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21539&houseSn=2",
    "pdf": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021076&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026"
   },
   "maxGapManwon": null,
@@ -3611,6 +3611,16 @@
   "title": "증평군지역 국민임대주택 예비입주자 모집[2026.11.16]",
   "totalUnits": 570,
   "units": [
+   {
+    "address": "충청북도 증평군 증평읍 송산로 35 ",
+    "count": 110,
+    "deposit_won": 9882000,
+    "name": "증평송산1",
+    "rent_won": 88130,
+    "sido": "충북",
+    "sidoFull": "충청북도",
+    "sigungu": "증평군"
+   },
    {
     "address": "충청북도 증평군 증평읍 송산로 53 ",
     "count": 130,
@@ -3637,16 +3647,6 @@
     "deposit_won": 14976000,
     "name": "증평장동",
     "rent_won": 127570,
-    "sido": "충북",
-    "sidoFull": "충청북도",
-    "sigungu": "증평군"
-   },
-   {
-    "address": "충청북도 증평군 증평읍 송산로 35 ",
-    "count": 110,
-    "deposit_won": 9882000,
-    "name": "증평송산1",
-    "rent_won": 88130,
     "sido": "충북",
     "sidoFull": "충청북도",
     "sigungu": "증평군"
@@ -6376,7 +6376,7 @@
    ]
   },
   "firstSeen": "2026-11-18T17:30",
-  "hash": "a0cfbf79fd61501d",
+  "hash": "d6428bd630195261",
   "id": "MH_공공임대_21585",
   "links": {
    "myhome": "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=21585&houseSn=2",
@@ -6405,11 +6405,11 @@
     "sigungu": "아산시"
    },
    {
-    "address": "충청남도 천안시 서북구 성환읍 율금1길 309 ",
-    "count": 45,
-    "deposit_won": 12413000,
-    "name": "천안대영한아름",
-    "rent_won": 85610,
+    "address": "충청남도 천안시 서북구 성거읍 망향로 811 ",
+    "count": 4,
+    "deposit_won": 6220000,
+    "name": "천안금정샛별",
+    "rent_won": 150670,
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
@@ -6455,11 +6455,11 @@
     "sigungu": "아산시"
    },
    {
-    "address": "충청남도 천안시 서북구 성거읍 망향로 811 ",
-    "count": 4,
-    "deposit_won": 6220000,
-    "name": "천안금정샛별",
-    "rent_won": 150670,
+    "address": "충청남도 천안시 서북구 성환읍 율금1길 309 ",
+    "count": 45,
+    "deposit_won": 12413000,
+    "name": "천안대영한아름",
+    "rent_won": 85610,
     "sido": "충남",
     "sidoFull": "충청남도",
     "sigungu": "천안시 서북구"
@@ -12483,39 +12483,6 @@
     "sigungu": "시흥시"
    }
   ]
- },
- {
-  "address": "인천광역시 연수구 송도동 397-2",
-  "agency": "송도랜드마크시티 유한회사",
-  "category": "무순위",
-  "dates": {
-   "announce": "2026-10-22",
-   "applyEnd": "2026-10-28",
-   "applyStart": "2026-10-27",
-   "winner": "2026-11-02"
-  },
-  "eligibility": {
-   "summary": [
-    "성년 무주택세대구성원 · 청약통장 불필요 · 거주요건(시·도/광역권/전국)은 공고별 지정"
-   ]
-  },
-  "firstSeen": "2026-11-03T22:50",
-  "hash": "9469f292248ff5b1",
-  "id": "AH_2026910271_2026910271",
-  "links": {
-   "applyhome": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910271&pblancNo=2026910271",
-   "pdf": null
-  },
-  "maxGapManwon": null,
-  "rawHash": "8de32a46409bd550",
-  "sido": "인천",
-  "sidoFull": "인천광역시",
-  "sigungu": "연수구",
-  "source": "applyhome",
-  "status": "",
-  "title": "힐스테이트 레이크 송도 4차(2차)",
-  "totalUnits": 8,
-  "units": []
  },
  {
   "address": "",
