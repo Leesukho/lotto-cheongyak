@@ -4,7 +4,7 @@
   "chungbuk": 518,
   "chungnam": 714,
   "daegu": 288,
-  "daejeon": 135,
+  "daejeon": 134,
   "gangwon": 536,
   "gwangju": 996,
   "gyeongbuk": 735,
@@ -20,6 +20,6 @@
   "ulsan": 216
  },
  "schema": 2,
- "total": 10457,
- "updated": "2026-11-27T05:28:47"
+ "total": 10456,
+ "updated": "2026-11-28T01:30:45"
 }
