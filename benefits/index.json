@@ -8,18 +8,18 @@
   "gangwon": 536,
   "gwangju": 996,
   "gyeongbuk": 735,
-  "gyeonggi": 1291,
+  "gyeonggi": 1292,
   "gyeongnam": 662,
   "incheon": 350,
   "jeju": 171,
   "jeonbuk": 670,
   "jeonnam": 1005,
-  "national": 1606,
+  "national": 1607,
   "sejong": 75,
-  "seoul": 1113,
+  "seoul": 1105,
   "ulsan": 216
  },
  "schema": 2,
- "total": 10456,
- "updated": "2026-11-28T01:30:45"
+ "total": 10450,
+ "updated": "2026-11-28T21:40:28"
 }
